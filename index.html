@@ -1,52 +1,87 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>정부 유튜브 구독자 비교</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    #status { margin: 12px 0; padding: 10px; background: #f4f4f4; border-radius: 8px; }
+    #error { margin: 12px 0; padding: 10px; background: #ffeaea; color: #b00020; border-radius: 8px; white-space: pre-wrap; }
+  </style>
 </head>
 <body>
 
 <h2>정부 유튜브 구독자 비교</h2>
+<div id="status">불러오는 중...</div>
+<div id="error"></div>
 <canvas id="chart" width="400" height="200"></canvas>
 
 <script>
-const API_KEY = "AIzaSyB4gl_LH1wbiTQLLE6gZ0LHyhsBb6CBE2M
-";
+const API_KEY = "AIzaSyB4gl_LH1wbiTQLLE6gZ0LHyhsBb6CBE2M";
 
 const channels = [
-  { name: "농식품부", id: "UCtF8qHj8c7s8wYk5YdZk8mg" },
-  { name: "환경부", id: "UCV8rGJXbO9d2XK8m1R9H2WQ" },
-  { name: "문체부", id: "UC9mJ4Zy7LwK8V5d3gF2Qp1A" },
-  { name: "국토부", id: "UCkY4lP6nB3x2R8a7s9Tq5Zw" }
+  { name: "농식품부", id: "UC014CTCdGJzeQfJtxnnMyjQ" },
+  { name: "환경부", id: "UCcyXjAdiepuKgmJO2C2fEmA" },
+  { name: "국토부", id: "UC0G0Z05LATPtpUkxeOrEjOA" }
 ];
 
 async function getSubscribers(channelId) {
   const url = `https://www.googleapis.com/youtube/v3/channels?part=statistics&id=${channelId}&key=${API_KEY}`;
   const res = await fetch(url);
   const data = await res.json();
-  return parseInt(data.items[0].statistics.subscriberCount);
+
+  if (!res.ok) {
+    throw new Error("API 요청 실패\n" + JSON.stringify(data, null, 2));
+  }
+
+  if (!data.items || data.items.length === 0) {
+    throw new Error("채널 정보를 찾지 못했습니다.\n" + JSON.stringify(data, null, 2));
+  }
+
+  return parseInt(data.items[0].statistics.subscriberCount, 10);
 }
 
 async function loadData() {
-  const labels = [];
-  const values = [];
+  const statusEl = document.getElementById("status");
+  const errorEl = document.getElementById("error");
 
-  for (const ch of channels) {
-    const subs = await getSubscribers(ch.id);
-    labels.push(ch.name);
-    values.push(subs);
-  }
+  try {
+    const labels = [];
+    const values = [];
 
-  new Chart(document.getElementById("chart"), {
-    type: "bar",
-    data: {
-      labels: labels,
-      datasets: [{
-        label: "구독자 수",
-        data: values
-      }]
+    for (const ch of channels) {
+      const subs = await getSubscribers(ch.id);
+      labels.push(ch.name);
+      values.push(subs);
     }
-  });
+
+    statusEl.textContent = "불러오기 완료";
+
+    new Chart(document.getElementById("chart"), {
+      type: "bar",
+      data: {
+        labels,
+        datasets: [{
+          label: "구독자 수",
+          data: values
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  } catch (err) {
+    statusEl.textContent = "불러오기 실패";
+    errorEl.textContent = err.message;
+    console.error(err);
+  }
 }
 
 loadData();
