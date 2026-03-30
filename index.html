@@ -36,7 +36,7 @@
     }
 
     .wrap {
-      max-width: 760px;
+      max-width: 820px;
       margin: 0 auto;
     }
 
@@ -215,21 +215,25 @@
     const API_KEY = "AIzaSyBuHQuWnLHeOsIqq56avZQLhjsudm94w54";
 
     const channels = [
-      {
-        name: "농림축산식품부",
-        handle: "mafrakorea",
-        id: "UC014CTCdGJzeQfJtxnnMyjQ"
-      },
-      {
-        name: "국토교통부",
-        handle: "korealand",
-        id: "UC0G0Z05LATPtpUkxeOrEjOA"
-      },
-      {
-        name: "환경부",
-        handle: "mceekorea",
-        id: "UCcyXjAdiepuKgmJO2C2fEmA"
-      }
+      { name: "농림축산식품부", handle: "mafrakorea", id: "UC014CTCdGJzeQfJtxnnMyjQ" },
+      { name: "국토교통부", handle: "korealand", id: "UC0G0Z05LATPtpUkxeOrEjOA" },
+      { name: "문화체육관광부", handle: "문화체육관광부", id: "UCXXA3M3rNQ1NTJZyUJOekPw" },
+      { name: "보건복지부", handle: "mohwpr", id: "UCRsetXyMdNsR4M9KvA-a_fg" },
+      { name: "국방부", handle: "ROK_MND", id: "UCoreZRRtVpu521wZNJWfUqQ" },
+      { name: "고용노동부", handle: "moelkorea", id: "UC3XR-_4Rd1xf-5HnkJxc_bA" },
+      { name: "기후부(환경부)", handle: "mevpr", id: "UCcyXjAdiepuKgmJO2C2fEmA" },
+      { name: "법무부", handle: "moj_korea", id: "UCv98wlLoiNXta0k34cy0zvA" },
+      { name: "통일부", handle: "UNITVKOREA", id: "UCkxOASipmR5wPoLbGUP4QPA" },
+      { name: "행정안전부", handle: "withyou3542", id: "UCzteSXznVjwESizsCcSKSWw" },
+      { name: "외교부", handle: "MOFAKorea", id: "UCwRFj9gC3meixU8fqKJdgxA" },
+      { name: "국가보훈부", handle: "mpvakorea", id: "UClvT0GWxHHznabonSbWf7cg" },
+      { name: "교육부", handle: "ourmoetv", id: "UCexUyFaq9YH7XJfCQzVR_jg" },
+      { name: "중소기업벤처부", handle: "bizinfo1357", id: "UCaiBniKLomFVHcb5zt3lnfQ" },
+      { name: "해양수산부", handle: "해양수산부", id: "UCgISSs3Odu2Wj_bhH-GHvnw" },
+      { name: "산업통상자원부", handle: "motiekorea", id: "UCoNGys8NV8iInPK-AyTSgTA" },
+      { name: "과학기술정보통신부", handle: "withmsip", id: "UCjeajitvt5U76154ynrVzAA" },
+      { name: "재정경제부", handle: "mosfkorea", id: "UCnrPF6de3KuHZy3c2ZkqcMA" },
+      { name: "성평등가족부", handle: "mogefkorea", id: "UCcgeHR34Rr17yaoaqD0jR2A" }
     ];
 
     function formatSubscribers(num) {
@@ -282,7 +286,7 @@
 
         results.sort((a, b) => b.subscriberCount - a.subscriberCount);
 
-        statusEl.textContent = "불러오기 완료";
+        statusEl.textContent = `불러오기 완료 (${results.length}개 채널)`;
         document.getElementById("updated").textContent =
           "마지막 업데이트: " + new Date().toLocaleTimeString("ko-KR");
 
