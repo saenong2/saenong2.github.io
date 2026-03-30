@@ -72,6 +72,7 @@
 
   <h2>정부 유튜브 구독자 비교</h2>
   <div id="status">불러오는 중...</div>
+  <div id="updated" style="font-size:14px; color:#666; margin-bottom:12px;"></div>
   <div id="error"></div>
 
   <div id="result"></div>
@@ -94,6 +95,9 @@
       const errorEl = document.getElementById("error");
       const resultEl = document.getElementById("result");
 
+      errorEl.textContent = "";
+      statusEl.textContent = "불러오는 중...";
+
       try {
         const url = `https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=${channel.id}&key=${API_KEY}`;
         const res = await fetch(url);
@@ -112,6 +116,7 @@
         const subscriberCount = item.statistics.subscriberCount;
 
         statusEl.textContent = "불러오기 완료";
+        document.getElementById("updated").textContent = "마지막 업데이트: " + new Date().toLocaleTimeString("ko-KR");
 
         resultEl.innerHTML = `
           <a class="channel-card" href="https://www.youtube.com/@${channel.handle}" target="_blank" style="text-decoration:none; color:inherit;">
@@ -131,6 +136,7 @@
     }
 
     loadChannel();
+    setInterval(loadChannel, 300000);
   </script>
 
 </body>
