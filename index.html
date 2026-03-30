@@ -30,41 +30,53 @@
     .channel-card {
       display: flex;
       align-items: center;
-      gap: 14px;
-      padding: 16px;
+      gap: 16px;
+      padding: 18px 20px;
       background: white;
-      border-radius: 14px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-      max-width: 520px;
+      border-radius: 18px;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+      max-width: 560px;
     }
 
     .channel-logo {
-      width: 56px;
-      height: 56px;
+      width: 64px;
+      height: 64px;
       border-radius: 50%;
       object-fit: cover;
       background: #eee;
+      flex-shrink: 0;
     }
 
     .channel-info {
       display: flex;
       flex-direction: column;
-      gap: 4px;
+      gap: 6px;
+      flex: 1;
+    }
+
+    .channel-top {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
     }
 
     .channel-name {
-      font-size: 18px;
-      font-weight: bold;
-    }
-
-    .channel-handle {
-      font-size: 14px;
-      color: #666;
+      font-size: 28px;
+      font-weight: 800;
+      line-height: 1.2;
     }
 
     .channel-subs {
-      font-size: 16px;
+      font-size: 30px;
+      font-weight: 900;
       color: #111;
+      line-height: 1.2;
+    }
+
+    .channel-handle {
+      font-size: 20px;
+      color: #666;
     }
   </style>
 </head>
@@ -87,7 +99,11 @@
     };
 
     function formatSubscribers(num) {
-      return Number(num).toLocaleString() + "명";
+      const n = Number(num);
+      if (n >= 10000) {
+        return (n / 10000).toFixed(1).replace(".0", "") + "만명";
+      }
+      return n.toLocaleString() + "명";
     }
 
     async function loadChannel() {
@@ -122,9 +138,11 @@
           <a class="channel-card" href="https://www.youtube.com/@${channel.handle}" target="_blank" style="text-decoration:none; color:inherit;">
             <img class="channel-logo" src="${thumbnail}" alt="${channel.name} 로고" />
             <div class="channel-info">
-              <div class="channel-name">${channel.name}</div>
+              <div class="channel-top">
+                <div class="channel-name">${channel.name}</div>
+                <div class="channel-subs">${formatSubscribers(subscriberCount)}</div>
+              </div>
               <div class="channel-handle">(@${channel.handle})</div>
-              <div class="channel-subs">${formatSubscribers(subscriberCount)}</div>
             </div>
           </a>
         `;
