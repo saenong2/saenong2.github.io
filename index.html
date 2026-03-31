@@ -313,13 +313,25 @@
     <div id="channelList" class="channel-list"></div>
 
     <h2>2026년 게시 콘텐츠 모아보기</h2>
-    <div class="toolbar">
-      <select id="ministryFilter">
-        <option value="">전체 부처</option>
-      </select>
-      <input type="date" id="startDate" value="2026-01-01" />
-      <input type="date" id="endDate" value="2026-12-31" />
-    </div>
+  <div class="toolbar">
+  <select id="ministryFilter">
+    <option value="">전체 부처</option>
+  </select>
+
+  <input type="date" id="startDate" value="2026-01-01" />
+  <input type="date" id="endDate" value="2026-12-31" />
+
+  <select id="sortFilter">
+    <option value="latest">최신순</option>
+    <option value="views">조회수순</option>
+    <option value="likes">좋아요순</option>
+    <option value="comments">댓글순</option>
+  </select>
+
+  <input type="number" id="minViews" placeholder="최소 조회수" min="0" />
+  <input type="number" id="minLikes" placeholder="최소 좋아요" min="0" />
+  <input type="number" id="minComments" placeholder="최소 댓글" min="0" />
+</div>
     <div id="videoGrid" class="video-grid"></div>
 
     <div id="errorBox" style="display:none;"></div>
