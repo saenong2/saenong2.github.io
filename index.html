@@ -313,25 +313,26 @@
     <div id="channelList" class="channel-list"></div>
 
     <h2>2026년 게시 콘텐츠 모아보기</h2>
-  <div class="toolbar">
-  <select id="ministryFilter">
-    <option value="">전체 부처</option>
-  </select>
+    <div class="toolbar">
+      <select id="ministryFilter">
+        <option value="">전체 부처</option>
+      </select>
 
-  <input type="date" id="startDate" value="2026-01-01" />
-  <input type="date" id="endDate" value="2026-12-31" />
+      <input type="date" id="startDate" value="2026-01-01" />
+      <input type="date" id="endDate" value="2026-12-31" />
 
-  <select id="sortFilter">
-    <option value="latest">최신순</option>
-    <option value="views">조회수순</option>
-    <option value="likes">좋아요순</option>
-    <option value="comments">댓글순</option>
-  </select>
+      <select id="sortFilter">
+        <option value="latest">최신순</option>
+        <option value="views">조회수순</option>
+        <option value="likes">좋아요순</option>
+        <option value="comments">댓글순</option>
+      </select>
 
-  <input type="number" id="minViews" placeholder="최소 조회수" min="0" />
-  <input type="number" id="minLikes" placeholder="최소 좋아요" min="0" />
-  <input type="number" id="minComments" placeholder="최소 댓글" min="0" />
-</div>
+      <input type="number" id="minViews" placeholder="최소 조회수" min="0" />
+      <input type="number" id="minLikes" placeholder="최소 좋아요" min="0" />
+      <input type="number" id="minComments" placeholder="최소 댓글" min="0" />
+    </div>
+
     <div id="videoGrid" class="video-grid"></div>
 
     <div id="errorBox" style="display:none;"></div>
@@ -421,14 +422,33 @@
       const ministry = document.getElementById("ministryFilter").value;
       const startDate = document.getElementById("startDate").value;
       const endDate = document.getElementById("endDate").value;
+      const sortType = document.getElementById("sortFilter").value;
 
-      const filtered = dashboardData.videos.filter(v => {
+      const minViews = Number(document.getElementById("minViews").value || 0);
+      const minLikes = Number(document.getElementById("minLikes").value || 0);
+      const minComments = Number(document.getElementById("minComments").value || 0);
+
+      let filtered = dashboardData.videos.filter(v => {
         const dateOnly = v.publishedAt.slice(0, 10);
         const okMinistry = !ministry || v.channelName === ministry;
         const okStart = !startDate || dateOnly >= startDate;
         const okEnd = !endDate || dateOnly <= endDate;
-        return okMinistry && okStart && okEnd;
+        const okViews = Number(v.viewCount || 0) >= minViews;
+        const okLikes = Number(v.likeCount || 0) >= minLikes;
+        const okComments = Number(v.commentCount || 0) >= minComments;
+
+        return okMinistry && okStart && okEnd && okViews && okLikes && okComments;
       });
+
+      if (sortType === "views") {
+        filtered.sort((a, b) => Number(b.viewCount || 0) - Number(a.viewCount || 0));
+      } else if (sortType === "likes") {
+        filtered.sort((a, b) => Number(b.likeCount || 0) - Number(a.likeCount || 0));
+      } else if (sortType === "comments") {
+        filtered.sort((a, b) => Number(b.commentCount || 0) - Number(a.commentCount || 0));
+      } else {
+        filtered.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+      }
 
       if (!filtered.length) {
         gridEl.innerHTML = `<div class="empty-box">조건에 맞는 영상이 없습니다.</div>`;
@@ -476,6 +496,11 @@
         document.getElementById("ministryFilter").addEventListener("change", renderVideos);
         document.getElementById("startDate").addEventListener("change", renderVideos);
         document.getElementById("endDate").addEventListener("change", renderVideos);
+        document.getElementById("sortFilter").addEventListener("change", renderVideos);
+        document.getElementById("minViews").addEventListener("input", renderVideos);
+        document.getElementById("minLikes").addEventListener("input", renderVideos);
+        document.getElementById("minComments").addEventListener("input", renderVideos);
+
       } catch (err) {
         const errorBox = document.getElementById("errorBox");
         errorBox.style.display = "block";
