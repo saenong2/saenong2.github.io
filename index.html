@@ -388,8 +388,8 @@
         <option value="">전체 부처</option>
       </select>
 
-      <input type="date" id="startDate" />
-      <input type="date" id="endDate" />
+      <input type="date" id="startDate" value="2026-01-01" />
+      <input type="date" id="endDate" value="2026-12-31" />
 
       <select id="sortFilter">
         <option value="latest">최신순</option>
@@ -447,22 +447,6 @@
 
     function formatNum(num) {
       return Number(num || 0).toLocaleString("ko-KR");
-    }
-
-    function formatDateInput(date) {
-      const y = date.getFullYear();
-      const m = String(date.getMonth() + 1).padStart(2, "0");
-      const d = String(date.getDate()).padStart(2, "0");
-      return `${y}-${m}-${d}`;
-    }
-
-    function setDefaultDateRange() {
-      const end = new Date();
-      const start = new Date();
-      start.setDate(end.getDate() - 6);
-
-      document.getElementById("startDate").value = formatDateInput(start);
-      document.getElementById("endDate").value = formatDateInput(end);
     }
 
     function renderSummary(channels) {
@@ -640,8 +624,6 @@
         document.getElementById("updated").textContent =
           "마지막 업데이트: " +
           (dashboardData.updatedAt ? new Date(dashboardData.updatedAt).toLocaleString("ko-KR") : "-");
-
-        setDefaultDateRange();
 
         const sortedChannels = [...dashboardData.channels].sort((a, b) => Number(b.subscriberCount) - Number(a.subscriberCount));
 
