@@ -294,6 +294,41 @@
       background:#fff4f4;
     }
 
+    .load-more-wrap{
+      display:flex;
+      justify-content:center;
+      margin-top:16px;
+    }
+
+    .load-more-btn{
+      appearance:none;
+      border:none;
+      background:#111827;
+      color:#fff;
+      padding:12px 20px;
+      border-radius:12px;
+      font:inherit;
+      font-weight:600;
+      cursor:pointer;
+      box-shadow:var(--shadow);
+    }
+
+    .load-more-btn:hover{
+      opacity:.92;
+    }
+
+    .load-more-btn:disabled{
+      background:#9ca3af;
+      cursor:default;
+      opacity:1;
+    }
+
+    .result-count{
+      margin:8px 0 14px;
+      font-size:13px;
+      color:var(--sub);
+    }
+
     @media (max-width:640px){
       body{
         padding:18px 12px 36px;
@@ -353,8 +388,8 @@
         <option value="">전체 부처</option>
       </select>
 
-      <input type="date" id="startDate" value="2026-01-01" />
-      <input type="date" id="endDate" value="2026-12-31" />
+      <input type="date" id="startDate" />
+      <input type="date" id="endDate" />
 
       <select id="sortFilter">
         <option value="latest">최신순</option>
@@ -367,6 +402,8 @@
       <input type="number" id="minLikes" placeholder="최소 좋아요" min="0" />
       <input type="number" id="minComments" placeholder="최소 댓글" min="0" />
     </div>
+
+    <div id="resultCount" class="result-count"></div>
 
     <div class="table-wrap">
       <div class="table-scroll">
@@ -387,11 +424,18 @@
       </div>
     </div>
 
+    <div class="load-more-wrap">
+      <button id="loadMoreBtn" class="load-more-btn" type="button" style="display:none;">더보기</button>
+    </div>
+
     <div id="errorBox" style="display:none;"></div>
   </div>
 
   <script>
     let dashboardData = null;
+    let currentFilteredVideos = [];
+    let visibleCount = 20;
+    const PAGE_SIZE = 20;
 
     function formatSubs(num) {
       const n = Number(num || 0);
@@ -403,6 +447,22 @@
 
     function formatNum(num) {
       return Number(num || 0).toLocaleString("ko-KR");
+    }
+
+    function formatDateInput(date) {
+      const y = date.getFullYear();
+      const m = String(date.getMonth() + 1).padStart(2, "0");
+      const d = String(date.getDate()).padStart(2, "0");
+      return `${y}-${m}-${d}`;
+    }
+
+    function setDefaultDateRange() {
+      const end = new Date();
+      const start = new Date();
+      start.setDate(end.getDate() - 6);
+
+      document.getElementById("startDate").value = formatDateInput(start);
+      document.getElementById("endDate").value = formatDateInput(end);
     }
 
     function renderSummary(channels) {
@@ -469,8 +529,7 @@
         ministries.map(name => `<option value="${name}">${name}</option>`).join("");
     }
 
-    function renderVideos() {
-      const bodyEl = document.getElementById("videoTableBody");
+    function getFilteredVideos() {
       const ministry = document.getElementById("ministryFilter").value;
       const startDate = document.getElementById("startDate").value;
       const endDate = document.getElementById("endDate").value;
@@ -502,7 +561,31 @@
         filtered.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
       }
 
-      if (!filtered.length) {
+      return filtered;
+    }
+
+    function updateLoadMoreButton() {
+      const btn = document.getElementById("loadMoreBtn");
+
+      if (currentFilteredVideos.length > visibleCount) {
+        btn.style.display = "inline-block";
+        btn.textContent = `더보기 (${Math.min(PAGE_SIZE, currentFilteredVideos.length - visibleCount)}개 더)`;
+        btn.disabled = false;
+      } else {
+        btn.style.display = "none";
+      }
+    }
+
+    function renderVideos() {
+      const bodyEl = document.getElementById("videoTableBody");
+      const resultCountEl = document.getElementById("resultCount");
+
+      currentFilteredVideos = getFilteredVideos();
+      const visibleVideos = currentFilteredVideos.slice(0, visibleCount);
+
+      resultCountEl.textContent = `총 ${currentFilteredVideos.length.toLocaleString("ko-KR")}개 중 ${visibleVideos.length.toLocaleString("ko-KR")}개 표시`;
+
+      if (!visibleVideos.length) {
         bodyEl.innerHTML = `
           <tr>
             <td colspan="7">
@@ -510,10 +593,11 @@
             </td>
           </tr>
         `;
+        updateLoadMoreButton();
         return;
       }
 
-      bodyEl.innerHTML = filtered.map(v => `
+      bodyEl.innerHTML = visibleVideos.map(v => `
         <tr>
           <td class="ministry-name">${v.channelName}</td>
           <td class="date-cell">${v.publishedAt.slice(0, 10)}</td>
@@ -530,6 +614,18 @@
           <td class="num">${formatNum(v.commentCount)}</td>
         </tr>
       `).join("");
+
+      updateLoadMoreButton();
+    }
+
+    function resetAndRenderVideos() {
+      visibleCount = PAGE_SIZE;
+      renderVideos();
+    }
+
+    function loadMoreVideos() {
+      visibleCount += PAGE_SIZE;
+      renderVideos();
     }
 
     async function init() {
@@ -545,20 +641,23 @@
           "마지막 업데이트: " +
           (dashboardData.updatedAt ? new Date(dashboardData.updatedAt).toLocaleString("ko-KR") : "-");
 
+        setDefaultDateRange();
+
         const sortedChannels = [...dashboardData.channels].sort((a, b) => Number(b.subscriberCount) - Number(a.subscriberCount));
 
         renderSummary(sortedChannels);
         renderChannels(sortedChannels);
         fillMinistryFilter(dashboardData.videos);
-        renderVideos();
+        resetAndRenderVideos();
 
-        document.getElementById("ministryFilter").addEventListener("change", renderVideos);
-        document.getElementById("startDate").addEventListener("change", renderVideos);
-        document.getElementById("endDate").addEventListener("change", renderVideos);
-        document.getElementById("sortFilter").addEventListener("change", renderVideos);
-        document.getElementById("minViews").addEventListener("input", renderVideos);
-        document.getElementById("minLikes").addEventListener("input", renderVideos);
-        document.getElementById("minComments").addEventListener("input", renderVideos);
+        document.getElementById("ministryFilter").addEventListener("change", resetAndRenderVideos);
+        document.getElementById("startDate").addEventListener("change", resetAndRenderVideos);
+        document.getElementById("endDate").addEventListener("change", resetAndRenderVideos);
+        document.getElementById("sortFilter").addEventListener("change", resetAndRenderVideos);
+        document.getElementById("minViews").addEventListener("input", resetAndRenderVideos);
+        document.getElementById("minLikes").addEventListener("input", resetAndRenderVideos);
+        document.getElementById("minComments").addEventListener("input", resetAndRenderVideos);
+        document.getElementById("loadMoreBtn").addEventListener("click", loadMoreVideos);
 
       } catch (err) {
         const errorBox = document.getElementById("errorBox");
