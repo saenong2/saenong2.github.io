@@ -48,6 +48,7 @@ def fmt_video_url(video_id):
 
 def normalize_video(v):
     return {
+        "group": v.get("group", ""),
         "channelName": v.get("channelName", ""),
         "handle": v.get("handle", ""),
         "channelId": v.get("channelId", ""),
@@ -64,9 +65,6 @@ def normalize_video(v):
 
 now = datetime.now(timezone.utc)
 recent_cutoff = now - timedelta(days=30)
-
-# 매주 일요일 전체 갱신
-# Python weekday(): 월=0, 화=1 ... 일=6
 is_full_refresh_day = now.astimezone(timezone.utc).weekday() == 6
 
 existing_video_map = {}
@@ -104,6 +102,7 @@ for ch in CHANNELS:
     uploads_playlist_id = item.get("contentDetails", {}).get("relatedPlaylists", {}).get("uploads")
 
     dashboard["channels"].append({
+        "group": ch["group"],
         "name": ch["name"],
         "handle": ch["handle"],
         "channelId": channel_id,
@@ -175,6 +174,7 @@ for ch in CHANNELS:
                 continue
 
             video_obj = {
+                "group": ch["group"],
                 "channelName": ch["name"],
                 "handle": ch["handle"],
                 "channelId": channel_id,
@@ -189,11 +189,9 @@ for ch in CHANNELS:
                 "commentCount": int(v_stats.get("commentCount", 0))
             }
 
-            # 주 1회 전체 갱신일이면 2026년 전체를 다시 갱신
             if is_full_refresh_day:
                 updated_video_map[v["id"]] = video_obj
             else:
-                # 평소에는 최근 30일만 갱신
                 if dt >= recent_cutoff:
                     updated_video_map[v["id"]] = video_obj
                 else:
