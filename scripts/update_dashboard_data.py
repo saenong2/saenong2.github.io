@@ -103,6 +103,7 @@ for ch in CHANNELS:
 
     dashboard["channels"].append({
         "group": ch["group"],
+        "includeInSubscriberBoard": ch.get("includeInSubscriberBoard", True),
         "name": ch["name"],
         "handle": ch["handle"],
         "channelId": channel_id,
@@ -148,7 +149,7 @@ for ch in CHANNELS:
                 candidate_video_ids.append(video_id)
 
         if stop_early:
-            break
+          break
 
         next_page_token = playlist_data.get("nextPageToken")
         if not next_page_token:
