@@ -107,7 +107,7 @@ for ch in CHANNELS:
         "name": ch["name"],
         "handle": ch["handle"],
         "channelId": channel_id,
-        "channelUrl": f"https://www.youtube.com/@{ch['handle']}",
+        "channelUrl": ch.get("channelUrlOverride", f"https://www.youtube.com/@{ch['handle']}"),
         "thumbnail": snippet.get("thumbnails", {}).get("default", {}).get("url", ""),
         "subscriberCount": int(stats.get("subscriberCount", 0)),
         "videoCount": int(stats.get("videoCount", 0))
