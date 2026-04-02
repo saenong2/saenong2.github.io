@@ -9,8 +9,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap" rel="stylesheet">
-
-  <!-- 엑셀 다운로드용 -->
   <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
 
   <style>
@@ -62,7 +60,7 @@
 
     .summary-grid{
       display:grid;
-      grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));
+      grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));
       gap:12px;
       margin-bottom:18px;
     }
@@ -82,10 +80,21 @@
 
     .summary-value{
       font-family:"Noto Sans KR", sans-serif;
-      font-size:28px;
+      font-size:24px;
       font-weight:900;
       letter-spacing:-0.04em;
-      line-height:1.1;
+      line-height:1.2;
+    }
+
+    .group-block{
+      margin-bottom:18px;
+    }
+
+    .group-title{
+      margin:0 0 10px;
+      font-size:18px;
+      font-weight:700;
+      letter-spacing:-0.02em;
     }
 
     .channel-list{
@@ -168,6 +177,25 @@
     .channel-handle{
       font-size:15px;
       color:var(--sub);
+    }
+
+    .mini-more-wrap{
+      display:flex;
+      justify-content:center;
+      margin-top:12px;
+    }
+
+    .mini-more-btn{
+      appearance:none;
+      border:none;
+      background:#111827;
+      color:#fff;
+      padding:10px 16px;
+      border-radius:12px;
+      font:inherit;
+      font-weight:600;
+      cursor:pointer;
+      box-shadow:var(--shadow);
     }
 
     .toolbar{
@@ -320,8 +348,6 @@
       display:flex;
       justify-content:center;
       margin-top:16px;
-      gap:10px;
-      flex-wrap:wrap;
     }
 
     .load-more-btn{
@@ -335,16 +361,6 @@
       font-weight:600;
       cursor:pointer;
       box-shadow:var(--shadow);
-    }
-
-    .load-more-btn:hover{
-      opacity:.92;
-    }
-
-    .load-more-btn:disabled{
-      background:#9ca3af;
-      cursor:default;
-      opacity:1;
     }
 
     .result-count{
@@ -415,12 +431,33 @@
 
     <h2>구독자 비교</h2>
     <div id="summary" class="summary-grid"></div>
-    <div id="channelList" class="channel-list"></div>
+
+    <div class="group-block">
+      <h3 class="group-title">장관급 채널 TOP 5</h3>
+      <div id="ministerList" class="channel-list"></div>
+      <div class="mini-more-wrap">
+        <button id="ministerMoreBtn" class="mini-more-btn" type="button" style="display:none;">장관급 더보기</button>
+      </div>
+    </div>
+
+    <div class="group-block">
+      <h3 class="group-title">차관급 채널 TOP 5</h3>
+      <div id="viceList" class="channel-list"></div>
+      <div class="mini-more-wrap">
+        <button id="viceMoreBtn" class="mini-more-btn" type="button" style="display:none;">차관급 더보기</button>
+      </div>
+    </div>
 
     <h2>2026년 게시 콘텐츠 모아보기</h2>
     <div class="toolbar">
       <select id="ministryFilter">
-        <option value="">전체 부처</option>
+        <option value="">전체 기관</option>
+      </select>
+
+      <select id="groupFilter">
+        <option value="">전체 구분</option>
+        <option value="장관급">장관급</option>
+        <option value="차관급">차관급</option>
       </select>
 
       <input type="date" id="startDate" value="2026-01-01" />
@@ -447,7 +484,8 @@
         <table>
           <thead>
             <tr>
-              <th>부처</th>
+              <th>기관</th>
+              <th>구분</th>
               <th>날짜</th>
               <th>썸네일</th>
               <th>제목</th>
@@ -474,6 +512,10 @@
     let visibleCount = 20;
     const PAGE_SIZE = 20;
 
+    let visibleMinisterCount = 5;
+    let visibleViceCount = 5;
+    const TOP_PAGE_SIZE = 5;
+
     function formatSubs(num) {
       const n = Number(num || 0);
       if (n >= 10000) {
@@ -496,7 +538,12 @@
 
       const totalSubs = channels.reduce((sum, item) => sum + Number(item.subscriberCount || 0), 0);
       const avgSubs = Math.round(totalSubs / channels.length);
-      const topChannel = channels[0];
+
+      const ministers = channels.filter(c => c.group === "장관급");
+      const vices = channels.filter(c => c.group === "차관급");
+
+      const topMinister = ministers.length ? ministers[0] : null;
+      const topVice = vices.length ? vices[0] : null;
 
       summaryEl.innerHTML = `
         <div class="summary-card">
@@ -504,12 +551,16 @@
           <div class="summary-value">${formatSubs(totalSubs)}</div>
         </div>
         <div class="summary-card">
-          <div class="summary-label">대상 채널</div>
-          <div class="summary-value">${channels.length}개</div>
+          <div class="summary-label">장관급 채널 1위</div>
+          <div class="summary-value" style="font-family:'Pretendard', Arial, sans-serif; font-size:21px; letter-spacing:-0.02em;">
+            ${topMinister ? topMinister.name : "-"}
+          </div>
         </div>
         <div class="summary-card">
-          <div class="summary-label">1위 채널</div>
-          <div class="summary-value" style="font-family:'Pretendard', Arial, sans-serif; font-size:22px; letter-spacing:-0.02em;">${topChannel.name}</div>
+          <div class="summary-label">차관급 채널 1위</div>
+          <div class="summary-value" style="font-family:'Pretendard', Arial, sans-serif; font-size:21px; letter-spacing:-0.02em;">
+            ${topVice ? topVice.name : "-"}
+          </div>
         </div>
         <div class="summary-card">
           <div class="summary-label">평균 구독자</div>
@@ -518,15 +569,17 @@
       `;
     }
 
-    function renderChannels(channels) {
-      const listEl = document.getElementById("channelList");
+    function renderChannelCards(list, targetId, visibleCountForGroup) {
+      const el = document.getElementById(targetId);
 
-      if (!channels.length) {
-        listEl.innerHTML = `<div class="empty-box">표시할 채널 데이터가 없습니다.</div>`;
+      if (!list.length) {
+        el.innerHTML = `<div class="empty-box">표시할 채널이 없습니다.</div>`;
         return;
       }
 
-      listEl.innerHTML = channels.map((item, index) => `
+      const visibleList = list.slice(0, visibleCountForGroup);
+
+      el.innerHTML = visibleList.map((item, index) => `
         <a class="channel-card" href="${item.channelUrl}" target="_blank" rel="noopener noreferrer">
           <div class="rank">${index + 1}</div>
           <img class="channel-logo" src="${item.thumbnail}" alt="${item.name} 로고" />
@@ -541,17 +594,35 @@
       `).join("");
     }
 
+    function updateGroupMoreButtons(ministers, vices) {
+      const ministerBtn = document.getElementById("ministerMoreBtn");
+      const viceBtn = document.getElementById("viceMoreBtn");
+
+      ministerBtn.style.display = ministers.length > visibleMinisterCount ? "inline-block" : "none";
+      viceBtn.style.display = vices.length > visibleViceCount ? "inline-block" : "none";
+    }
+
+    function renderGroupedChannels(channels) {
+      const ministers = channels.filter(c => c.group === "장관급");
+      const vices = channels.filter(c => c.group === "차관급");
+
+      renderChannelCards(ministers, "ministerList", visibleMinisterCount);
+      renderChannelCards(vices, "viceList", visibleViceCount);
+      updateGroupMoreButtons(ministers, vices);
+    }
+
     function fillMinistryFilter(videos) {
       const select = document.getElementById("ministryFilter");
       const ministries = [...new Set(videos.map(v => v.channelName))].sort((a, b) => a.localeCompare(b, "ko"));
 
       select.innerHTML =
-        `<option value="">전체 부처</option>` +
+        `<option value="">전체 기관</option>` +
         ministries.map(name => `<option value="${name}">${name}</option>`).join("");
     }
 
     function getFilteredVideos() {
       const ministry = document.getElementById("ministryFilter").value;
+      const group = document.getElementById("groupFilter").value;
       const startDate = document.getElementById("startDate").value;
       const endDate = document.getElementById("endDate").value;
       const sortType = document.getElementById("sortFilter").value;
@@ -563,13 +634,14 @@
       let filtered = dashboardData.videos.filter(v => {
         const dateOnly = v.publishedAt.slice(0, 10);
         const okMinistry = !ministry || v.channelName === ministry;
+        const okGroup = !group || v.group === group;
         const okStart = !startDate || dateOnly >= startDate;
         const okEnd = !endDate || dateOnly <= endDate;
         const okViews = Number(v.viewCount || 0) >= minViews;
         const okLikes = Number(v.likeCount || 0) >= minLikes;
         const okComments = Number(v.commentCount || 0) >= minComments;
 
-        return okMinistry && okStart && okEnd && okViews && okLikes && okComments;
+        return okMinistry && okGroup && okStart && okEnd && okViews && okLikes && okComments;
       });
 
       if (sortType === "views") {
@@ -591,7 +663,6 @@
       if (currentFilteredVideos.length > visibleCount) {
         btn.style.display = "inline-block";
         btn.textContent = `더보기 (${Math.min(PAGE_SIZE, currentFilteredVideos.length - visibleCount)}개 더)`;
-        btn.disabled = false;
       } else {
         btn.style.display = "none";
       }
@@ -609,7 +680,7 @@
       if (!visibleVideos.length) {
         bodyEl.innerHTML = `
           <tr>
-            <td colspan="7">
+            <td colspan="8">
               <div class="empty-box" style="box-shadow:none; padding:6px 0;">조건에 맞는 영상이 없습니다.</div>
             </td>
           </tr>
@@ -621,6 +692,7 @@
       bodyEl.innerHTML = visibleVideos.map(v => `
         <tr>
           <td class="ministry-name">${v.channelName}</td>
+          <td>${v.group || ""}</td>
           <td class="date-cell">${v.publishedAt.slice(0, 10)}</td>
           <td class="thumb-cell">
             <a href="${v.videoUrl}" target="_blank" rel="noopener noreferrer">
@@ -649,6 +721,18 @@
       renderVideos();
     }
 
+    function loadMoreMinister() {
+      visibleMinisterCount += TOP_PAGE_SIZE;
+      const sortedChannels = [...dashboardData.channels].sort((a, b) => Number(b.subscriberCount) - Number(a.subscriberCount));
+      renderGroupedChannels(sortedChannels);
+    }
+
+    function loadMoreVice() {
+      visibleViceCount += TOP_PAGE_SIZE;
+      const sortedChannels = [...dashboardData.channels].sort((a, b) => Number(b.subscriberCount) - Number(a.subscriberCount));
+      renderGroupedChannels(sortedChannels);
+    }
+
     function getSortLabel(sortValue) {
       if (sortValue === "views") return "조회수순";
       if (sortValue === "likes") return "좋아요순";
@@ -664,12 +748,14 @@
 
       const startDate = document.getElementById("startDate").value || "시작일없음";
       const endDate = document.getElementById("endDate").value || "종료일없음";
-      const ministry = document.getElementById("ministryFilter").value || "전체부처";
+      const ministry = document.getElementById("ministryFilter").value || "전체기관";
+      const group = document.getElementById("groupFilter").value || "전체구분";
       const sortLabel = getSortLabel(document.getElementById("sortFilter").value);
 
       const rows = currentFilteredVideos.map((v, index) => ({
         순번: index + 1,
-        부처: v.channelName,
+        구분: v.group || "",
+        기관: v.channelName,
         날짜: v.publishedAt.slice(0, 10),
         제목: v.title,
         영상링크: v.videoUrl,
@@ -682,7 +768,7 @@
       const workbook = XLSX.utils.book_new();
       XLSX.utils.book_append_sheet(workbook, worksheet, "콘텐츠목록");
 
-      const fileName = `정부유튜브_${ministry}_${startDate}_${endDate}_${sortLabel}.xlsx`;
+      const fileName = `정부유튜브_${group}_${ministry}_${startDate}_${endDate}_${sortLabel}.xlsx`;
       XLSX.writeFile(workbook, fileName);
     }
 
@@ -702,11 +788,12 @@
         const sortedChannels = [...dashboardData.channels].sort((a, b) => Number(b.subscriberCount) - Number(a.subscriberCount));
 
         renderSummary(sortedChannels);
-        renderChannels(sortedChannels);
+        renderGroupedChannels(sortedChannels);
         fillMinistryFilter(dashboardData.videos);
         resetAndRenderVideos();
 
         document.getElementById("ministryFilter").addEventListener("change", resetAndRenderVideos);
+        document.getElementById("groupFilter").addEventListener("change", resetAndRenderVideos);
         document.getElementById("startDate").addEventListener("change", resetAndRenderVideos);
         document.getElementById("endDate").addEventListener("change", resetAndRenderVideos);
         document.getElementById("sortFilter").addEventListener("change", resetAndRenderVideos);
@@ -715,6 +802,8 @@
         document.getElementById("minComments").addEventListener("input", resetAndRenderVideos);
         document.getElementById("loadMoreBtn").addEventListener("click", loadMoreVideos);
         document.getElementById("downloadExcelBtn").addEventListener("click", downloadExcel);
+        document.getElementById("ministerMoreBtn").addEventListener("click", loadMoreMinister);
+        document.getElementById("viceMoreBtn").addEventListener("click", loadMoreVice);
 
       } catch (err) {
         const errorBox = document.getElementById("errorBox");
