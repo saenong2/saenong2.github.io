@@ -49,6 +49,6 @@
   { "group": "차관급", "name": "국민권익위원회", "handle": "acrc0229", "channelId": "UCUAYkowhhWi7W5EPHpSO_gg", "includeInSubscriberBoard": true },
   { "group": "차관급", "name": "기획예산처", "handle": "기획예산처", "channelId": "UCyYtDUKiBPlqOZ9PUJlRjbA", "includeInSubscriberBoard": true },
 
-  { "group": "콘텐츠전용", "name": "이재명", "handle": "이재명tv", "channelId": "UCNJM6dqu70Qr6VaseiW1Org", "includeInSubscriberBoard": false },
-  { "group": "콘텐츠전용", "name": "대한민국정부", "handle": "대한민국정부", "channelId": "UCev47mZSefA6nM--tDxcxVA", "includeInSubscriberBoard": false }
+  { "group": "기타", "name": "이재명", "handle": "이재명tv", "channelId": "UCNJM6dqu70Qr6VaseiW1Org", "includeInSubscriberBoard": false },
+  { "group": "기타", "name": "대한민국정부", "handle": "대한민국정부", "channelId": "UCev47mZSefA6nM--tDxcxVA", "includeInSubscriberBoard": false }
 ]
