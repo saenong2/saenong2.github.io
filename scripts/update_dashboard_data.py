@@ -7,13 +7,16 @@ import requests
 API_KEY = os.environ["YOUTUBE_API_KEY"]
 BASE_URL = "https://www.googleapis.com/youtube/v3"
 
+EXCLUDED_SPECIAL_CHANNELS = {"이재명", "대한민국정부"}
+
 with open("data/channels.json", "r", encoding="utf-8") as f:
     CHANNELS = json.load(f)
 
 existing_data = {
     "updatedAt": "",
     "channels": [],
-    "videos": []
+    "videos": [],
+    "hotVideo": None
 }
 
 if os.path.exists("data/dashboard-data.json"):
@@ -75,7 +78,8 @@ for v in existing_data.get("videos", []):
 dashboard = {
     "updatedAt": datetime.now(timezone.utc).isoformat(),
     "channels": [],
-    "videos": []
+    "videos": [],
+    "hotVideo": None
 }
 
 updated_video_map = {}
@@ -149,7 +153,7 @@ for ch in CHANNELS:
                 candidate_video_ids.append(video_id)
 
         if stop_early:
-          break
+            break
 
         next_page_token = playlist_data.get("nextPageToken")
         if not next_page_token:
@@ -203,6 +207,32 @@ for ch in CHANNELS:
 
 dashboard["channels"].sort(key=lambda x: x["subscriberCount"], reverse=True)
 dashboard["videos"] = sorted(updated_video_map.values(), key=lambda x: x["publishedAt"], reverse=True)
+
+# 핫한 영상 계산 (전날 대비 조회수 증가) - 이재명/대한민국정부 제외
+hot_video = None
+max_delta = -1
+
+for video in dashboard["videos"]:
+    if video["channelName"] in EXCLUDED_SPECIAL_CHANNELS:
+        continue
+
+    prev = existing_video_map.get(video["videoId"])
+    if prev:
+        delta = int(video["viewCount"]) - int(prev.get("viewCount", 0))
+        if delta > max_delta:
+            max_delta = delta
+            hot_video = {
+                "group": video["group"],
+                "channelName": video["channelName"],
+                "title": video["title"],
+                "videoUrl": video["videoUrl"],
+                "thumbnail": video["thumbnail"],
+                "publishedAt": video["publishedAt"],
+                "viewCount": video["viewCount"],
+                "deltaViews": delta
+            }
+
+dashboard["hotVideo"] = hot_video
 
 os.makedirs("data", exist_ok=True)
 with open("data/dashboard-data.json", "w", encoding="utf-8") as f:
