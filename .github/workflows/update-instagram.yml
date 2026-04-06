@@ -3,7 +3,7 @@ name: Update Instagram Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 0 * * *'
       timezone: 'Asia/Seoul'
 
 permissions:
