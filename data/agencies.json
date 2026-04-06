@@ -1,1 +1,388 @@
-
+{
+  "agencies": [
+    {
+      "agency": "농림축산식품부",
+      "display_name": "농림축산식품부",
+      "instagram": "nong_ru_wahhhhh",
+      "url": "https://www.instagram.com/nong_ru_wahhhhh",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "국토교통부",
+      "display_name": "국토교통부",
+      "instagram": "molit.go.kr",
+      "url": "https://www.instagram.com/molit.go.kr",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "문화체육관광부",
+      "display_name": "문화체육관광부",
+      "instagram": "mcstkorea",
+      "url": "https://www.instagram.com/mcstkorea",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "보건복지부",
+      "display_name": "보건복지부",
+      "instagram": "mohw_kr",
+      "url": "https://www.instagram.com/mohw_kr",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "국방부",
+      "display_name": "국방부",
+      "instagram": "rokmnd_official",
+      "url": "https://www.instagram.com/rokmnd_official",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "고용노동부",
+      "display_name": "고용노동부",
+      "instagram": "moel.korea",
+      "url": "https://www.instagram.com/moel.korea",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "환경부",
+      "display_name": "환경부",
+      "instagram": "ministry_of_environment",
+      "url": "https://www.instagram.com/ministry_of_environment",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "법무부",
+      "display_name": "법무부",
+      "instagram": "ministry_of_justice_korea",
+      "url": "https://www.instagram.com/ministry_of_justice_korea",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "통일부",
+      "display_name": "통일부",
+      "instagram": "ministry_of_unification",
+      "url": "https://www.instagram.com/ministry_of_unification",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "행정안전부",
+      "display_name": "행정안전부",
+      "instagram": "mois_korea",
+      "url": "https://www.instagram.com/mois_korea",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "외교부",
+      "display_name": "외교부",
+      "instagram": "mofa_kr",
+      "url": "https://www.instagram.com/mofa_kr",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "국가보훈부",
+      "display_name": "국가보훈부",
+      "instagram": "mpvakorea",
+      "url": "https://www.instagram.com/mpvakorea",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "교육부",
+      "display_name": "교육부",
+      "instagram": "moe_korea_",
+      "url": "https://www.instagram.com/moe_korea_",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "중소벤처기업부",
+      "display_name": "중소벤처기업부",
+      "instagram": "mss.go.kr",
+      "url": "https://www.instagram.com/mss.go.kr",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "해양수산부",
+      "display_name": "해양수산부",
+      "instagram": "koreamof",
+      "url": "https://www.instagram.com/koreamof",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "산업통상자원부",
+      "display_name": "산업통상자원부",
+      "instagram": "motiekorea",
+      "url": "https://www.instagram.com/motiekorea",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "과학기술정보통신부",
+      "display_name": "과학기술정보통신부",
+      "instagram": "withmsip",
+      "url": "https://www.instagram.com/withmsip",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "재정경제부",
+      "display_name": "재정경제부",
+      "instagram": "moef.korea",
+      "url": "https://www.instagram.com/moef.korea",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "성평등가족부",
+      "display_name": "성평등가족부",
+      "instagram": "mogefkorea_",
+      "url": "https://www.instagram.com/mogefkorea_",
+      "level": "장관급",
+      "active": true
+    },
+    {
+      "agency": "방위사업청",
+      "display_name": "방위사업청",
+      "instagram": "dapa_korea_official",
+      "url": "https://www.instagram.com/dapa_korea_official",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "식품의약품안전처",
+      "display_name": "식품의약품안전처",
+      "instagram": "mfdskorea",
+      "url": "https://www.instagram.com/mfdskorea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "소방청",
+      "display_name": "소방청",
+      "instagram": "korea_fire_agency",
+      "url": "https://www.instagram.com/korea_fire_agency",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "농촌진흥청",
+      "display_name": "농촌진흥청",
+      "instagram": "rdakorea",
+      "url": "https://www.instagram.com/rdakorea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "병무청",
+      "display_name": "병무청",
+      "instagram": "mma_go_kr",
+      "url": "https://www.instagram.com/mma_go_kr",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "국가유산청",
+      "display_name": "국가유산청",
+      "instagram": "k.heritage.agency",
+      "url": "https://www.instagram.com/k.heritage.agency",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "관세청",
+      "display_name": "관세청",
+      "instagram": "korea_customs",
+      "url": "https://www.instagram.com/korea_customs",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "기상청",
+      "display_name": "기상청",
+      "instagram": "kma_131",
+      "url": "https://www.instagram.com/kma_131",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "산림청",
+      "display_name": "산림청",
+      "instagram": "forest_korea",
+      "url": "https://www.instagram.com/forest_korea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "방송통신위원회",
+      "display_name": "방송통신위원회",
+      "instagram": "kcc.go.kr",
+      "url": "https://www.instagram.com/kcc.go.kr",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "지식재산처",
+      "display_name": "지식재산처",
+      "instagram": "kipoworld",
+      "url": "https://www.instagram.com/kipoworld",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "재외동포청",
+      "display_name": "재외동포청",
+      "instagram": "oka.go.kr",
+      "url": "https://www.instagram.com/oka.go.kr",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "새만금개발청",
+      "display_name": "새만금개발청",
+      "instagram": "saemangeum_pr",
+      "url": "https://www.instagram.com/saemangeum_pr",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "공정거래위원회",
+      "display_name": "공정거래위원회",
+      "instagram": "kftc_official",
+      "url": "https://www.instagram.com/kftc_official",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "금융위원회",
+      "display_name": "금융위원회",
+      "instagram": "fsc.go.kr",
+      "url": "https://www.instagram.com/fsc.go.kr",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "법제처",
+      "display_name": "법제처",
+      "instagram": "moleg.go.kr",
+      "url": "https://www.instagram.com/moleg.go.kr",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "국가데이터처",
+      "display_name": "국가데이터처",
+      "instagram": "statistics_korea",
+      "url": "https://www.instagram.com/statistics_korea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "인사혁신처",
+      "display_name": "인사혁신처",
+      "instagram": "mpm_korea_",
+      "url": "https://www.instagram.com/mpm_korea_",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "개인정보보호위원회",
+      "display_name": "개인정보보호위원회",
+      "instagram": "pipc.go.kr",
+      "url": "https://www.instagram.com/pipc.go.kr",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "해양경찰청",
+      "display_name": "해양경찰청",
+      "instagram": "kcgnmpa",
+      "url": "https://www.instagram.com/kcgnmpa",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "행정중심복합도시건설청",
+      "display_name": "행정중심복합도시건설청",
+      "instagram": "macakorea",
+      "url": "https://www.instagram.com/macakorea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "조달청",
+      "display_name": "조달청",
+      "instagram": "pps_korea",
+      "url": "https://www.instagram.com/pps_korea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "원자력안전위원회",
+      "display_name": "원자력안전위원회",
+      "instagram": "nssc.go.kr",
+      "url": "https://www.instagram.com/nssc.go.kr",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "경찰청",
+      "display_name": "경찰청",
+      "instagram": "police_kor_official",
+      "url": "https://www.instagram.com/police_kor_official",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "국세청",
+      "display_name": "국세청",
+      "instagram": "ntskorea",
+      "url": "https://www.instagram.com/ntskorea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "검찰청",
+      "display_name": "검찰청",
+      "instagram": "spo_korea",
+      "url": "https://www.instagram.com/spo_korea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "질병관리청",
+      "display_name": "질병관리청",
+      "instagram": "kdca_korea",
+      "url": "https://www.instagram.com/kdca_korea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "국민권익위원회",
+      "display_name": "국민권익위원회",
+      "instagram": "acrc_korea",
+      "url": "https://www.instagram.com/acrc_korea",
+      "level": "차관급",
+      "active": true
+    },
+    {
+      "agency": "기획예산처",
+      "display_name": "기획예산처",
+      "instagram": "mpbkorea",
+      "url": "https://www.instagram.com/mpbkorea/",
+      "level": "차관급",
+      "active": true
+    }
+  ]
+}
