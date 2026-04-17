@@ -51,4 +51,5 @@
 
   { "group": "기타", "name": "이재명", "handle": "이재명tv", "channelId": "UCNJM6dqu70Qr6VaseiW1Org", "includeInSubscriberBoard": false },
   { "group": "기타", "name": "대한민국정부", "handle": "대한민국정부", "channelId": "UCev47mZSefA6nM--tDxcxVA", "includeInSubscriberBoard": false }
-]
+  { "group": "기타", "name": "KTV 이매진", "handle": "KTV이매진", "channelId": "UCj8Snyrs1y-wnBQiUmGrTjw", "includeInSubscriberBoard": false }
+ ]
