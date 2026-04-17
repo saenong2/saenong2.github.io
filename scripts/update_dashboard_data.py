@@ -7,7 +7,7 @@ import requests
 API_KEY = os.environ["YOUTUBE_API_KEY"]
 BASE_URL = "https://www.googleapis.com/youtube/v3"
 
-EXCLUDED_SPECIAL_CHANNELS = {"이재명", "대한민국정부"}
+EXCLUDED_SPECIAL_CHANNELS = {"이재명", "대한민국정부", "KTV 이매진"}
 
 with open("data/channels.json", "r", encoding="utf-8") as f:
     CHANNELS = json.load(f)
