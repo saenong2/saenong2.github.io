@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T00:33:26.558791+00:00",
+  "updatedAt": "2026-11-23T01:10:36.073824+00:00",
   "channels": [
     {
       "group": "기타",
@@ -54,7 +54,7 @@
       "channelUrl": "https://www.youtube.com/channel/UC014CTCdGJzeQfJtxnnMyjQ",
       "thumbnail": "https://yt3.ggpht.com/2aU0-fPmyql1cm4ErDTY2cK08lq9vyCoUhH5pfB4R5kKBi3IuCWkBdKdBbSHNtGHj12dEHWj=s88-c-k-c0x00ffffff-no-rj",
       "subscriberCount": 288000,
-      "videoCount": 2943
+      "videoCount": 2944
     },
     {
       "group": "장관급",
@@ -142,7 +142,7 @@
       "channelUrl": "https://www.youtube.com/channel/UCVTdK_EozBDQ7ICMPJdbpzQ",
       "thumbnail": "https://yt3.ggpht.com/-ZsZv0Y0Lf2smlzhsRQ6Nhs_EP9ni6zSe4CESnwZIXjoSZjVI9hgKBosFL7Bwii9O-4JuzDXUQ=s88-c-k-c0x00ffffff-no-rj",
       "subscriberCount": 125000,
-      "videoCount": 6101
+      "videoCount": 6102
     },
     {
       "group": "장관급",
@@ -186,7 +186,7 @@
       "channelUrl": "https://www.youtube.com/channel/UClvT0GWxHHznabonSbWf7cg",
       "thumbnail": "https://yt3.ggpht.com/8MEDfIQWO2KqVscJZOwkSbUV97mwUy7iN3f6Ak5V-pf4p1jF0c0_TWRja4WtgIINSo_LSHfNsQ=s88-c-k-c0x00ffffff-no-rj",
       "subscriberCount": 105000,
-      "videoCount": 2657
+      "videoCount": 2658
     },
     {
       "group": "장관급",
@@ -219,7 +219,7 @@
       "channelUrl": "https://www.youtube.com/channel/UCYxEwCUBTZQrWEQtZCn6-aQ",
       "thumbnail": "https://yt3.ggpht.com/yL99kdvSOhxQWJve1RRgfMMBCvovQj-dsS5LUtwaWdk68IztGqen1VoPC3vPo7b1DJ-wAmvF=s88-c-k-c0x00ffffff-no-rj",
       "subscriberCount": 102000,
-      "videoCount": 1696
+      "videoCount": 1697
     },
     {
       "group": "차관급",
@@ -483,7 +483,7 @@
       "channelUrl": "https://www.youtube.com/channel/UCe6rgzW5OHfqJO8nB9MmH2Q",
       "thumbnail": "https://yt3.ggpht.com/M-IW_t8HLqSi4KjHvVdaCaOaT_mY1l7VqVTZf5wHK-lhTRyuHrtrwiLqlStTmq613WHv8WchjQ=s88-c-k-c0x00ffffff-no-rj",
       "subscriberCount": 30100,
-      "videoCount": 1559
+      "videoCount": 1560
     },
     {
       "group": "차관급",
@@ -565,6 +565,90 @@
   ],
   "videos": [
     {
+      "group": "장관급",
+      "channelName": "국가보훈부",
+      "handle": "mpvakorea",
+      "channelId": "UClvT0GWxHHznabonSbWf7cg",
+      "videoId": "7IpDzpUCLto",
+      "videoUrl": "https://www.youtube.com/watch?v=7IpDzpUCLto",
+      "title": "함께 싸운 나라들의 은혜에 보답하겠습니다",
+      "publishedAt": "2026-11-23T01:00:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/7IpDzpUCLto/mqdefault.jpg",
+      "viewCount": 151,
+      "likeCount": 2,
+      "commentCount": 0
+    },
+    {
+      "group": "장관급",
+      "channelName": "농림축산식품부",
+      "handle": "mafrakorea",
+      "channelId": "UC014CTCdGJzeQfJtxnnMyjQ",
+      "videoId": "Ef0XjJSI0ww",
+      "videoUrl": "https://www.youtube.com/watch?v=Ef0XjJSI0ww",
+      "title": "YES or NO! 내 업무 스타일, 농업에서도 통할까?👀 | 2026 갓생 인턴십",
+      "publishedAt": "2026-11-23T01:00:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ef0XjJSI0ww/mqdefault.jpg",
+      "viewCount": 3,
+      "likeCount": 2,
+      "commentCount": 0
+    },
+    {
+      "group": "차관급",
+      "channelName": "통계청",
+      "handle": "StatisticsKorea",
+      "channelId": "UCe6rgzW5OHfqJO8nB9MmH2Q",
+      "videoId": "L23UL9Ab_Ig",
+      "videoUrl": "https://www.youtube.com/watch?v=L23UL9Ab_Ig",
+      "title": "🎤융합데이터는 무엇이고, 구축되면 무엇이 좋아지나요?",
+      "publishedAt": "2026-11-23T01:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/L23UL9Ab_Ig/mqdefault.jpg",
+      "viewCount": 8,
+      "likeCount": 0,
+      "commentCount": 0
+    },
+    {
+      "group": "차관급",
+      "channelName": "방위사업청",
+      "handle": "dapapr",
+      "channelId": "UCYxEwCUBTZQrWEQtZCn6-aQ",
+      "videoId": "kFcIMS3EcTU",
+      "videoUrl": "https://www.youtube.com/watch?v=kFcIMS3EcTU",
+      "title": "해외 전문가가 바라 본 K-방산과 핵추진잠수함!",
+      "publishedAt": "2026-11-23T01:00:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/kFcIMS3EcTU/mqdefault.jpg",
+      "viewCount": 8,
+      "likeCount": 2,
+      "commentCount": 0
+    },
+    {
+      "group": "차관급",
+      "channelName": "국세청",
+      "handle": "ntskorea",
+      "channelId": "UCVTdK_EozBDQ7ICMPJdbpzQ",
+      "videoId": "uov81dpVt7A",
+      "videoUrl": "https://www.youtube.com/watch?v=uov81dpVt7A",
+      "title": "기부했더니 혜택이 돌아온다?! 세액공제·답례품·전자기부금영수증 총정리 [국세매거진] #국세청 #세금 #절세",
+      "publishedAt": "2026-11-23T01:00:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/uov81dpVt7A/mqdefault.jpg",
+      "viewCount": 8,
+      "likeCount": 1,
+      "commentCount": 0
+    },
+    {
+      "group": "장관급",
+      "channelName": "국가보훈부",
+      "handle": "mpvakorea",
+      "channelId": "UClvT0GWxHHznabonSbWf7cg",
+      "videoId": "KcbTy-9-YDA",
+      "videoUrl": "https://www.youtube.com/watch?v=KcbTy-9-YDA",
+      "title": "독립유공자 바로 봄 캠페인 [우리 동네 영웅에게 연결 중]",
+      "publishedAt": "2026-11-23T00:41:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/KcbTy-9-YDA/mqdefault.jpg",
+      "viewCount": 12,
+      "likeCount": 0,
+      "commentCount": 0
+    },
+    {
       "group": "차관급",
       "channelName": "국세청",
       "handle": "ntskorea",
@@ -574,7 +658,7 @@
       "title": "우리 술도 해외 진출할 수 있다고?! 2026 K-SUUL AWARDS의 특별한 혜택! #국세청 #절세미인 #KSUULAWARDS",
       "publishedAt": "2026-11-22T23:30:01Z",
       "thumbnail": "https://i.ytimg.com/vi/njE7JE2AaOI/mqdefault.jpg",
-      "viewCount": 13,
+      "viewCount": 15,
       "likeCount": 1,
       "commentCount": 0
     },
@@ -602,9 +686,9 @@
       "title": "불빛을 비워낸 밤, 별빛이 채우는 소리 ㅣ 11월의 낭송, 성우 손수호 🎧",
       "publishedAt": "2026-11-22T11:59:11Z",
       "thumbnail": "https://i.ytimg.com/vi/GF1kJIVyx_g/mqdefault.jpg",
-      "viewCount": 196,
-      "likeCount": 60,
-      "commentCount": 72
+      "viewCount": 207,
+      "likeCount": 67,
+      "commentCount": 79
     },
     {
       "group": "차관급",
@@ -616,8 +700,8 @@
       "title": "생방송 중 돌발행동한 남성의 정체 #shorts",
       "publishedAt": "2026-11-22T10:00:18Z",
       "thumbnail": "https://i.ytimg.com/vi/1IF0THRF2vI/mqdefault.jpg",
-      "viewCount": 2298,
-      "likeCount": 29,
+      "viewCount": 2350,
+      "likeCount": 31,
       "commentCount": 3
     },
     {
@@ -630,8 +714,8 @@
       "title": "[명言명心]  '국민 부담을 가중하는 공공부문 민영화는 꼭 막겠습니다.' 유사•중복 공공기관 109곳 통폐합. 기관의 효율성을 높이는 기능 개혁을 통해 국민에게 봉사하는 것!",
       "publishedAt": "2026-11-22T01:22:10Z",
       "thumbnail": "https://i.ytimg.com/vi/M71IVm8zQjI/mqdefault.jpg",
-      "viewCount": 15655,
-      "likeCount": 1095,
+      "viewCount": 15806,
+      "likeCount": 1100,
       "commentCount": 66
     },
     {
@@ -644,8 +728,8 @@
       "title": "it’s all right! 전통공예, 우리 집🏠으로 가자 #더현대 #K-크래프트 하우스",
       "publishedAt": "2026-11-22T01:00:23Z",
       "thumbnail": "https://i.ytimg.com/vi/cNX1-ixJwgs/mqdefault.jpg",
-      "viewCount": 1078,
-      "likeCount": 10,
+      "viewCount": 1092,
+      "likeCount": 11,
       "commentCount": 0
     },
     {
@@ -658,9 +742,9 @@
       "title": "호계곅! 울산에서 잼무브🏃 재명로그",
       "publishedAt": "2026-11-21T12:13:11Z",
       "thumbnail": "https://i.ytimg.com/vi/zmqbVIJ2Rn0/mqdefault.jpg",
-      "viewCount": 103950,
-      "likeCount": 8248,
-      "commentCount": 1219
+      "viewCount": 104475,
+      "likeCount": 8280,
+      "commentCount": 1236
     },
     {
       "group": "기타",
@@ -672,9 +756,9 @@
       "title": "감 맛 좀 봅시다",
       "publishedAt": "2026-11-21T10:12:44Z",
       "thumbnail": "https://i.ytimg.com/vi/IR4Byp6M_gw/mqdefault.jpg",
-      "viewCount": 103085,
-      "likeCount": 10158,
-      "commentCount": 613
+      "viewCount": 103468,
+      "likeCount": 10199,
+      "commentCount": 618
     },
     {
       "group": "기타",
@@ -686,9 +770,9 @@
       "title": "명예 알밤 홍보대사🌰",
       "publishedAt": "2026-11-21T10:12:17Z",
       "thumbnail": "https://i.ytimg.com/vi/c1cPSJLTv5Q/mqdefault.jpg",
-      "viewCount": 52661,
-      "likeCount": 7662,
-      "commentCount": 285
+      "viewCount": 52838,
+      "likeCount": 7683,
+      "commentCount": 286
     },
     {
       "group": "기타",
@@ -700,8 +784,8 @@
       "title": "카메라맨님들은?🍢",
       "publishedAt": "2026-11-21T10:11:04Z",
       "thumbnail": "https://i.ytimg.com/vi/u_cFQz_E9Rw/mqdefault.jpg",
-      "viewCount": 86939,
-      "likeCount": 9512,
+      "viewCount": 87295,
+      "likeCount": 9550,
       "commentCount": 396
     },
     {
@@ -714,9 +798,9 @@
       "title": "호계시장 사랑방",
       "publishedAt": "2026-11-21T10:10:08Z",
       "thumbnail": "https://i.ytimg.com/vi/T-SrhxVFzl4/mqdefault.jpg",
-      "viewCount": 29890,
-      "likeCount": 4971,
-      "commentCount": 185
+      "viewCount": 30074,
+      "likeCount": 4989,
+      "commentCount": 186
     },
     {
       "group": "기타",
@@ -728,8 +812,8 @@
       "title": "시장에 왔어요~ 울산 시장에 왔어요. 토요일 울산을 방문한 이 대통령. 데이터 센터 건설 현장 갔다가 시장을 2곳이나 들렀지 뭐예요~ 현장 영상 드립니다~#이재명#대통령#이매진",
       "publishedAt": "2026-11-21T09:17:26Z",
       "thumbnail": "https://i.ytimg.com/vi/iGdIUcGa80k/mqdefault.jpg",
-      "viewCount": 59096,
-      "likeCount": 3579,
+      "viewCount": 59146,
+      "likeCount": 3581,
       "commentCount": 246
     },
     {
@@ -742,9 +826,9 @@
       "title": "울산 호계시장도 왔잼",
       "publishedAt": "2026-11-21T09:09:06Z",
       "thumbnail": "https://i.ytimg.com/vi/3wY9_9lBAE8/mqdefault.jpg",
-      "viewCount": 83701,
-      "likeCount": 9522,
-      "commentCount": 400
+      "viewCount": 83903,
+      "likeCount": 9546,
+      "commentCount": 401
     },
     {
       "group": "기타",
@@ -756,9 +840,9 @@
       "title": "메가급 속도⚡️⚡️ 울산 SK AI 데이터센터 현장 방문",
       "publishedAt": "2026-11-21T09:01:39Z",
       "thumbnail": "https://i.ytimg.com/vi/EGOuThEhGeY/mqdefault.jpg",
-      "viewCount": 45104,
-      "likeCount": 3371,
-      "commentCount": 431
+      "viewCount": 45243,
+      "likeCount": 3377,
+      "commentCount": 433
     },
     {
       "group": "기타",
@@ -770,9 +854,9 @@
       "title": "배추천사...😇",
       "publishedAt": "2026-11-21T08:46:24Z",
       "thumbnail": "https://i.ytimg.com/vi/Ra7D2GobElI/mqdefault.jpg",
-      "viewCount": 239602,
-      "likeCount": 20239,
-      "commentCount": 1378
+      "viewCount": 240031,
+      "likeCount": 20247,
+      "commentCount": 1379
     },
     {
       "group": "기타",
@@ -784,8 +868,8 @@
       "title": "우리 개 뭅니다",
       "publishedAt": "2026-11-21T08:44:42Z",
       "thumbnail": "https://i.ytimg.com/vi/3EMlKg-czqw/mqdefault.jpg",
-      "viewCount": 68115,
-      "likeCount": 9030,
+      "viewCount": 68370,
+      "likeCount": 9053,
       "commentCount": 274
     },
     {
@@ -798,8 +882,8 @@
       "title": "울산 현장 여론조사 #분석중",
       "publishedAt": "2026-11-21T08:44:19Z",
       "thumbnail": "https://i.ytimg.com/vi/BMENntkf0q4/mqdefault.jpg",
-      "viewCount": 61696,
-      "likeCount": 9197,
+      "viewCount": 61909,
+      "likeCount": 9222,
       "commentCount": 320
     },
     {
@@ -812,9 +896,9 @@
       "title": "(아이고 못 찍겠다) ??:다 찍어드립니다",
       "publishedAt": "2026-11-21T08:38:53Z",
       "thumbnail": "https://i.ytimg.com/vi/kvL2NmanmnY/mqdefault.jpg",
-      "viewCount": 37290,
-      "likeCount": 6267,
-      "commentCount": 198
+      "viewCount": 37452,
+      "likeCount": 6296,
+      "commentCount": 199
     },
     {
       "group": "기타",
@@ -826,9 +910,9 @@
       "title": "동울산시장 브이하자~👶",
       "publishedAt": "2026-11-21T08:38:35Z",
       "thumbnail": "https://i.ytimg.com/vi/kq47OkVilyI/mqdefault.jpg",
-      "viewCount": 36573,
-      "likeCount": 7241,
-      "commentCount": 236
+      "viewCount": 36676,
+      "likeCount": 7259,
+      "commentCount": 237
     },
     {
       "group": "기타",
@@ -840,8 +924,8 @@
       "title": "니는 왜 우노",
       "publishedAt": "2026-11-21T08:38:20Z",
       "thumbnail": "https://i.ytimg.com/vi/kDy4s3eFuE4/mqdefault.jpg",
-      "viewCount": 47150,
-      "likeCount": 7694,
+      "viewCount": 47355,
+      "likeCount": 7704,
       "commentCount": 219
     },
     {
@@ -854,9 +938,9 @@
       "title": "(간접광고) 와우! 도너츠 맛이 살아있네",
       "publishedAt": "2026-11-21T08:38:06Z",
       "thumbnail": "https://i.ytimg.com/vi/MlPggCFxBm4/mqdefault.jpg",
-      "viewCount": 84343,
-      "likeCount": 10662,
-      "commentCount": 455
+      "viewCount": 84524,
+      "likeCount": 10677,
+      "commentCount": 456
     },
     {
       "group": "기타",
@@ -868,9 +952,9 @@
       "title": "점심 먹긴 틀렸네",
       "publishedAt": "2026-11-21T08:37:41Z",
       "thumbnail": "https://i.ytimg.com/vi/RdFGPPncmj4/mqdefault.jpg",
-      "viewCount": 118693,
-      "likeCount": 11213,
-      "commentCount": 416
+      "viewCount": 118863,
+      "likeCount": 11227,
+      "commentCount": 418
     },
     {
       "group": "기타",
@@ -882,8 +966,8 @@
       "title": "오늘은 동울산종합시장✌️",
       "publishedAt": "2026-11-21T08:37:16Z",
       "thumbnail": "https://i.ytimg.com/vi/YZVKX3Uz4rg/mqdefault.jpg",
-      "viewCount": 23525,
-      "likeCount": 3630,
+      "viewCount": 23573,
+      "likeCount": 3636,
       "commentCount": 100
     },
     {
@@ -896,7 +980,7 @@
       "title": "🇰🇷🤝🇦🇪 한국과 UAE, 미래를 향한 협력을 이어갑니다!",
       "publishedAt": "2026-11-21T08:34:34Z",
       "thumbnail": "https://i.ytimg.com/vi/5yfIJzdDSOo/mqdefault.jpg",
-      "viewCount": 624,
+      "viewCount": 629,
       "likeCount": 13,
       "commentCount": 1
     },
@@ -910,7 +994,7 @@
       "title": "🔬 기초연구가 만든 오늘, 기초연구가 밝힐 미래!",
       "publishedAt": "2026-11-21T08:33:47Z",
       "thumbnail": "https://i.ytimg.com/vi/91lDTua5_80/mqdefault.jpg",
-      "viewCount": 1643,
+      "viewCount": 1602,
       "likeCount": 22,
       "commentCount": 1
     },
@@ -924,7 +1008,7 @@
       "title": "골든타임을 지키는 단 하나의 판단｜저고도항공날씨 모바일 앱 (LAMIS-A) 런칭",
       "publishedAt": "2026-11-21T08:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/wD_VSs4hUwU/mqdefault.jpg",
-      "viewCount": 925,
+      "viewCount": 927,
       "likeCount": 25,
       "commentCount": 0
     },
@@ -938,8 +1022,8 @@
       "title": "울산의 놀라운 속도👏",
       "publishedAt": "2026-11-21T07:45:40Z",
       "thumbnail": "https://i.ytimg.com/vi/9mcFpSaSzqI/mqdefault.jpg",
-      "viewCount": 27992,
-      "likeCount": 6608,
+      "viewCount": 28083,
+      "likeCount": 6617,
       "commentCount": 312
     },
     {
@@ -952,8 +1036,8 @@
       "title": "5GW급 AI데이터센터의 출발점, 울산에서!",
       "publishedAt": "2026-11-21T07:14:13Z",
       "thumbnail": "https://i.ytimg.com/vi/_zGEKokigqM/mqdefault.jpg",
-      "viewCount": 28145,
-      "likeCount": 5619,
+      "viewCount": 28234,
+      "likeCount": 5626,
       "commentCount": 320
     },
     {
@@ -966,9 +1050,9 @@
       "title": "올해는 김장 몇 포기?",
       "publishedAt": "2026-11-21T05:20:40Z",
       "thumbnail": "https://i.ytimg.com/vi/5JDsT4ulRXE/mqdefault.jpg",
-      "viewCount": 36487,
-      "likeCount": 7156,
-      "commentCount": 302
+      "viewCount": 36540,
+      "likeCount": 7168,
+      "commentCount": 304
     },
     {
       "group": "차관급",
@@ -980,7 +1064,7 @@
       "title": "결혼할 때 부모님이 주신 돈, 증여세 얼마나 줄일 수 있을까? #국세청 #택스시그널 #혼인증여재산공제",
       "publishedAt": "2026-11-21T05:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/TNunAQvnhFo/mqdefault.jpg",
-      "viewCount": 663,
+      "viewCount": 664,
       "likeCount": 11,
       "commentCount": 1
     },
@@ -994,8 +1078,8 @@
       "title": "[대통령 풀영상] 토요일은 뭐 하는 날일까요? 데이터 센터 방문하는 날이죠~ 이재명 대통령 울산 SK AI 데이터센터 현장 방문 풀영상#이재명#대통령#울산#데이터센터#방문#풀영상",
       "publishedAt": "2026-11-21T04:07:08Z",
       "thumbnail": "https://i.ytimg.com/vi/htvBn8ETUf0/mqdefault.jpg",
-      "viewCount": 56914,
-      "likeCount": 3874,
+      "viewCount": 56943,
+      "likeCount": 3876,
       "commentCount": 282
     },
     {
@@ -1041,6 +1125,20 @@
       "commentCount": 0
     },
     {
+      "group": "기타",
+      "channelName": "KTV 이매진",
+      "handle": "KTV이매진",
+      "channelId": "UCj8Snyrs1y-wnBQiUmGrTjw",
+      "videoId": "SZ6Pj6hzSic",
+      "videoUrl": "https://www.youtube.com/watch?v=SZ6Pj6hzSic",
+      "title": "(26.11.23.) 국민안전플러스 프로젝트 관련 김성완 대변인 브리핑",
+      "publishedAt": "2026-11-21T00:22:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/SZ6Pj6hzSic/mqdefault.jpg?v=6b00e42e",
+      "viewCount": 557,
+      "likeCount": 181,
+      "commentCount": 1
+    },
+    {
       "group": "장관급",
       "channelName": "문화체육관광부",
       "handle": "문화체육관광부",
@@ -1050,7 +1148,7 @@
       "title": "K-영화의 미래가 여기서 시작됩니다! 🎬 부산기장촬영소 현장 공개",
       "publishedAt": "2026-11-20T23:54:09Z",
       "thumbnail": "https://i.ytimg.com/vi/a3clSaCjAZs/mqdefault.jpg",
-      "viewCount": 1060,
+      "viewCount": 1068,
       "likeCount": 14,
       "commentCount": 0
     },
@@ -1064,9 +1162,9 @@
       "title": "초등학생에게 '공정한 거래'를 묻다 | 김현철과 살펴보는 공정거래의 가치, 공정클라스 EP04",
       "publishedAt": "2026-11-20T11:11:30Z",
       "thumbnail": "https://i.ytimg.com/vi/P1iTk8PkuBM/mqdefault.jpg",
-      "viewCount": 761,
-      "likeCount": 173,
-      "commentCount": 286
+      "viewCount": 765,
+      "likeCount": 175,
+      "commentCount": 287
     },
     {
       "group": "장관급",
@@ -1092,7 +1190,7 @@
       "title": "[산불완료] 경기도 연천군 산불, 진화 완료!",
       "publishedAt": "2026-11-20T10:51:24Z",
       "thumbnail": "https://i.ytimg.com/vi/1L7inHd0A-4/mqdefault.jpg",
-      "viewCount": 1984,
+      "viewCount": 1980,
       "likeCount": 41,
       "commentCount": 5
     },
@@ -1134,7 +1232,7 @@
       "title": "공짜",
       "publishedAt": "2026-11-20T09:00:10Z",
       "thumbnail": "https://i.ytimg.com/vi/IIKyAOKSp30/mqdefault.jpg",
-      "viewCount": 1545,
+      "viewCount": 1546,
       "likeCount": 17,
       "commentCount": 2
     },
@@ -1148,8 +1246,8 @@
       "title": "셀 수 없다! 폭풍 추가되는 ㅇㅇ? 추추추가요~#이재명#대통령#이재명대통령#ktv#이매진",
       "publishedAt": "2026-11-20T08:57:22Z",
       "thumbnail": "https://i.ytimg.com/vi/E9pqdHJRzxM/mqdefault.jpg",
-      "viewCount": 21810,
-      "likeCount": 4402,
+      "viewCount": 21885,
+      "likeCount": 4415,
       "commentCount": 119
     },
     {
@@ -1190,8 +1288,8 @@
       "title": "달라진 시험 환경, 새로운 과제?! #이재명 #대통령 #이재명대통령 #수능 #ktv #이매진",
       "publishedAt": "2026-11-20T08:41:36Z",
       "thumbnail": "https://i.ytimg.com/vi/1D7S-1xrWlo/mqdefault.jpg",
-      "viewCount": 14823,
-      "likeCount": 2829,
+      "viewCount": 14865,
+      "likeCount": 2839,
       "commentCount": 34
     },
     {
@@ -1260,8 +1358,8 @@
       "title": "국군사관학교가 필요한 이유",
       "publishedAt": "2026-11-20T08:33:52Z",
       "thumbnail": "https://i.ytimg.com/vi/QkFycWDKevI/mqdefault.jpg",
-      "viewCount": 3760,
-      "likeCount": 74,
+      "viewCount": 3786,
+      "likeCount": 77,
       "commentCount": 18
     },
     {
@@ -1344,7 +1442,7 @@
       "title": "대한민국을 지키는 힘! K-DEFENSE POWER, 기동 편 | 대한민국 국방부",
       "publishedAt": "2026-11-20T08:17:16Z",
       "thumbnail": "https://i.ytimg.com/vi/8m4lM8IfKyM/mqdefault.jpg",
-      "viewCount": 5461,
+      "viewCount": 5547,
       "likeCount": 8,
       "commentCount": 1
     },
@@ -1358,7 +1456,7 @@
       "title": "대한민국을 지키는 힘! K-DEFENSE POWER, 탐지 정찰 편 | 대한민국 국방부",
       "publishedAt": "2026-11-20T08:13:58Z",
       "thumbnail": "https://i.ytimg.com/vi/lUvtTgtvbP4/mqdefault.jpg",
-      "viewCount": 549,
+      "viewCount": 551,
       "likeCount": 5,
       "commentCount": 1
     },
@@ -1373,7 +1471,7 @@
       "publishedAt": "2026-11-20T08:03:08Z",
       "thumbnail": "https://i.ytimg.com/vi/LQkQB1Jnndw/mqdefault.jpg",
       "viewCount": 456,
-      "likeCount": 27,
+      "likeCount": 28,
       "commentCount": 0
     },
     {
@@ -1386,9 +1484,9 @@
       "title": "어떠한 대외환경 변화에도 흔들림없이",
       "publishedAt": "2026-11-20T08:00:45Z",
       "thumbnail": "https://i.ytimg.com/vi/j6q4m9VMIcc/mqdefault.jpg",
-      "viewCount": 21136,
-      "likeCount": 4173,
-      "commentCount": 300
+      "viewCount": 21156,
+      "likeCount": 4180,
+      "commentCount": 299
     },
     {
       "group": "차관급",
@@ -1400,7 +1498,7 @@
       "title": "공군 일반병, 정말 공정하게 추첨하는 걸까? 🤔",
       "publishedAt": "2026-11-20T08:00:24Z",
       "thumbnail": "https://i.ytimg.com/vi/PYHhuriP71U/mqdefault.jpg",
-      "viewCount": 1803,
+      "viewCount": 1807,
       "likeCount": 2,
       "commentCount": 3
     },
@@ -1456,7 +1554,7 @@
       "title": "시험 부정행위, 일벌백계하겠습니다",
       "publishedAt": "2026-11-20T07:37:14Z",
       "thumbnail": "https://i.ytimg.com/vi/A56aT22HQ7E/mqdefault.jpg",
-      "viewCount": 37724,
+      "viewCount": 37748,
       "likeCount": 8213,
       "commentCount": 373
     },
@@ -1484,8 +1582,8 @@
       "title": "국민 모두의 성장 시대로",
       "publishedAt": "2026-11-20T07:35:41Z",
       "thumbnail": "https://i.ytimg.com/vi/FbyY6DIOIPQ/mqdefault.jpg",
-      "viewCount": 23830,
-      "likeCount": 7188,
+      "viewCount": 23935,
+      "likeCount": 7220,
       "commentCount": 433
     },
     {
@@ -1498,8 +1596,8 @@
       "title": "선전에서 다시 만났어요",
       "publishedAt": "2026-11-20T07:35:10Z",
       "thumbnail": "https://i.ytimg.com/vi/mCCWE6mRbOw/mqdefault.jpg",
-      "viewCount": 26188,
-      "likeCount": 4620,
+      "viewCount": 26231,
+      "likeCount": 4628,
       "commentCount": 191
     },
     {
@@ -1512,7 +1610,7 @@
       "title": "「민주유공자법」관련 오해와 진실, 정확하게 알려드립니다! 🔍",
       "publishedAt": "2026-11-20T07:34:11Z",
       "thumbnail": "https://i.ytimg.com/vi/emj30KEQf-o/mqdefault.jpg",
-      "viewCount": 5090,
+      "viewCount": 5094,
       "likeCount": 17,
       "commentCount": 4
     },
@@ -1526,7 +1624,7 @@
       "title": "(랩잘함주의) 랩으로 헌혈 독려하는 아리 (with MC문)",
       "publishedAt": "2026-11-20T07:21:23Z",
       "thumbnail": "https://i.ytimg.com/vi/L3x7GHNOeXA/mqdefault.jpg",
-      "viewCount": 95856,
+      "viewCount": 95811,
       "likeCount": 49,
       "commentCount": 11
     },
@@ -1540,7 +1638,7 @@
       "title": "국민참여예산제도\"국민의 작은 한마디가 우리나라를 바꿀 수 있을까요?\" | 국민참여예산",
       "publishedAt": "2026-11-20T07:09:49Z",
       "thumbnail": "https://i.ytimg.com/vi/9G47sI_Y-Jk/mqdefault.jpg",
-      "viewCount": 358,
+      "viewCount": 364,
       "likeCount": 4,
       "commentCount": 1
     },
@@ -1554,7 +1652,7 @@
       "title": "역대급 스케일! 새참 100인분이 완성됐습니다! | 청년식탁 시즌2 EP.2",
       "publishedAt": "2026-11-20T07:01:23Z",
       "thumbnail": "https://i.ytimg.com/vi/k51hNEbLEnQ/mqdefault.jpg",
-      "viewCount": 13308,
+      "viewCount": 13364,
       "likeCount": 34,
       "commentCount": 14
     },
@@ -1568,7 +1666,7 @@
       "title": "\"저는 실패하지 않습니다\" 전국 팔도 농가맛집 YES🍚 #닥터X패러디",
       "publishedAt": "2026-11-20T06:57:31Z",
       "thumbnail": "https://i.ytimg.com/vi/Q9tutaR9WSM/mqdefault.jpg",
-      "viewCount": 10262,
+      "viewCount": 10263,
       "likeCount": 15,
       "commentCount": 12
     },
@@ -1596,7 +1694,7 @@
       "title": "시속 182km... 과속 음주 질주의 결말 #shorts",
       "publishedAt": "2026-11-20T06:30:25Z",
       "thumbnail": "https://i.ytimg.com/vi/aYuHmuvly58/mqdefault.jpg",
-      "viewCount": 7516,
+      "viewCount": 7536,
       "likeCount": 145,
       "commentCount": 12
     },
@@ -1624,7 +1722,7 @@
       "title": "[EVENT] K의 뒤엔, 법이 있다! 우리가 몰랐던 K의 이야기",
       "publishedAt": "2026-11-20T06:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/0eURZHg47Pw/mqdefault.jpg",
-      "viewCount": 102996,
+      "viewCount": 104048,
       "likeCount": 18,
       "commentCount": 8
     },
@@ -1666,9 +1764,9 @@
       "title": "한 과학자의 집념, 대한민국 기술이 되다",
       "publishedAt": "2026-11-20T05:43:59Z",
       "thumbnail": "https://i.ytimg.com/vi/OkPtkovzkvw/mqdefault.jpg",
-      "viewCount": 41442,
-      "likeCount": 171,
-      "commentCount": 286
+      "viewCount": 41851,
+      "likeCount": 173,
+      "commentCount": 288
     },
     {
       "group": "장관급",
@@ -1680,7 +1778,7 @@
       "title": "수능 끝낸 너에게, 정말 수고했어💙",
       "publishedAt": "2026-11-20T05:20:00Z",
       "thumbnail": "https://i.ytimg.com/vi/VdWS-4cdz5s/mqdefault.jpg",
-      "viewCount": 1491,
+      "viewCount": 1448,
       "likeCount": 7,
       "commentCount": 0
     },
@@ -1694,7 +1792,7 @@
       "title": "세계를 누빈 수출프렌즈의 여행 결산 ✈️ 19년 만에 탄생한 새로운 수출 1조 달러 국가!",
       "publishedAt": "2026-11-20T05:19:19Z",
       "thumbnail": "https://i.ytimg.com/vi/gUid7xcWFMw/mqdefault.jpg",
-      "viewCount": 269,
+      "viewCount": 270,
       "likeCount": 14,
       "commentCount": 1
     },
@@ -1708,8 +1806,8 @@
       "title": "(26.11.20.) 제53차 대통령 주재 수석보좌관회의 모두발언",
       "publishedAt": "2026-11-20T05:17:36Z",
       "thumbnail": "https://i.ytimg.com/vi/GZAbEXyQWQM/mqdefault.jpg",
-      "viewCount": 10236,
-      "likeCount": 619,
+      "viewCount": 9938,
+      "likeCount": 620,
       "commentCount": 40
     },
     {
@@ -1722,9 +1820,9 @@
       "title": "[#이재명 LIVE] 수출 1조 달러 시대, 첨단산업 선도국가 대한민국! | 제53차 대수보",
       "publishedAt": "2026-11-20T05:13:22Z",
       "thumbnail": "https://i.ytimg.com/vi/DLIHxLkzkWw/mqdefault.jpg",
-      "viewCount": 63358,
-      "likeCount": 7211,
-      "commentCount": 1857
+      "viewCount": 63466,
+      "likeCount": 7204,
+      "commentCount": 1858
     },
     {
       "group": "차관급",
@@ -1736,7 +1834,7 @@
       "title": "랩으로 밀수 신고하기🎤",
       "publishedAt": "2026-11-20T05:03:40Z",
       "thumbnail": "https://i.ytimg.com/vi/LUNUMYiYa5E/mqdefault.jpg",
-      "viewCount": 248,
+      "viewCount": 247,
       "likeCount": 19,
       "commentCount": 4
     },
@@ -1750,7 +1848,7 @@
       "title": "아빠에게 무이자로 돈을 빌려도 괜찮을까? 증여세 없이 빌릴 수 있는 금액은? #국세청 #택스시그널 #무이자대출",
       "publishedAt": "2026-11-20T05:00:19Z",
       "thumbnail": "https://i.ytimg.com/vi/IWaBJJ7wowY/mqdefault.jpg",
-      "viewCount": 6755,
+      "viewCount": 6733,
       "likeCount": 17,
       "commentCount": 1
     },
@@ -1764,8 +1862,8 @@
       "title": "[대통령 풀영상] 김혜경 여사 참석 제7회 김치의 날 기념식 , 김장 체험 행사 현장 풀영상#김혜경#여사#김치#행사#풀영상#이매진",
       "publishedAt": "2026-11-20T04:52:17Z",
       "thumbnail": "https://i.ytimg.com/vi/N92bAdKOYw4/mqdefault.jpg",
-      "viewCount": 69335,
-      "likeCount": 3048,
+      "viewCount": 69376,
+      "likeCount": 3049,
       "commentCount": 177
     },
     {
@@ -1778,8 +1876,8 @@
       "title": "대통령이 직접 설명하는 복지 정책! #기준중위소득 #소득구간 #이재명대통령 #KTV #이매진",
       "publishedAt": "2026-11-20T04:46:04Z",
       "thumbnail": "https://i.ytimg.com/vi/0P3Mb8UkA6Y/mqdefault.jpg",
-      "viewCount": 3463,
-      "likeCount": 499,
+      "viewCount": 3473,
+      "likeCount": 502,
       "commentCount": 20
     },
     {
@@ -1792,8 +1890,8 @@
       "title": "알아서 척척! 찾아가서 신청하는 복지는 끝..?! #자동주의 #복지 #지원정책 #신청 #이재명대통령 #KTV #이매진",
       "publishedAt": "2026-11-20T04:45:44Z",
       "thumbnail": "https://i.ytimg.com/vi/dOa4ROeuMQk/mqdefault.jpg",
-      "viewCount": 4330,
-      "likeCount": 1140,
+      "viewCount": 4342,
+      "likeCount": 1144,
       "commentCount": 25
     },
     {
@@ -1806,9 +1904,9 @@
       "title": "달라진 시대에 맞는 복지! 대통령의 생각은? #복지 #철학 #이재명대통령 #경제대국 #수출 #강국 #KTV #이매진",
       "publishedAt": "2026-11-20T04:45:10Z",
       "thumbnail": "https://i.ytimg.com/vi/0BdyQRK1N3E/mqdefault.jpg",
-      "viewCount": 5195,
-      "likeCount": 1405,
-      "commentCount": 46
+      "viewCount": 5209,
+      "likeCount": 1410,
+      "commentCount": 47
     },
     {
       "group": "장관급",
@@ -1834,8 +1932,8 @@
       "title": "얼큰칼칼 대파 육개장 레시피!",
       "publishedAt": "2026-11-20T04:27:06Z",
       "thumbnail": "https://i.ytimg.com/vi/tBaI3_jdRmA/mqdefault.jpg",
-      "viewCount": 37777,
-      "likeCount": 31,
+      "viewCount": 37983,
+      "likeCount": 30,
       "commentCount": 0
     },
     {
@@ -1848,7 +1946,7 @@
       "title": "[EVENT] 전통시장에 법이 숨어 있다고?! 🔎｜K-법 생활발견 ‘숨은 법 보물찾기’",
       "publishedAt": "2026-11-20T04:12:10Z",
       "thumbnail": "https://i.ytimg.com/vi/3_7MI-OfYqY/mqdefault.jpg",
-      "viewCount": 79354,
+      "viewCount": 80892,
       "likeCount": 12,
       "commentCount": 14
     },
@@ -1862,7 +1960,7 @@
       "title": "🌟 식의약 안전을 알리는 청소년(중·고·대학생)들의 특별한 이야기!",
       "publishedAt": "2026-11-20T04:04:57Z",
       "thumbnail": "https://i.ytimg.com/vi/3RYHu0mF6-w/mqdefault.jpg",
-      "viewCount": 257,
+      "viewCount": 258,
       "likeCount": 6,
       "commentCount": 0
     },
@@ -1876,7 +1974,7 @@
       "title": "[유니세이] 서울 시내에 이런 곳이?!_남북회담장, 최초 일반개방",
       "publishedAt": "2026-11-20T04:03:05Z",
       "thumbnail": "https://i.ytimg.com/vi/MvdfGcqEgcA/mqdefault.jpg",
-      "viewCount": 5775,
+      "viewCount": 5965,
       "likeCount": 8,
       "commentCount": 3
     },
@@ -1890,7 +1988,7 @@
       "title": "중앙행정심판위원회, 울산시민의 권익구제를 위해 손잡다!🤝",
       "publishedAt": "2026-11-20T03:00:35Z",
       "thumbnail": "https://i.ytimg.com/vi/XwneZWEYqyE/mqdefault.jpg",
-      "viewCount": 165,
+      "viewCount": 166,
       "likeCount": 4,
       "commentCount": 0
     },
@@ -1932,7 +2030,7 @@
       "title": "🥬 김장의 조건 ☝️",
       "publishedAt": "2026-11-20T02:04:19Z",
       "thumbnail": "https://i.ytimg.com/vi/_OsHLiOhmsA/mqdefault.jpg",
-      "viewCount": 20184,
+      "viewCount": 20179,
       "likeCount": 33,
       "commentCount": 5
     },
@@ -1960,7 +2058,7 @@
       "title": "농업기업에서 이렇게 다양한 일을 한다고?💻 | 2026 갓생 인턴십",
       "publishedAt": "2026-11-20T02:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/LaIWutHzfuc/mqdefault.jpg",
-      "viewCount": 8285,
+      "viewCount": 8705,
       "likeCount": 8,
       "commentCount": 0
     },
@@ -1974,7 +2072,7 @@
       "title": "공공 마이데이터 간편확인서비스!",
       "publishedAt": "2026-11-20T01:41:14Z",
       "thumbnail": "https://i.ytimg.com/vi/D6vcW_Qug18/mqdefault.jpg",
-      "viewCount": 308,
+      "viewCount": 310,
       "likeCount": 8,
       "commentCount": 1
     },
@@ -1988,7 +2086,7 @@
       "title": "🌏 2026 UN 전자정부평가 대한민국, 12년 만에 세계 1위!",
       "publishedAt": "2026-11-20T01:38:03Z",
       "thumbnail": "https://i.ytimg.com/vi/K1gMY5p6C3A/mqdefault.jpg",
-      "viewCount": 411,
+      "viewCount": 398,
       "likeCount": 6,
       "commentCount": 0
     },
@@ -2016,7 +2114,7 @@
       "title": "[119영상콘텐츠 공모전 최우수상] 온 세상이 지며들다",
       "publishedAt": "2026-11-20T01:13:41Z",
       "thumbnail": "https://i.ytimg.com/vi/zNBzFyhHDUc/mqdefault.jpg",
-      "viewCount": 3095,
+      "viewCount": 3092,
       "likeCount": 13,
       "commentCount": 2
     },
@@ -2031,7 +2129,7 @@
       "publishedAt": "2026-11-20T01:08:32Z",
       "thumbnail": "https://i.ytimg.com/vi/F2f75VteOQ4/mqdefault.jpg",
       "viewCount": 204,
-      "likeCount": 9,
+      "likeCount": 10,
       "commentCount": 1
     },
     {
@@ -2072,8 +2170,8 @@
       "title": "🍱 먹GO보GO 6화 | 아내 음식 사랑으로 먹는다는 윤형빈",
       "publishedAt": "2026-11-20T01:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/4A7hvTyoap4/mqdefault.jpg",
-      "viewCount": 59489,
-      "likeCount": 89,
+      "viewCount": 60128,
+      "likeCount": 88,
       "commentCount": 2
     },
     {
@@ -2087,7 +2185,7 @@
       "publishedAt": "2026-11-20T01:00:21Z",
       "thumbnail": "https://i.ytimg.com/vi/S5Tzm9wKvDA/mqdefault.jpg",
       "viewCount": 289,
-      "likeCount": 12,
+      "likeCount": 13,
       "commentCount": 8
     },
     {
@@ -2100,7 +2198,7 @@
       "title": "[데이로그 4편] 어른도 놀이공원 좋아해요!🎡",
       "publishedAt": "2026-11-20T01:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/MeUJIAbGz6Q/mqdefault.jpg",
-      "viewCount": 1280,
+      "viewCount": 1279,
       "likeCount": 19,
       "commentCount": 2
     },
@@ -2128,9 +2226,9 @@
       "title": "(🎁 이벤트🎁 )🍱 먹GO보GO 6화 | ‘국민의 한마디, 맛있게 먹GO 깊이 새기GO’ feat.댓글읽기 편",
       "publishedAt": "2026-11-20T01:00:09Z",
       "thumbnail": "https://i.ytimg.com/vi/p9kSzj813xM/mqdefault.jpg",
-      "viewCount": 85012,
-      "likeCount": 5843,
-      "commentCount": 253
+      "viewCount": 85713,
+      "likeCount": 9000,
+      "commentCount": 254
     },
     {
       "group": "차관급",
@@ -2142,7 +2240,7 @@
       "title": "사촌동생 진로 고민 들어주는 우일이형",
       "publishedAt": "2026-11-20T01:00:03Z",
       "thumbnail": "https://i.ytimg.com/vi/FO8_foL21lc/mqdefault.jpg",
-      "viewCount": 1656,
+      "viewCount": 1657,
       "likeCount": 11,
       "commentCount": 0
     },
@@ -2156,9 +2254,9 @@
       "title": "[음료 이벤트] 내 시선을 바꾼 가치갓생의 한 장면은?👀 | 2026 가치갓생 캠페인",
       "publishedAt": "2026-11-20T00:54:46Z",
       "thumbnail": "https://i.ytimg.com/vi/6cNbfqdYTvA/mqdefault.jpg",
-      "viewCount": 148602,
-      "likeCount": 173,
-      "commentCount": 250
+      "viewCount": 149000,
+      "likeCount": 175,
+      "commentCount": 253
     },
     {
       "group": "기타",
@@ -2170,8 +2268,8 @@
       "title": "[외교퍼즐] 클래식과 함께보는 한 편의 뮤직비디오~ 조용한 듯 하지만 긴박했던 82시간 동안 서류를 손에서 놓지 않았다!⏰ 이 대통령의 애착 서류?! 이매진에서 공개~🧩",
       "publishedAt": "2026-11-20T00:36:43Z",
       "thumbnail": "https://i.ytimg.com/vi/34sfH_CGLXY/mqdefault.jpg",
-      "viewCount": 73623,
-      "likeCount": 2507,
+      "viewCount": 69192,
+      "likeCount": 2508,
       "commentCount": 241
     },
     {
@@ -2184,8 +2282,8 @@
       "title": "생활인구로 우리 동네를 바꾼다고?! 👀",
       "publishedAt": "2026-11-20T00:31:23Z",
       "thumbnail": "https://i.ytimg.com/vi/OIClUcFvMo4/mqdefault.jpg",
-      "viewCount": 247,
-      "likeCount": 12,
+      "viewCount": 244,
+      "likeCount": 13,
       "commentCount": 2
     },
     {
@@ -2212,7 +2310,7 @@
       "title": "AI가 돕는 의약품 심사, 무엇이 달라질까요? 🤔✨",
       "publishedAt": "2026-11-20T00:26:11Z",
       "thumbnail": "https://i.ytimg.com/vi/odFK8wWgnio/mqdefault.jpg",
-      "viewCount": 186,
+      "viewCount": 185,
       "likeCount": 3,
       "commentCount": 0
     },
@@ -2226,7 +2324,7 @@
       "title": "파리협정의 약속을 행동으로! COP31에서 손잡은 한국과 호주 🌏",
       "publishedAt": "2026-11-20T00:15:15Z",
       "thumbnail": "https://i.ytimg.com/vi/fylYQUJJGeY/mqdefault.jpg",
-      "viewCount": 18656,
+      "viewCount": 18810,
       "likeCount": 83,
       "commentCount": 0
     },
@@ -2240,7 +2338,7 @@
       "title": "제1차 통합돌봄기본계획(안) 수립 연구 최종결과 공청회",
       "publishedAt": "2026-11-19T20:55:53Z",
       "thumbnail": "https://i.ytimg.com/vi/4tipu79pQbg/mqdefault.jpg",
-      "viewCount": 866,
+      "viewCount": 868,
       "likeCount": 9,
       "commentCount": 0
     },
@@ -2296,9 +2394,9 @@
       "title": "수고한 모든 이들에게 전하는 말-!이 대통령 한국 도착⭐️ #이재명 #대통령 #이재명대통령 #KTV #이매진",
       "publishedAt": "2026-11-19T12:50:12Z",
       "thumbnail": "https://i.ytimg.com/vi/EBPrHaoShzc/mqdefault.jpg",
-      "viewCount": 46654,
+      "viewCount": 46661,
       "likeCount": 4172,
-      "commentCount": 153
+      "commentCount": 152
     },
     {
       "group": "기타",
@@ -2310,7 +2408,7 @@
       "title": "[대통령 풀영상] 이재명 대통령 서울 공항 도착 행사 풀영상#이재명#대통령#공항#도착#풀영상",
       "publishedAt": "2026-11-19T11:42:50Z",
       "thumbnail": "https://i.ytimg.com/vi/ctfbDeKBcSw/mqdefault.jpg",
-      "viewCount": 96712,
+      "viewCount": 96727,
       "likeCount": 4747,
       "commentCount": 573
     },
@@ -2338,8 +2436,8 @@
       "title": "이제 부동산 투기로는 돈을 벌 수 없습니다 #shorts",
       "publishedAt": "2026-11-19T09:43:05Z",
       "thumbnail": "https://i.ytimg.com/vi/UXygavelH0M/mqdefault.jpg",
-      "viewCount": 135547,
-      "likeCount": 210,
+      "viewCount": 155091,
+      "likeCount": 220,
       "commentCount": 0
     },
     {
@@ -2380,7 +2478,7 @@
       "title": "엠지주무관 국회 입성(?) 브이로그(feat.신청주의 개선) | 아리유레디 EP2",
       "publishedAt": "2026-11-19T09:19:52Z",
       "thumbnail": "https://i.ytimg.com/vi/4L3uHLegvAE/mqdefault.jpg",
-      "viewCount": 42228,
+      "viewCount": 42488,
       "likeCount": 14,
       "commentCount": 1
     },
@@ -2408,7 +2506,7 @@
       "title": "[🐯HO랑이 ] EP. 25 날씨도 추운데 따뜻하게 쉴까?🥚잘 먹고 잘 쉬고 예쁘고 | 무궁, 도, 🍪",
       "publishedAt": "2026-11-19T09:00:50Z",
       "thumbnail": "https://i.ytimg.com/vi/eFYu-wvUAKw/mqdefault.jpg",
-      "viewCount": 10745,
+      "viewCount": 10747,
       "likeCount": 475,
       "commentCount": 100
     },
@@ -2427,6 +2525,20 @@
       "commentCount": 1
     },
     {
+      "group": "차관급",
+      "channelName": "금융위원회",
+      "handle": "FSCKorea",
+      "channelId": "UCuJz-PXNMdWQr6TNM4htENw",
+      "videoId": "e9_njjAldiI",
+      "videoUrl": "https://www.youtube.com/watch?v=e9_njjAldiI",
+      "title": "FIU설립 25주년 - 제20회 자금세탁방지의 날 기념식",
+      "publishedAt": "2026-11-19T08:59:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/e9_njjAldiI/mqdefault.jpg?v=6afeba5d",
+      "viewCount": 11,
+      "likeCount": 1,
+      "commentCount": 0
+    },
+    {
       "group": "장관급",
       "channelName": "재정경제부",
       "handle": "mosfkorea",
@@ -2436,7 +2548,7 @@
       "title": "퇴직연금 미리 도입하면 부담금 10% 지원? 30인 미만 기업 지원 추진  | 재경부의 정책풀이 EP.10",
       "publishedAt": "2026-11-19T08:56:12Z",
       "thumbnail": "https://i.ytimg.com/vi/-UgjxoVW8os/mqdefault.jpg",
-      "viewCount": 7680,
+      "viewCount": 7706,
       "likeCount": 10,
       "commentCount": 0
     },
@@ -2450,7 +2562,7 @@
       "title": "퇴직연금 의무화, 우리 회사는 언제부터? 2028~2030년 단계적 확대 계획 | 재경부의 정책풀이 EP.10",
       "publishedAt": "2026-11-19T08:56:03Z",
       "thumbnail": "https://i.ytimg.com/vi/-L1QCkENIsc/mqdefault.jpg",
-      "viewCount": 7067,
+      "viewCount": 7098,
       "likeCount": 6,
       "commentCount": 0
     },
@@ -2464,8 +2576,8 @@
       "title": "퇴직금 체불 걱정 줄이려면? 회사 밖 적립부터 기금형 퇴직연금까지 | 재경부의 정책풀이 EP.10",
       "publishedAt": "2026-11-19T08:55:49Z",
       "thumbnail": "https://i.ytimg.com/vi/sZtbwYF320g/mqdefault.jpg",
-      "viewCount": 13042,
-      "likeCount": 131,
+      "viewCount": 13162,
+      "likeCount": 205,
       "commentCount": 7
     },
     {
@@ -2492,8 +2604,8 @@
       "title": "노력의 빛이 발한 바로 그 순간! 8년 8개월 만에 열린 한중 FTA의 새로운 길✨ 실질 타결 선언까지 이 대통령의 외교 노력을 모았ZIP📂 #이재명#대통령#이매진",
       "publishedAt": "2026-11-19T08:31:42Z",
       "thumbnail": "https://i.ytimg.com/vi/iYMkKFJEm-w/mqdefault.jpg",
-      "viewCount": 36551,
-      "likeCount": 1095,
+      "viewCount": 36602,
+      "likeCount": 1096,
       "commentCount": 66
     },
     {
@@ -2506,7 +2618,7 @@
       "title": "데이터처에도 한 마리 데려왔어요!!",
       "publishedAt": "2026-11-19T08:30:34Z",
       "thumbnail": "https://i.ytimg.com/vi/0PjlDA2PvHk/mqdefault.jpg",
-      "viewCount": 2492,
+      "viewCount": 2495,
       "likeCount": 60,
       "commentCount": 3
     },
@@ -2520,9 +2632,9 @@
       "title": "\"헬기까지 떴다\" 쌍둥이 산모 긴급 이송",
       "publishedAt": "2026-11-19T08:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/WBY88uuPji0/mqdefault.jpg",
-      "viewCount": 509701,
-      "likeCount": 2172,
-      "commentCount": 566
+      "viewCount": 510449,
+      "likeCount": 2176,
+      "commentCount": 569
     },
     {
       "group": "차관급",
@@ -2548,8 +2660,8 @@
       "title": "[대통령 풀영상] 이 대통령 APEC 정상회의 일정 끝. 중국 선전 공항 출발 행사 풀영상#이재명#대통령#선전#공항#출발행사#풀영상#이매진",
       "publishedAt": "2026-11-19T08:25:50Z",
       "thumbnail": "https://i.ytimg.com/vi/MIMBzRlQ3hg/mqdefault.jpg",
-      "viewCount": 127776,
-      "likeCount": 2350,
+      "viewCount": 127822,
+      "likeCount": 2352,
       "commentCount": 206
     },
     {
@@ -2562,9 +2674,9 @@
       "title": "APEC의 여정은 계속됩니다 | APEC 정상회의",
       "publishedAt": "2026-11-19T08:09:05Z",
       "thumbnail": "https://i.ytimg.com/vi/SdwQjeZUdZs/mqdefault.jpg",
-      "viewCount": 47102,
-      "likeCount": 3174,
-      "commentCount": 772
+      "viewCount": 47124,
+      "likeCount": 3175,
+      "commentCount": 773
     },
     {
       "group": "장관급",
@@ -2590,7 +2702,7 @@
       "title": "\"대한민국-포르투갈, 미래 해양 협력의 문을 열다\" 대한민국-포르투갈 해양수산 협력 MOU 체결식 #대한민국 #포르투갈 #MOU #해양수산협력 #해수부 #황종우 #해결사황장관",
       "publishedAt": "2026-11-19T08:02:14Z",
       "thumbnail": "https://i.ytimg.com/vi/dD8Z69ETAb4/mqdefault.jpg",
-      "viewCount": 1536,
+      "viewCount": 1526,
       "likeCount": 62,
       "commentCount": 0
     },
@@ -2604,7 +2716,7 @@
       "title": "우리 술에도 시상식이 있다고?! K-SUUL AWARDS의 특별한 심사 과정! [세상만사 EP.5-2] #국세청 #세상만사 #KSUUL",
       "publishedAt": "2026-11-19T08:00:39Z",
       "thumbnail": "https://i.ytimg.com/vi/SvQMHJXO74s/mqdefault.jpg",
-      "viewCount": 416,
+      "viewCount": 415,
       "likeCount": 3,
       "commentCount": 0
     },
@@ -2618,7 +2730,7 @@
       "title": "2027년 공군 전문기술병으로 입대하려면 언제 지원해야 할까? 🤔",
       "publishedAt": "2026-11-19T08:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/oPX8BtM4ae8/mqdefault.jpg",
-      "viewCount": 2149,
+      "viewCount": 2167,
       "likeCount": 6,
       "commentCount": 4
     },
@@ -2632,7 +2744,7 @@
       "title": "낮에는 직장인으로 북적이고, 밤이 되면 조용해지는 서울의 세 지역🤨",
       "publishedAt": "2026-11-19T08:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/ZjUSDUYOWxM/mqdefault.jpg",
-      "viewCount": 1282,
+      "viewCount": 1280,
       "likeCount": 24,
       "commentCount": 1
     },
@@ -2646,7 +2758,7 @@
       "title": "시간을 품은 성당, 대구 계산동성당을 걷다 [국가유산청 대학생기자단]",
       "publishedAt": "2026-11-19T08:00:32Z",
       "thumbnail": "https://i.ytimg.com/vi/aUWSHLfvdoM/mqdefault.jpg",
-      "viewCount": 611,
+      "viewCount": 609,
       "likeCount": 12,
       "commentCount": 0
     },
@@ -2660,7 +2772,7 @@
       "title": "사라지는 마술은 있어도, 사라져선 안되는 생명(끼임사고 예방)",
       "publishedAt": "2026-11-19T08:00:07Z",
       "thumbnail": "https://i.ytimg.com/vi/Um1Nof5H9mw/mqdefault.jpg",
-      "viewCount": 5808,
+      "viewCount": 16826,
       "likeCount": 26,
       "commentCount": 1
     },
@@ -2688,8 +2800,8 @@
       "title": "미래를 바꾸는 기술, 미래를 잇는 연대👍 #이재명 #대통령 #이재명대통령 #APEC정상회의 #KTV #이매진",
       "publishedAt": "2026-11-19T07:28:29Z",
       "thumbnail": "https://i.ytimg.com/vi/0LEwIdBv-m0/mqdefault.jpg",
-      "viewCount": 7773,
-      "likeCount": 2192,
+      "viewCount": 7780,
+      "likeCount": 2196,
       "commentCount": 40
     },
     {
@@ -2716,9 +2828,9 @@
       "title": "[대통령 풀영상] 김혜경 여사 참석, APEC 배우자 프로그램 행사 풀영상#김혜경#여사#배우자#프로그램#풀영상#ktv#이매진",
       "publishedAt": "2026-11-19T07:27:04Z",
       "thumbnail": "https://i.ytimg.com/vi/swUwVnsv09k/mqdefault.jpg",
-      "viewCount": 290579,
-      "likeCount": 4731,
-      "commentCount": 273
+      "viewCount": 290787,
+      "likeCount": 4735,
+      "commentCount": 272
     },
     {
       "group": "차관급",
@@ -2744,8 +2856,8 @@
       "title": "함께 번영하는 아시아 태평양 공동체를 향하여",
       "publishedAt": "2026-11-19T07:13:45Z",
       "thumbnail": "https://i.ytimg.com/vi/PTyMBeFLZ1c/mqdefault.jpg",
-      "viewCount": 35726,
-      "likeCount": 7892,
+      "viewCount": 35737,
+      "likeCount": 7894,
       "commentCount": 359
     },
     {
@@ -2772,7 +2884,7 @@
       "title": "🚦 어린이 교통안전 수칙을 지켜라 | 어린이 교통안전 수칙 (Short ver.)",
       "publishedAt": "2026-11-19T06:53:24Z",
       "thumbnail": "https://i.ytimg.com/vi/bkUQW1NrLic/mqdefault.jpg",
-      "viewCount": 253,
+      "viewCount": 241,
       "likeCount": 2,
       "commentCount": 0
     },
@@ -2786,8 +2898,8 @@
       "title": "더 큰 번영을 위한 새로운 도전",
       "publishedAt": "2026-11-19T06:48:18Z",
       "thumbnail": "https://i.ytimg.com/vi/kcW5cMFmVZg/mqdefault.jpg",
-      "viewCount": 21459,
-      "likeCount": 5472,
+      "viewCount": 21495,
+      "likeCount": 5483,
       "commentCount": 408
     },
     {
@@ -2800,7 +2912,7 @@
       "title": "11화 🔎 학생이 줄었으니, 교부금도 빈자리만큼 덜어낼까요?",
       "publishedAt": "2026-11-19T06:42:37Z",
       "thumbnail": "https://i.ytimg.com/vi/h2bZrV2ka7U/mqdefault.jpg",
-      "viewCount": 228,
+      "viewCount": 225,
       "likeCount": 7,
       "commentCount": 0
     },
@@ -2814,8 +2926,8 @@
       "title": "[세 번째 시간] 조회수 천만 돌파 기념! 90초 요약본",
       "publishedAt": "2026-11-19T06:25:32Z",
       "thumbnail": "https://i.ytimg.com/vi/fc7_fNE3nE4/mqdefault.jpg",
-      "viewCount": 1090018,
-      "likeCount": 1821,
+      "viewCount": 1096727,
+      "likeCount": 1829,
       "commentCount": 37
     },
     {
@@ -2828,7 +2940,7 @@
       "title": "대사 딱 한 줄 듣고 게임 이름 맞히기 도전!🎮",
       "publishedAt": "2026-11-19T06:06:20Z",
       "thumbnail": "https://i.ytimg.com/vi/OCtmbhYxKq0/mqdefault.jpg",
-      "viewCount": 1206,
+      "viewCount": 1207,
       "likeCount": 17,
       "commentCount": 2
     },
@@ -2842,7 +2954,7 @@
       "title": "위너(WINNER)가 응원하는 K-수출! 수출 1조 달러 달성을 축하합니다🎇",
       "publishedAt": "2026-11-19T06:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/2Ws4ucbrQvU/mqdefault.jpg",
-      "viewCount": 425,
+      "viewCount": 426,
       "likeCount": 18,
       "commentCount": 0
     },
@@ -2870,7 +2982,7 @@
       "title": "대한민국 수출 1조 달러 달성 | 수출 역사를 함께한 모두가 주인공👍",
       "publishedAt": "2026-11-19T05:34:34Z",
       "thumbnail": "https://i.ytimg.com/vi/ZBlmf4L9QHE/mqdefault.jpg",
-      "viewCount": 44236,
+      "viewCount": 44237,
       "likeCount": 65,
       "commentCount": 18
     },
@@ -2884,7 +2996,7 @@
       "title": "[브리핑 요약] 승선원 7명 수색 총력",
       "publishedAt": "2026-11-19T05:22:08Z",
       "thumbnail": "https://i.ytimg.com/vi/wkXGy5ZpFvU/mqdefault.jpg",
-      "viewCount": 3187,
+      "viewCount": 3189,
       "likeCount": 39,
       "commentCount": 2
     },
@@ -2898,7 +3010,7 @@
       "title": "등록하면 끝? 연차등록료 납부 꿀팁 대방출!",
       "publishedAt": "2026-11-19T05:08:53Z",
       "thumbnail": "https://i.ytimg.com/vi/snzyxh7eIWA/mqdefault.jpg",
-      "viewCount": 1062,
+      "viewCount": 1063,
       "likeCount": 22,
       "commentCount": 3
     },
@@ -2912,8 +3024,8 @@
       "title": "10년마다 돌아오는 상표권 갱신, 타이밍 놓치지 마세요!",
       "publishedAt": "2026-11-19T05:07:59Z",
       "thumbnail": "https://i.ytimg.com/vi/Q7g9fByxKaw/mqdefault.jpg",
-      "viewCount": 337,
-      "likeCount": 24,
+      "viewCount": 333,
+      "likeCount": 25,
       "commentCount": 2
     },
     {
@@ -2926,7 +3038,7 @@
       "title": "엄카 찬스도 세금 내야 한다고?! 부모님이 대신 내준 돈, 증여세 대상일까? #국세청 #택스시그널 #증여세",
       "publishedAt": "2026-11-19T05:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/r9vCgnYWhAs/mqdefault.jpg",
-      "viewCount": 674,
+      "viewCount": 680,
       "likeCount": 10,
       "commentCount": 4
     },
@@ -2940,7 +3052,7 @@
       "title": "친일을 하면 삼대가 흥한다는 착각, 오늘 하차합니다! | 법tv",
       "publishedAt": "2026-11-19T05:00:23Z",
       "thumbnail": "https://i.ytimg.com/vi/eYGocuvjESE/mqdefault.jpg",
-      "viewCount": 1044850,
+      "viewCount": 1049529,
       "likeCount": 77,
       "commentCount": 32
     },
@@ -2968,7 +3080,7 @@
       "title": "[데이터캐스트]개인의 주택 소유 현황을 파악할 수 있는 통계가 있다?",
       "publishedAt": "2026-11-19T04:45:25Z",
       "thumbnail": "https://i.ytimg.com/vi/iJ21RFyKTHQ/mqdefault.jpg",
-      "viewCount": 296,
+      "viewCount": 299,
       "likeCount": 7,
       "commentCount": 0
     },
@@ -2982,7 +3094,7 @@
       "title": "[공소청 Talk] 피해자의 권리와 회복을 잇는 남현규 검사",
       "publishedAt": "2026-11-19T04:31:46Z",
       "thumbnail": "https://i.ytimg.com/vi/ilso1rIHum8/mqdefault.jpg",
-      "viewCount": 825,
+      "viewCount": 826,
       "likeCount": 24,
       "commentCount": 9
     },
@@ -2996,7 +3108,7 @@
       "title": "초보 러너의 좌충우돌 평화 이어달리기 도전",
       "publishedAt": "2026-11-19T04:29:55Z",
       "thumbnail": "https://i.ytimg.com/vi/9mgyRoQzKlk/mqdefault.jpg",
-      "viewCount": 16282,
+      "viewCount": 16314,
       "likeCount": 14,
       "commentCount": 0
     },
@@ -3038,9 +3150,9 @@
       "title": "전국 곳곳에 미세먼지를 감시하는 비밀 기지가 있다?!ㅣ디스커버리:기후뷰 #미세먼지",
       "publishedAt": "2026-11-19T03:00:35Z",
       "thumbnail": "https://i.ytimg.com/vi/XIfd3pQVEsY/mqdefault.jpg",
-      "viewCount": 62936,
-      "likeCount": 150,
-      "commentCount": 196
+      "viewCount": 63166,
+      "likeCount": 151,
+      "commentCount": 197
     },
     {
       "group": "장관급",
@@ -3108,7 +3220,7 @@
       "title": "화재 없는 안전한 대한민국, 함께해요! #불조심안전캠페인",
       "publishedAt": "2026-11-19T01:37:23Z",
       "thumbnail": "https://i.ytimg.com/vi/slcUCeCs0lQ/mqdefault.jpg",
-      "viewCount": 816,
+      "viewCount": 801,
       "likeCount": 12,
       "commentCount": 0
     },
@@ -3136,7 +3248,7 @@
       "title": "필리핀에서 만난 K 컬처의 힘! 바기오 한국 문화 축제",
       "publishedAt": "2026-11-19T01:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/l8uEkZ6AIxY/mqdefault.jpg",
-      "viewCount": 271,
+      "viewCount": 272,
       "likeCount": 2,
       "commentCount": 1
     },
@@ -3150,7 +3262,7 @@
       "title": "부모님이 주신 생활비와 용돈, 저축해도 괜찮을까?[택스시그널] #증여세 #생활비 #용돈",
       "publishedAt": "2026-11-19T01:00:11Z",
       "thumbnail": "https://i.ytimg.com/vi/QO7Q0Ud6P2M/mqdefault.jpg",
-      "viewCount": 887,
+      "viewCount": 883,
       "likeCount": 8,
       "commentCount": 0
     },
@@ -3164,7 +3276,7 @@
       "title": "3,600톤 잠수함이 통째로 들리는 순간 대공개🚢💥",
       "publishedAt": "2026-11-19T01:00:03Z",
       "thumbnail": "https://i.ytimg.com/vi/W_fmFPGpqAg/mqdefault.jpg",
-      "viewCount": 15527,
+      "viewCount": 15545,
       "likeCount": 170,
       "commentCount": 1
     },
@@ -3248,7 +3360,7 @@
       "title": "대한민국이 먼저 실천하겠습니다 🌍",
       "publishedAt": "2026-11-18T15:16:44Z",
       "thumbnail": "https://i.ytimg.com/vi/CZh1Ow65mDg/mqdefault.jpg",
-      "viewCount": 18434,
+      "viewCount": 18707,
       "likeCount": 111,
       "commentCount": 1
     },
@@ -3262,7 +3374,7 @@
       "title": "[대통령 풀영상] 이재명 대통령 APEC 정상회의 환영만찬, 정상 라운딩 및 환담 일정 풀영상#이재명#대통령#apec#만찬#풀영상#이매진#ktv#국민방송",
       "publishedAt": "2026-11-18T13:53:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Lg7Vn1DMB64/mqdefault.jpg",
-      "viewCount": 106917,
+      "viewCount": 107095,
       "likeCount": 3069,
       "commentCount": 310
     },
@@ -3304,8 +3416,8 @@
       "title": "제가 역사상 처음인가요?",
       "publishedAt": "2026-11-18T11:22:00Z",
       "thumbnail": "https://i.ytimg.com/vi/rvVrQRbLzFU/mqdefault.jpg",
-      "viewCount": 81000,
-      "likeCount": 12800,
+      "viewCount": 81020,
+      "likeCount": 12802,
       "commentCount": 796
     },
     {
@@ -3318,7 +3430,7 @@
       "title": "장관님, 드디어 선을 넘으셨습니다! 😎",
       "publishedAt": "2026-11-18T10:50:33Z",
       "thumbnail": "https://i.ytimg.com/vi/FW8T8pP1OVE/mqdefault.jpg",
-      "viewCount": 6162,
+      "viewCount": 6130,
       "likeCount": 84,
       "commentCount": 18
     },
@@ -3332,7 +3444,7 @@
       "title": "정부기념식 최초 뮤지컬, 순국선열의 이야기를 무대에 올렸습니다",
       "publishedAt": "2026-11-18T10:10:16Z",
       "thumbnail": "https://i.ytimg.com/vi/_cAyUc1Cv9I/mqdefault.jpg",
-      "viewCount": 1413,
+      "viewCount": 1411,
       "likeCount": 55,
       "commentCount": 5
     },
@@ -3374,7 +3486,7 @@
       "title": "철도 운행의 새로운 관제 시대! 제2철도교통관제센터 구축",
       "publishedAt": "2026-11-18T09:20:22Z",
       "thumbnail": "https://i.ytimg.com/vi/yLwmZe92TcY/mqdefault.jpg",
-      "viewCount": 417214,
+      "viewCount": 417213,
       "likeCount": 21,
       "commentCount": 4
     },
@@ -3458,8 +3570,8 @@
       "title": "신입 특징 5가지🖐️ 신입 사원 디플리 EP.3 🤖",
       "publishedAt": "2026-11-18T09:00:18Z",
       "thumbnail": "https://i.ytimg.com/vi/4ABI2Ywn1uM/mqdefault.jpg",
-      "viewCount": 36740,
-      "likeCount": 109,
+      "viewCount": 36909,
+      "likeCount": 110,
       "commentCount": 0
     },
     {
@@ -3472,9 +3584,9 @@
       "title": "[별별숲사전] 시계도 없는데 시간을 안다?! 식물들의 신비한 타임어택",
       "publishedAt": "2026-11-18T09:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/XjjuO6OuboI/mqdefault.jpg",
-      "viewCount": 7547,
-      "likeCount": 55,
-      "commentCount": 66
+      "viewCount": 7583,
+      "likeCount": 56,
+      "commentCount": 67
     },
     {
       "group": "차관급",
@@ -3500,7 +3612,7 @@
       "title": "65. 한 곳만 바꿨나요",
       "publishedAt": "2026-11-18T08:59:56Z",
       "thumbnail": "https://i.ytimg.com/vi/F6OR82WcJpY/mqdefault.jpg",
-      "viewCount": 175,
+      "viewCount": 176,
       "likeCount": 3,
       "commentCount": 0
     },
@@ -3640,7 +3752,7 @@
       "title": "체 포 하 겠 어 🐾",
       "publishedAt": "2026-11-18T08:48:12Z",
       "thumbnail": "https://i.ytimg.com/vi/xEVvHfbloEk/mqdefault.jpg",
-      "viewCount": 2119,
+      "viewCount": 2122,
       "likeCount": 84,
       "commentCount": 8
     },
@@ -3738,7 +3850,7 @@
       "title": "[#이재명 LIVE] 더 큰 번영을 일궈낼 모두의 무대, APEC 2026 | APEC CEO 서밋 2026",
       "publishedAt": "2026-11-18T08:03:26Z",
       "thumbnail": "https://i.ytimg.com/vi/clT-HvfF1t8/mqdefault.jpg",
-      "viewCount": 51335,
+      "viewCount": 51365,
       "likeCount": 4351,
       "commentCount": 499
     },
@@ -3808,7 +3920,7 @@
       "title": "자연 속에 담긴 조선 선비의 공간, 담양 소쇄원 [국가유산청 대학생기자단]",
       "publishedAt": "2026-11-18T08:00:10Z",
       "thumbnail": "https://i.ytimg.com/vi/QNVRc8oq_p0/mqdefault.jpg",
-      "viewCount": 677,
+      "viewCount": 676,
       "likeCount": 26,
       "commentCount": 0
     },
@@ -3822,7 +3934,7 @@
       "title": "세종대왕도 당황한 현대의 글? | 세종대왕이 세종에 온 썰 1편",
       "publishedAt": "2026-11-18T08:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/wB7QkhylLiw/mqdefault.jpg",
-      "viewCount": 89894,
+      "viewCount": 90199,
       "likeCount": 21,
       "commentCount": 6
     },
@@ -3864,8 +3976,8 @@
       "title": "금은방 안 수상한 움직임?! #shorts",
       "publishedAt": "2026-11-18T07:30:32Z",
       "thumbnail": "https://i.ytimg.com/vi/7aef4EBqzcI/mqdefault.jpg",
-      "viewCount": 3281,
-      "likeCount": 88,
+      "viewCount": 3292,
+      "likeCount": 89,
       "commentCount": 6
     },
     {
@@ -3878,7 +3990,7 @@
       "title": "경주에서 선전으로 🦋 ㅣ 한-중 정상회담",
       "publishedAt": "2026-11-18T07:18:54Z",
       "thumbnail": "https://i.ytimg.com/vi/xCiVqc8J6QQ/mqdefault.jpg",
-      "viewCount": 52740,
+      "viewCount": 52765,
       "likeCount": 2896,
       "commentCount": 445
     },
@@ -3906,8 +4018,8 @@
       "title": "우리의 약속이 이루어졌네요",
       "publishedAt": "2026-11-18T07:13:02Z",
       "thumbnail": "https://i.ytimg.com/vi/5u-45NQkTkI/mqdefault.jpg",
-      "viewCount": 57517,
-      "likeCount": 7966,
+      "viewCount": 57600,
+      "likeCount": 7967,
       "commentCount": 566
     },
     {
@@ -3920,7 +4032,7 @@
       "title": "해결사 X의 정체는? #약의날",
       "publishedAt": "2026-11-18T07:03:47Z",
       "thumbnail": "https://i.ytimg.com/vi/PHYJcManxps/mqdefault.jpg",
-      "viewCount": 844,
+      "viewCount": 846,
       "likeCount": 26,
       "commentCount": 0
     },
@@ -3976,9 +4088,9 @@
       "title": "나비의 날갯짓처럼 이어진 한-중 정상회의🦋 #이재명 #대통령 #이재명대통령 #한중정상회담 #KTV #이매진",
       "publishedAt": "2026-11-18T06:31:10Z",
       "thumbnail": "https://i.ytimg.com/vi/uduX1EXfhC4/mqdefault.jpg",
-      "viewCount": 18758,
-      "likeCount": 3805,
-      "commentCount": 65
+      "viewCount": 18766,
+      "likeCount": 3807,
+      "commentCount": 66
     },
     {
       "group": "차관급",
@@ -4004,7 +4116,7 @@
       "title": "\"촉감이 좀..\" 지폐를 거절한 이유",
       "publishedAt": "2026-11-18T06:30:18Z",
       "thumbnail": "https://i.ytimg.com/vi/fK8xbYGrRac/mqdefault.jpg",
-      "viewCount": 15849,
+      "viewCount": 15892,
       "likeCount": 178,
       "commentCount": 11
     },
@@ -4018,7 +4130,7 @@
       "title": "[사이언스가 선을 넘을 때 EP.03] 백두산 분화 징조 미리 알 수 있을까?",
       "publishedAt": "2026-11-18T06:26:29Z",
       "thumbnail": "https://i.ytimg.com/vi/Tz3N-CyVyEc/mqdefault.jpg",
-      "viewCount": 31135,
+      "viewCount": 31267,
       "likeCount": 273,
       "commentCount": 492
     },
@@ -4032,7 +4144,7 @@
       "title": "[대상] 연휴에 아이들과 떠난 양평 수미마을 | 2026 농촌여행 숏폼 공모전",
       "publishedAt": "2026-11-18T06:21:43Z",
       "thumbnail": "https://i.ytimg.com/vi/OWPjFh0EVMQ/mqdefault.jpg",
-      "viewCount": 1140,
+      "viewCount": 1138,
       "likeCount": 10,
       "commentCount": 3
     },
@@ -4074,7 +4186,7 @@
       "title": "휴게소 이용객이라면 주목! 달라지는 혜택",
       "publishedAt": "2026-11-18T06:15:58Z",
       "thumbnail": "https://i.ytimg.com/vi/HNmsD-S6QHI/mqdefault.jpg",
-      "viewCount": 311797,
+      "viewCount": 311838,
       "likeCount": 1991,
       "commentCount": 2
     },
@@ -4088,7 +4200,7 @@
       "title": "없는 게 없는 K-휴게소의 정체",
       "publishedAt": "2026-11-18T06:15:56Z",
       "thumbnail": "https://i.ytimg.com/vi/TAtum2-PmlY/mqdefault.jpg",
-      "viewCount": 349558,
+      "viewCount": 349555,
       "likeCount": 483,
       "commentCount": 1
     },
@@ -4172,8 +4284,8 @@
       "title": "[#이재명 LIVE] 세계적인 혁신의 중심지, 중국 화남지역 동포들과 함께",
       "publishedAt": "2026-11-18T04:56:39Z",
       "thumbnail": "https://i.ytimg.com/vi/zAOsgV5W-zw/mqdefault.jpg",
-      "viewCount": 42828,
-      "likeCount": 4115,
+      "viewCount": 42841,
+      "likeCount": 4116,
       "commentCount": 227
     },
     {
@@ -4270,7 +4382,7 @@
       "title": "내년엔 체육도! #청년문화예술패스 변신 예고✨ (올해 포인트 마감임박🚨)",
       "publishedAt": "2026-11-18T04:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/PrUkYznjdAs/mqdefault.jpg",
-      "viewCount": 241732,
+      "viewCount": 242848,
       "likeCount": 5,
       "commentCount": 0
     },
@@ -4326,7 +4438,7 @@
       "title": "[국가상징구역 숏폼 영상 공모전] 우수상 | 마당의 주인",
       "publishedAt": "2026-11-18T02:33:10Z",
       "thumbnail": "https://i.ytimg.com/vi/flsCeHQFnFg/mqdefault.jpg",
-      "viewCount": 163,
+      "viewCount": 164,
       "likeCount": 5,
       "commentCount": 0
     },
@@ -4410,7 +4522,7 @@
       "title": "혁신 의료제품 개발, 식약처가 직접 찾아갑니다! 🔍",
       "publishedAt": "2026-11-18T01:00:15Z",
       "thumbnail": "https://i.ytimg.com/vi/oFtit4jmbrA/mqdefault.jpg",
-      "viewCount": 516,
+      "viewCount": 518,
       "likeCount": 16,
       "commentCount": 0
     },
@@ -4438,7 +4550,7 @@
       "title": "낭만부부, 결혼기념일 여행 갔다가 벼 베기?! 조카에게 제대로 당했다!",
       "publishedAt": "2026-11-18T01:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/sntyuwK612g/mqdefault.jpg",
-      "viewCount": 221162,
+      "viewCount": 221161,
       "likeCount": 488,
       "commentCount": 4
     },
@@ -4452,7 +4564,7 @@
       "title": "모든 전직 대통령을 같은 마음으로 추모합니다",
       "publishedAt": "2026-11-18T01:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Ehz2gTziMV8/mqdefault.jpg",
-      "viewCount": 3602,
+      "viewCount": 3604,
       "likeCount": 92,
       "commentCount": 5
     },
@@ -4466,8 +4578,8 @@
       "title": "도깨비, 저승사자 같은 그들이 다시 부활합니다 | 법tv",
       "publishedAt": "2026-11-18T00:32:24Z",
       "thumbnail": "https://i.ytimg.com/vi/jEsoOM-jxQc/mqdefault.jpg",
-      "viewCount": 780148,
-      "likeCount": 1038,
+      "viewCount": 781475,
+      "likeCount": 1040,
       "commentCount": 1
     },
     {
@@ -4480,8 +4592,8 @@
       "title": "친일행위로 모은 재산? 법으로 싹 다 돌려받습니다 | 법tv",
       "publishedAt": "2026-11-18T00:32:20Z",
       "thumbnail": "https://i.ytimg.com/vi/BHKa8IiAOlI/mqdefault.jpg",
-      "viewCount": 1195437,
-      "likeCount": 3667,
+      "viewCount": 1200463,
+      "likeCount": 3680,
       "commentCount": 6
     },
     {
@@ -4592,8 +4704,8 @@
       "title": "[대통령 풀영상] 이재명 대통령 중국 선전 공항 도착 행사 현장 풀영상#이재명#대통령#중국#선전#apec#공항#도착#행사#풀영상",
       "publishedAt": "2026-11-17T17:37:30Z",
       "thumbnail": "https://i.ytimg.com/vi/x0JCieCyqu8/mqdefault.jpg",
-      "viewCount": 171986,
-      "likeCount": 4844,
+      "viewCount": 172047,
+      "likeCount": 4845,
       "commentCount": 424
     },
     {
@@ -4606,7 +4718,7 @@
       "title": "[대통령 풀영상] 이제 APEC으로. 이재명 대통령 마닐라 공항 출발 행사 풀영상#이재명#대통령#필리핀#마닐라#공항#출발#행사#풀영상#이매진",
       "publishedAt": "2026-11-17T14:40:20Z",
       "thumbnail": "https://i.ytimg.com/vi/liykfuWd4J0/mqdefault.jpg",
-      "viewCount": 70210,
+      "viewCount": 70224,
       "likeCount": 1526,
       "commentCount": 89
     },
@@ -4648,7 +4760,7 @@
       "title": "[COP31] 대한민국, 탄소시장연합 공식 가입…12년의 배출권거래제 운영 경험을 세계와",
       "publishedAt": "2026-11-17T12:22:32Z",
       "thumbnail": "https://i.ytimg.com/vi/DOkP1oJAwRc/mqdefault.jpg",
-      "viewCount": 31738,
+      "viewCount": 31863,
       "likeCount": 184,
       "commentCount": 1
     },
@@ -4662,7 +4774,7 @@
       "title": "⌜한반도 평화체제 및 평화경제 미래비전 국제세미나⌟ 2일차",
       "publishedAt": "2026-11-17T11:39:45Z",
       "thumbnail": "https://i.ytimg.com/vi/jwgbm82IdpQ/mqdefault.jpg",
-      "viewCount": 1054,
+      "viewCount": 1055,
       "likeCount": 8,
       "commentCount": 0
     },
@@ -4690,7 +4802,7 @@
       "title": "6개월만에 마닐라에서 다시 만난 🇰🇷🇯🇵 ㅣ 한-일 정상회담",
       "publishedAt": "2026-11-17T11:34:00Z",
       "thumbnail": "https://i.ytimg.com/vi/6NM9H1reSS8/mqdefault.jpg",
-      "viewCount": 47755,
+      "viewCount": 47798,
       "likeCount": 2139,
       "commentCount": 476
     },
@@ -4704,8 +4816,8 @@
       "title": "다시 만날 그날을 기다리며🇰🇷🇯🇵",
       "publishedAt": "2026-11-17T11:32:09Z",
       "thumbnail": "https://i.ytimg.com/vi/EQDrKz2YhNM/mqdefault.jpg",
-      "viewCount": 51407,
-      "likeCount": 8274,
+      "viewCount": 51427,
+      "likeCount": 8275,
       "commentCount": 430
     },
     {
@@ -4802,7 +4914,7 @@
       "title": "51. 내정보 지우고가리고확인하기",
       "publishedAt": "2026-11-17T10:04:08Z",
       "thumbnail": "https://i.ytimg.com/vi/i-uIisCXL3s/mqdefault.jpg",
-      "viewCount": 23,
+      "viewCount": 22,
       "likeCount": 2,
       "commentCount": 0
     },
@@ -4844,8 +4956,8 @@
       "title": "오늘의 특급 레시피는❓나눔의 도시락❕ #이재명 #대통령 #이재명대통령 #김혜경 #ktv #이매진",
       "publishedAt": "2026-11-17T09:55:51Z",
       "thumbnail": "https://i.ytimg.com/vi/-yoPcnPUjCo/mqdefault.jpg",
-      "viewCount": 10897,
-      "likeCount": 1712,
+      "viewCount": 10901,
+      "likeCount": 1713,
       "commentCount": 50
     },
     {
@@ -4914,7 +5026,7 @@
       "title": "46. 털·지·마 — 60초, 내 정보는 내가 지킨다",
       "publishedAt": "2026-11-17T09:48:35Z",
       "thumbnail": "https://i.ytimg.com/vi/AtzY1dfIBW8/mqdefault.jpg",
-      "viewCount": 16,
+      "viewCount": 18,
       "likeCount": 1,
       "commentCount": 0
     },
@@ -4984,7 +5096,7 @@
       "title": "한반도 평화체제 및 평화경제 미래비전 국제세미나 (26.11.16.)",
       "publishedAt": "2026-11-17T09:29:24Z",
       "thumbnail": "https://i.ytimg.com/vi/RbzUd7IpMaU/mqdefault.jpg",
-      "viewCount": 9376,
+      "viewCount": 9375,
       "likeCount": 140,
       "commentCount": 11
     },
@@ -5040,8 +5152,8 @@
       "title": "대한민국, 혁신을 달다 | 조달청 ‘혁신조달 탑티어 Top Tier’ 캠페인",
       "publishedAt": "2026-11-17T08:54:44Z",
       "thumbnail": "https://i.ytimg.com/vi/IQiNpBS9xqI/mqdefault.jpg",
-      "viewCount": 56202,
-      "likeCount": 195,
+      "viewCount": 56205,
+      "likeCount": 196,
       "commentCount": 316
     },
     {
@@ -5054,9 +5166,9 @@
       "title": "원로들, 평화체제를 말하다 |  문정인 교수",
       "publishedAt": "2026-11-17T08:52:00Z",
       "thumbnail": "https://i.ytimg.com/vi/kIRyWcBbKBQ/mqdefault.jpg",
-      "viewCount": 129930,
-      "likeCount": 104,
-      "commentCount": 12
+      "viewCount": 131451,
+      "likeCount": 105,
+      "commentCount": 13
     },
     {
       "group": "장관급",
@@ -5068,7 +5180,7 @@
       "title": "✨ 제8회 중앙지방정책협의회 개최",
       "publishedAt": "2026-11-17T08:50:50Z",
       "thumbnail": "https://i.ytimg.com/vi/XR0sJnG6Kq8/mqdefault.jpg",
-      "viewCount": 232,
+      "viewCount": 235,
       "likeCount": 3,
       "commentCount": 5
     },
@@ -5110,7 +5222,7 @@
       "title": "내 집 마련 뭐부터 시작하지?",
       "publishedAt": "2026-11-17T08:43:55Z",
       "thumbnail": "https://i.ytimg.com/vi/F4sr4S_kcVw/mqdefault.jpg",
-      "viewCount": 271164,
+      "viewCount": 273035,
       "likeCount": 781,
       "commentCount": 2
     },
@@ -5124,8 +5236,8 @@
       "title": "전세보증 보험료 돌려받는 법",
       "publishedAt": "2026-11-17T08:43:49Z",
       "thumbnail": "https://i.ytimg.com/vi/B8mgnET7J3Q/mqdefault.jpg",
-      "viewCount": 294131,
-      "likeCount": 838,
+      "viewCount": 295854,
+      "likeCount": 842,
       "commentCount": 0
     },
     {
@@ -5138,8 +5250,8 @@
       "title": "매달 나가는 월세 지원받을 수 있을까?",
       "publishedAt": "2026-11-17T08:43:44Z",
       "thumbnail": "https://i.ytimg.com/vi/qZKz59m4g8Y/mqdefault.jpg",
-      "viewCount": 331279,
-      "likeCount": 1330,
+      "viewCount": 333602,
+      "likeCount": 1336,
       "commentCount": 1
     },
     {
@@ -5152,8 +5264,8 @@
       "title": "이사 걱정 덜하고 살 집 없을까?",
       "publishedAt": "2026-11-17T08:43:28Z",
       "thumbnail": "https://i.ytimg.com/vi/icitx3hHYHo/mqdefault.jpg",
-      "viewCount": 258937,
-      "likeCount": 911,
+      "viewCount": 260703,
+      "likeCount": 914,
       "commentCount": 2
     },
     {
@@ -5166,8 +5278,8 @@
       "title": "대학생인데 저렴한 방 없을까?",
       "publishedAt": "2026-11-17T08:43:23Z",
       "thumbnail": "https://i.ytimg.com/vi/QqgH_uQVaM0/mqdefault.jpg",
-      "viewCount": 287038,
-      "likeCount": 936,
+      "viewCount": 289330,
+      "likeCount": 940,
       "commentCount": 0
     },
     {
@@ -5196,7 +5308,7 @@
       "thumbnail": "https://i.ytimg.com/vi/fEdtoTiX0hU/mqdefault.jpg",
       "viewCount": 4778,
       "likeCount": 35,
-      "commentCount": 42
+      "commentCount": 40
     },
     {
       "group": "차관급",
@@ -5208,7 +5320,7 @@
       "title": "고등학교 졸업 후 육군 입대하려면?",
       "publishedAt": "2026-11-17T08:00:30Z",
       "thumbnail": "https://i.ytimg.com/vi/uSbv_YUxqnQ/mqdefault.jpg",
-      "viewCount": 1569,
+      "viewCount": 1560,
       "likeCount": 11,
       "commentCount": 3
     },
@@ -5264,7 +5376,7 @@
       "title": "⚔️ 광화문 한복판에서 펼쳐지는, 조선 왕실의 사인검⚔️ #kpopdemonhunters #heritage #korea",
       "publishedAt": "2026-11-17T08:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/Npxu7PWS63Q/mqdefault.jpg",
-      "viewCount": 983,
+      "viewCount": 982,
       "likeCount": 24,
       "commentCount": 3
     },
@@ -5278,23 +5390,9 @@
       "title": "고속도로 위 특별한 휴게소 처인휴게소 대탐험!",
       "publishedAt": "2026-11-17T07:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/pR1EvrJG1A4/mqdefault.jpg",
-      "viewCount": 350634,
-      "likeCount": 382,
-      "commentCount": 120
-    },
-    {
-      "group": "장관급",
-      "channelName": "국가보훈부",
-      "handle": "mpvakorea",
-      "channelId": "UClvT0GWxHHznabonSbWf7cg",
-      "videoId": "8g6fFViA8a8",
-      "videoUrl": "https://www.youtube.com/watch?v=8g6fFViA8a8",
-      "title": "독립유공자 바로 봄 캠페인 [우리 동네 영웅에게 연결 중]",
-      "publishedAt": "2026-11-17T07:30:25Z",
-      "thumbnail": "https://i.ytimg.com/vi/8g6fFViA8a8/mqdefault.jpg",
-      "viewCount": 1106,
-      "likeCount": 21,
-      "commentCount": 2
+      "viewCount": 350639,
+      "likeCount": 385,
+      "commentCount": 122
     },
     {
       "group": "차관급",
@@ -5334,7 +5432,7 @@
       "title": "다가올 30년, 힘차게 나아갈 도약의 이정표ㅣ 아세안+3 정상회의",
       "publishedAt": "2026-11-17T07:11:29Z",
       "thumbnail": "https://i.ytimg.com/vi/ArR9AlEQx-A/mqdefault.jpg",
-      "viewCount": 34952,
+      "viewCount": 34956,
       "likeCount": 2747,
       "commentCount": 379
     },
@@ -5418,7 +5516,7 @@
       "title": "[용선 핫라이브] K-브랜드 정부인증제도 1기 참여기업 간담회",
       "publishedAt": "2026-11-17T06:29:29Z",
       "thumbnail": "https://i.ytimg.com/vi/5uBpZAoxm1Q/mqdefault.jpg",
-      "viewCount": 151,
+      "viewCount": 152,
       "likeCount": 7,
       "commentCount": 0
     },
@@ -5474,7 +5572,7 @@
       "title": "도움이 필요한 곳이라면- 어디든 나타난다!🚨 #이재명 #대통령 #이재명대통령 #아세안 #ktv #이매진",
       "publishedAt": "2026-11-17T05:47:57Z",
       "thumbnail": "https://i.ytimg.com/vi/yvekx-OvFPg/mqdefault.jpg",
-      "viewCount": 15397,
+      "viewCount": 15398,
       "likeCount": 2885,
       "commentCount": 43
     },
@@ -5516,7 +5614,7 @@
       "title": "[진실이 판치는 세상] 2026 KOREA LBS DAY",
       "publishedAt": "2026-11-17T05:12:23Z",
       "thumbnail": "https://i.ytimg.com/vi/c4FghwAgE0s/mqdefault.jpg",
-      "viewCount": 719,
+      "viewCount": 720,
       "likeCount": 28,
       "commentCount": 4
     },
@@ -5530,7 +5628,7 @@
       "title": "[실화 기반] 운동하러 갔다가 돈만 날릴 뻔한 썰, 공정위 대학생 기자단이 풀어드립니다!",
       "publishedAt": "2026-11-17T05:09:44Z",
       "thumbnail": "https://i.ytimg.com/vi/mi09WDDboFA/mqdefault.jpg",
-      "viewCount": 702924,
+      "viewCount": 710397,
       "likeCount": 20,
       "commentCount": 1
     },
@@ -5600,7 +5698,7 @@
       "title": "건선, 전염되는 질환일까요? 🤔 | 안심패밀리와 함께하는 건선 알아보기 ①",
       "publishedAt": "2026-11-17T04:47:14Z",
       "thumbnail": "https://i.ytimg.com/vi/LcT9etJXOLQ/mqdefault.jpg",
-      "viewCount": 583,
+      "viewCount": 586,
       "likeCount": 24,
       "commentCount": 15
     },
@@ -5614,8 +5712,8 @@
       "title": "[의학 속 데이터 이야기] 사망한 지 2년, 무덤이 다시 열렸다",
       "publishedAt": "2026-11-17T04:45:11Z",
       "thumbnail": "https://i.ytimg.com/vi/vLcXqdzwsA4/mqdefault.jpg",
-      "viewCount": 50863,
-      "likeCount": 376,
+      "viewCount": 50865,
+      "likeCount": 377,
       "commentCount": 684
     },
     {
@@ -5628,8 +5726,8 @@
       "title": "이제 34살까지 된다?! #청년문화패스 #최대15만원 | 2027년 정부예산안 Ep6.",
       "publishedAt": "2026-11-17T04:31:22Z",
       "thumbnail": "https://i.ytimg.com/vi/yGWdb8KdnIU/mqdefault.jpg",
-      "viewCount": 2961663,
-      "likeCount": 2067,
+      "viewCount": 2970455,
+      "likeCount": 2066,
       "commentCount": 57
     },
     {
@@ -5656,7 +5754,7 @@
       "title": "수출 1조 달러 시대⭐ | 세계가 찾는 기술에서 세계인의 일상 속 제품까지",
       "publishedAt": "2026-11-17T04:27:32Z",
       "thumbnail": "https://i.ytimg.com/vi/zziQXvGyM_A/mqdefault.jpg",
-      "viewCount": 10366,
+      "viewCount": 10368,
       "likeCount": 75,
       "commentCount": 10
     },
@@ -5726,8 +5824,8 @@
       "title": "베테랑 농부 부부의 선택형 공익직불금 사용법!",
       "publishedAt": "2026-11-17T01:38:10Z",
       "thumbnail": "https://i.ytimg.com/vi/MJ_uhlgkTnM/mqdefault.jpg",
-      "viewCount": 507014,
-      "likeCount": 1715,
+      "viewCount": 509700,
+      "likeCount": 1721,
       "commentCount": 0
     },
     {
@@ -5740,8 +5838,8 @@
       "title": "베테랑 농부 부부가 알려주는 공익직불금 사용법! | 농부의 영수증 선택형 공익직불금편",
       "publishedAt": "2026-11-17T01:32:18Z",
       "thumbnail": "https://i.ytimg.com/vi/_HDrl8gupGk/mqdefault.jpg",
-      "viewCount": 9179,
-      "likeCount": 108,
+      "viewCount": 9220,
+      "likeCount": 109,
       "commentCount": 88
     },
     {
@@ -5754,8 +5852,8 @@
       "title": "꽃말인터뷰 Ep.7 | 알스트로메리아💐 x 위기임신·보호출산 지원",
       "publishedAt": "2026-11-17T01:30:10Z",
       "thumbnail": "https://i.ytimg.com/vi/mhTXFMoacyM/mqdefault.jpg",
-      "viewCount": 35780,
-      "likeCount": 103,
+      "viewCount": 35836,
+      "likeCount": 104,
       "commentCount": 1
     },
     {
@@ -5768,9 +5866,9 @@
       "title": "안부를 묻습니다  | 국가데이터처 홍보영상",
       "publishedAt": "2026-11-17T01:16:46Z",
       "thumbnail": "https://i.ytimg.com/vi/AfyWLAcnSKw/mqdefault.jpg",
-      "viewCount": 56984,
-      "likeCount": 238,
-      "commentCount": 489
+      "viewCount": 56995,
+      "likeCount": 240,
+      "commentCount": 497
     },
     {
       "group": "차관급",
@@ -5824,7 +5922,7 @@
       "title": "40. 내 정보는 내가 지킨다 — 30초 개인정보 보호 꿀팁 6",
       "publishedAt": "2026-11-17T01:10:12Z",
       "thumbnail": "https://i.ytimg.com/vi/JQNjaDG8-Dg/mqdefault.jpg",
-      "viewCount": 31,
+      "viewCount": 33,
       "likeCount": 1,
       "commentCount": 0
     },
@@ -5922,7 +6020,7 @@
       "title": "나라사랑의 정신 ㅣ 순국선열의 노래 AI 리믹스",
       "publishedAt": "2026-11-17T01:03:21Z",
       "thumbnail": "https://i.ytimg.com/vi/cbohmjc87ic/mqdefault.jpg",
-      "viewCount": 1477,
+      "viewCount": 1478,
       "likeCount": 239,
       "commentCount": 309
     },
@@ -5978,7 +6076,7 @@
       "title": "피 한 방울로 10분 만에 진단🩸장성규, 춘천 바디텍메드에 가다 | 로컬 히어로즈 EP.04",
       "publishedAt": "2026-11-17T01:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/PHp14uDdNOg/mqdefault.jpg",
-      "viewCount": 205154,
+      "viewCount": 205155,
       "likeCount": 52,
       "commentCount": 1
     },
@@ -6034,7 +6132,7 @@
       "title": "[119영상콘텐츠 공모전 최우수상] 현장을 지키는 네 글자, 지상전투",
       "publishedAt": "2026-11-17T00:24:19Z",
       "thumbnail": "https://i.ytimg.com/vi/Ss5m-to7SN0/mqdefault.jpg",
-      "viewCount": 510,
+      "viewCount": 506,
       "likeCount": 11,
       "commentCount": 1
     },
@@ -6076,7 +6174,7 @@
       "title": "[한-아세안 DAY1] 이 대통령의 손에 들린 바통?! 다음 차례는 누구? ※시청 포인트 확인 필수※ #이재명#대통령#이재명대통령#필리핀#아세안#ASEAN#ktv#이매진",
       "publishedAt": "2026-11-16T16:28:10Z",
       "thumbnail": "https://i.ytimg.com/vi/zXqVStCfwXA/mqdefault.jpg",
-      "viewCount": 51813,
+      "viewCount": 51891,
       "likeCount": 1836,
       "commentCount": 82
     },
@@ -6090,7 +6188,7 @@
       "title": "⌜한반도 평화체제 및 평화경제 미래비전 국제세미나⌟ 1일차",
       "publishedAt": "2026-11-16T14:32:45Z",
       "thumbnail": "https://i.ytimg.com/vi/az-4CDIQiPY/mqdefault.jpg",
-      "viewCount": 1700,
+      "viewCount": 1699,
       "likeCount": 16,
       "commentCount": 0
     },
@@ -6104,8 +6202,8 @@
       "title": "6년 만에 다시 흐르는 한-메콩 협력",
       "publishedAt": "2026-11-16T14:04:35Z",
       "thumbnail": "https://i.ytimg.com/vi/TWLcnL2Bhw8/mqdefault.jpg",
-      "viewCount": 31444,
-      "likeCount": 7471,
+      "viewCount": 31450,
+      "likeCount": 7472,
       "commentCount": 349
     },
     {
@@ -6118,7 +6216,7 @@
       "title": "함께 만들어 가고 싶은 아세안의 미래ㅣ 한-아세안 정상회의",
       "publishedAt": "2026-11-16T13:45:02Z",
       "thumbnail": "https://i.ytimg.com/vi/xD_wWD2LMxk/mqdefault.jpg",
-      "viewCount": 36113,
+      "viewCount": 36143,
       "likeCount": 2241,
       "commentCount": 367
     },
@@ -6132,8 +6230,8 @@
       "title": "작년 이맘때였죠?",
       "publishedAt": "2026-11-16T13:13:13Z",
       "thumbnail": "https://i.ytimg.com/vi/BHne7vwiRlU/mqdefault.jpg",
-      "viewCount": 27036,
-      "likeCount": 5613,
+      "viewCount": 27037,
+      "likeCount": 5614,
       "commentCount": 266
     },
     {
@@ -6146,8 +6244,8 @@
       "title": "얼굴만 봐도 웃음이 절로😄",
       "publishedAt": "2026-11-16T12:57:34Z",
       "thumbnail": "https://i.ytimg.com/vi/E2w4_exJ6FA/mqdefault.jpg",
-      "viewCount": 40559,
-      "likeCount": 8012,
+      "viewCount": 40568,
+      "likeCount": 8013,
       "commentCount": 418
     },
     {
@@ -6160,9 +6258,9 @@
       "title": "아세안의 든든한 행동 파트너🇰🇷",
       "publishedAt": "2026-11-16T12:57:11Z",
       "thumbnail": "https://i.ytimg.com/vi/gpbNBFnhk9I/mqdefault.jpg",
-      "viewCount": 37878,
-      "likeCount": 10065,
-      "commentCount": 530
+      "viewCount": 37886,
+      "likeCount": 10070,
+      "commentCount": 531
     },
     {
       "group": "기타",
@@ -6230,9 +6328,9 @@
       "title": "당신이 지은 오늘, 우리가 잇는 내일 | 2026 국토교통부 감사 캠페인",
       "publishedAt": "2026-11-16T09:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/gjQKvi7MFT0/mqdefault.jpg",
-      "viewCount": 1554153,
-      "likeCount": 1578,
-      "commentCount": 1564
+      "viewCount": 1554163,
+      "likeCount": 1581,
+      "commentCount": 1568
     },
     {
       "group": "차관급",
@@ -6286,8 +6384,8 @@
       "title": "🌿 일상 속 작은 기후행동, 금융혜택으로 돌아와요",
       "publishedAt": "2026-11-16T09:22:58Z",
       "thumbnail": "https://i.ytimg.com/vi/tbkBvvdmzWc/mqdefault.jpg",
-      "viewCount": 37669,
-      "likeCount": 147,
+      "viewCount": 37877,
+      "likeCount": 150,
       "commentCount": 0
     },
     {
@@ -6356,7 +6454,7 @@
       "title": "드디어 등장한 소방청의 새 얼굴👩🏻‍🚒 #불쑥",
       "publishedAt": "2026-11-16T09:18:52Z",
       "thumbnail": "https://i.ytimg.com/vi/U23MkP-7jlo/mqdefault.jpg",
-      "viewCount": 46213,
+      "viewCount": 46301,
       "likeCount": 35,
       "commentCount": 2
     },
@@ -6370,7 +6468,7 @@
       "title": "대한민국을 지키는 힘, K-DEFENSE POWER!_K239 다연장로켓(천무) | 대한민국 국방부",
       "publishedAt": "2026-11-16T09:18:29Z",
       "thumbnail": "https://i.ytimg.com/vi/uKVY5A8Gc0g/mqdefault.jpg",
-      "viewCount": 108694,
+      "viewCount": 108696,
       "likeCount": 415,
       "commentCount": 3
     },
@@ -6468,7 +6566,7 @@
       "title": "23. 만약 모든 사람들이 개인정보 보호를 실천한다면",
       "publishedAt": "2026-11-16T09:14:24Z",
       "thumbnail": "https://i.ytimg.com/vi/Vt5u-AnLIzk/mqdefault.jpg",
-      "viewCount": 261,
+      "viewCount": 262,
       "likeCount": 4,
       "commentCount": 0
     },
@@ -6552,7 +6650,7 @@
       "title": "그 실적, 진짜인가요?",
       "publishedAt": "2026-11-16T09:04:07Z",
       "thumbnail": "https://i.ytimg.com/vi/TG5Gsb3MkO0/mqdefault.jpg",
-      "viewCount": 6733,
+      "viewCount": 6731,
       "likeCount": 9,
       "commentCount": 4
     },
@@ -6650,7 +6748,7 @@
       "title": "(26.11.16.) 제27차 한-아세안 정상회의 이재명 대통령 모두발언",
       "publishedAt": "2026-11-16T08:05:14Z",
       "thumbnail": "https://i.ytimg.com/vi/nkmSomfXYG0/mqdefault.jpg",
-      "viewCount": 16281,
+      "viewCount": 16283,
       "likeCount": 763,
       "commentCount": 31
     },
@@ -6692,7 +6790,7 @@
       "title": "생방송 방송사고 레전드",
       "publishedAt": "2026-11-16T08:00:38Z",
       "thumbnail": "https://i.ytimg.com/vi/LfFyeNl5yO0/mqdefault.jpg",
-      "viewCount": 58122,
+      "viewCount": 58273,
       "likeCount": 68,
       "commentCount": 11
     },
@@ -6706,7 +6804,7 @@
       "title": "24세인데 병역판정검사 본인선택 가능할까? 🤔",
       "publishedAt": "2026-11-16T08:00:11Z",
       "thumbnail": "https://i.ytimg.com/vi/uePQxuCeO04/mqdefault.jpg",
-      "viewCount": 1179,
+      "viewCount": 1181,
       "likeCount": 11,
       "commentCount": 1
     },
@@ -6762,7 +6860,7 @@
       "title": "[2027 수능] 수험생 여러분의 더 빛날 내일을 위해🔥 부산대 응원단 'PINALE'가 응원합니다!",
       "publishedAt": "2026-11-16T07:29:44Z",
       "thumbnail": "https://i.ytimg.com/vi/5VwCshJqJ6E/mqdefault.jpg",
-      "viewCount": 8114,
+      "viewCount": 8115,
       "likeCount": 45,
       "commentCount": 51
     },
@@ -6776,9 +6874,9 @@
       "title": "미래를 키우는 달리기 게임 SEED RUN 오픈!",
       "publishedAt": "2026-11-16T07:12:00Z",
       "thumbnail": "https://i.ytimg.com/vi/QaEFrfeVJBY/mqdefault.jpg",
-      "viewCount": 1445448,
-      "likeCount": 165,
-      "commentCount": 319
+      "viewCount": 1450794,
+      "likeCount": 166,
+      "commentCount": 321
     },
     {
       "group": "차관급",
@@ -6818,8 +6916,8 @@
       "title": "같이 공부할래요?✏️ | 국토부 사무관과 함께 스터디 윗 미 | 청년을 위한 주거 정책 알아보기",
       "publishedAt": "2026-11-16T07:04:27Z",
       "thumbnail": "https://i.ytimg.com/vi/AJxIbDxVfkw/mqdefault.jpg",
-      "viewCount": 176392,
-      "likeCount": 1774,
+      "viewCount": 176844,
+      "likeCount": 1782,
       "commentCount": 273
     },
     {
@@ -6860,8 +6958,8 @@
       "title": "마닐라 가는 비행기에서",
       "publishedAt": "2026-11-16T06:29:17Z",
       "thumbnail": "https://i.ytimg.com/vi/qHoQq17rJqg/mqdefault.jpg",
-      "viewCount": 207137,
-      "likeCount": 30303,
+      "viewCount": 207157,
+      "likeCount": 30305,
       "commentCount": 4349
     },
     {
@@ -6888,7 +6986,7 @@
       "title": "[event] AI 시대, 확인템 장착이 국룰!",
       "publishedAt": "2026-11-16T06:05:25Z",
       "thumbnail": "https://i.ytimg.com/vi/K9OUo4Z_fcE/mqdefault.jpg",
-      "viewCount": 691263,
+      "viewCount": 691274,
       "likeCount": 190,
       "commentCount": 6
     },
@@ -6916,7 +7014,7 @@
       "title": "공정위가 진행한 AI 가상인물 표시광고 캠페인!",
       "publishedAt": "2026-11-16T05:58:09Z",
       "thumbnail": "https://i.ytimg.com/vi/4zFwu8rzo48/mqdefault.jpg",
-      "viewCount": 528664,
+      "viewCount": 528665,
       "likeCount": 749,
       "commentCount": 3
     },
@@ -6930,8 +7028,8 @@
       "title": "Kumusta 💐 마닐라에 도착했습니다",
       "publishedAt": "2026-11-16T05:44:03Z",
       "thumbnail": "https://i.ytimg.com/vi/M2J-ZXVUGbM/mqdefault.jpg",
-      "viewCount": 87340,
-      "likeCount": 15955,
+      "viewCount": 87343,
+      "likeCount": 15957,
       "commentCount": 1313
     },
     {
@@ -6972,7 +7070,7 @@
       "title": "조선시대 부동산 거래 공식 확인의 비밀! [국세매거진] #국세청 #세금 #절세",
       "publishedAt": "2026-11-16T05:00:02Z",
       "thumbnail": "https://i.ytimg.com/vi/6akXSqM_8z8/mqdefault.jpg",
-      "viewCount": 735,
+      "viewCount": 736,
       "likeCount": 6,
       "commentCount": 1
     },
@@ -6986,7 +7084,7 @@
       "title": "[대통령 풀영상] 이재명 대통령, 아세안 정상회의 참석 위해 필리핀 마닐라 도착 풀영상 #이재명#대통령#필리핀#아세안#ktv#이매진",
       "publishedAt": "2026-11-16T04:58:00Z",
       "thumbnail": "https://i.ytimg.com/vi/QJGEe5vHnPw/mqdefault.jpg",
-      "viewCount": 49367,
+      "viewCount": 49374,
       "likeCount": 3079,
       "commentCount": 207
     },
@@ -7028,7 +7126,7 @@
       "title": "✏️ 본동초등학교와 함께 알아보는 지진발생 시 행동요령",
       "publishedAt": "2026-11-16T02:22:00Z",
       "thumbnail": "https://i.ytimg.com/vi/DNMuHMNTmvM/mqdefault.jpg",
-      "viewCount": 3235,
+      "viewCount": 3244,
       "likeCount": 22,
       "commentCount": 1
     },
@@ -7070,7 +7168,7 @@
       "title": "아세안과 APEC으로 향한 힘찬 출발💨 #이재명 #대통령 #이재명대통령 #아세안 #ktv #이매진",
       "publishedAt": "2026-11-16T01:54:31Z",
       "thumbnail": "https://i.ytimg.com/vi/AkZhjNCzwVY/mqdefault.jpg",
-      "viewCount": 4945,
+      "viewCount": 4946,
       "likeCount": 756,
       "commentCount": 33
     },
@@ -7084,9 +7182,9 @@
       "title": "발달장애인 인식개선 캠페인 (40초)",
       "publishedAt": "2026-11-16T01:54:29Z",
       "thumbnail": "https://i.ytimg.com/vi/QHmH-ZesisU/mqdefault.jpg",
-      "viewCount": 199581,
-      "likeCount": 613,
-      "commentCount": 1125
+      "viewCount": 200154,
+      "likeCount": 615,
+      "commentCount": 1130
     },
     {
       "group": "장관급",
@@ -7098,7 +7196,7 @@
       "title": "내 수험표… 분명 넣었는데?!😨 네 내일을 망쳐주려고!😏",
       "publishedAt": "2026-11-16T01:43:49Z",
       "thumbnail": "https://i.ytimg.com/vi/xXnEbORUfIw/mqdefault.jpg",
-      "viewCount": 4781,
+      "viewCount": 4787,
       "likeCount": 12,
       "commentCount": 6
     },
@@ -7126,8 +7224,8 @@
       "title": "ASEAN&APEC, 잘 다녀오겠습니다👋",
       "publishedAt": "2026-11-16T01:19:11Z",
       "thumbnail": "https://i.ytimg.com/vi/0vwLTDtxzdo/mqdefault.jpg",
-      "viewCount": 148040,
-      "likeCount": 24798,
+      "viewCount": 148066,
+      "likeCount": 24800,
       "commentCount": 3665
     },
     {
@@ -7154,7 +7252,7 @@
       "title": "종부세, 무작정 내지 마세요! 납부 전 필수 체크부터 부부 공동명의 절세법까지 [국세매거진] #국세청 #세금 #절세",
       "publishedAt": "2026-11-16T01:00:32Z",
       "thumbnail": "https://i.ytimg.com/vi/UHFC2oY9giI/mqdefault.jpg",
-      "viewCount": 2388,
+      "viewCount": 2389,
       "likeCount": 13,
       "commentCount": 1
     },
@@ -7168,9 +7266,9 @@
       "title": "(댓글 이벤트) 김동현, 불길 속으로 뛰어들다?! 소방관을 지키는 K-국방기술의 비밀 | DAPA본다 EP.01",
       "publishedAt": "2026-11-16T01:00:15Z",
       "thumbnail": "https://i.ytimg.com/vi/E0uWeuN_Z04/mqdefault.jpg",
-      "viewCount": 254309,
-      "likeCount": 380,
-      "commentCount": 770
+      "viewCount": 254346,
+      "likeCount": 385,
+      "commentCount": 785
     },
     {
       "group": "장관급",
@@ -7182,7 +7280,7 @@
       "title": "낭만 부부, 금슬도 융복합이 되나요?! 🍶🌾",
       "publishedAt": "2026-11-16T01:00:09Z",
       "thumbnail": "https://i.ytimg.com/vi/ysCGLHvnHio/mqdefault.jpg",
-      "viewCount": 222450,
+      "viewCount": 222451,
       "likeCount": 406,
       "commentCount": 5
     },
@@ -7210,7 +7308,7 @@
       "title": "페닐케톤뇨증(PKU), 조기 발견과 꾸준한 관리가 중요합니다.",
       "publishedAt": "2026-11-16T00:12:13Z",
       "thumbnail": "https://i.ytimg.com/vi/124sGdB1oDQ/mqdefault.jpg",
-      "viewCount": 2869,
+      "viewCount": 2872,
       "likeCount": 1054,
       "commentCount": 7
     },
@@ -7224,8 +7322,8 @@
       "title": "맑음 연구가 김맑자가 알려주는 맑은 겨울 비법! 👵❄️",
       "publishedAt": "2026-11-16T00:11:39Z",
       "thumbnail": "https://i.ytimg.com/vi/YBRbaWmrOjg/mqdefault.jpg",
-      "viewCount": 40609,
-      "likeCount": 243,
+      "viewCount": 40744,
+      "likeCount": 245,
       "commentCount": 0
     },
     {
@@ -7238,7 +7336,7 @@
       "title": "올겨울, 맑자할매가 알려주는 맑은 하늘 만드는 법!",
       "publishedAt": "2026-11-16T00:11:30Z",
       "thumbnail": "https://i.ytimg.com/vi/hKG8u8pWqKs/mqdefault.jpg",
-      "viewCount": 148416,
+      "viewCount": 148633,
       "likeCount": 18,
       "commentCount": 3
     },
@@ -7252,7 +7350,7 @@
       "title": "신경내분비종양, 조기 진단과 꾸준한 관리가 중요합니다. 🔍",
       "publishedAt": "2026-11-16T00:10:59Z",
       "thumbnail": "https://i.ytimg.com/vi/zh6ELPxEoqc/mqdefault.jpg",
-      "viewCount": 954,
+      "viewCount": 953,
       "likeCount": 133,
       "commentCount": 13
     },
@@ -7322,9 +7420,9 @@
       "title": "[K-뉴딜 아카데미 간대호] 김대호 공조냉동 기술에 도전하다🔥",
       "publishedAt": "2026-11-15T22:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/lWvWK2UItAE/mqdefault.jpg",
-      "viewCount": 1817,
-      "likeCount": 130,
-      "commentCount": 293
+      "viewCount": 1823,
+      "likeCount": 133,
+      "commentCount": 296
     },
     {
       "group": "차관급",
@@ -7350,7 +7448,7 @@
       "title": "[명言명心]  충청이 대한민국 핵심 성장의 엔진이 됩니다. 초광역 첨단산업의 시작! 대한민국 산업벨트 중부권의 발전으로 5극 3특의 완성으로 달려갑니다#이재명#대통령#이매진",
       "publishedAt": "2026-11-15T15:54:50Z",
       "thumbnail": "https://i.ytimg.com/vi/WyWeg3e2Pbc/mqdefault.jpg",
-      "viewCount": 17073,
+      "viewCount": 17115,
       "likeCount": 549,
       "commentCount": 39
     },
@@ -7364,7 +7462,7 @@
       "title": "[명言명心]  '국민 예산'으로 더 강해지는 대한민국. KTV 이매진에서 준비한 '2027 예산안' 설명 마지막 편! 이번 편에서는 전문가의 목소리를 들어봅니다~#이재명#이매진",
       "publishedAt": "2026-11-15T08:19:45Z",
       "thumbnail": "https://i.ytimg.com/vi/opC_Lfm-lNU/mqdefault.jpg",
-      "viewCount": 19403,
+      "viewCount": 19443,
       "likeCount": 730,
       "commentCount": 47
     },
@@ -7406,7 +7504,7 @@
       "title": "[잼's week] ⭐️국민⭐️을 지키고~대한민국을 키우기 위해 뛰고 또 뛰다! 이재명 대통령의 11월 둘째 주.mov",
       "publishedAt": "2026-11-14T07:11:56Z",
       "thumbnail": "https://i.ytimg.com/vi/1rjqxR6kta8/mqdefault.jpg",
-      "viewCount": 25718,
+      "viewCount": 25720,
       "likeCount": 1055,
       "commentCount": 82
     },
@@ -7448,8 +7546,8 @@
       "title": "신혼부부 임대주택, 혼인신고는 언제?",
       "publishedAt": "2026-11-14T02:30:24Z",
       "thumbnail": "https://i.ytimg.com/vi/cVgOuQQVryM/mqdefault.jpg",
-      "viewCount": 594663,
-      "likeCount": 1439,
+      "viewCount": 598565,
+      "likeCount": 1449,
       "commentCount": 0
     },
     {
@@ -7462,7 +7560,7 @@
       "title": "코리아 그랜드 페스티벌과 함께하는 대구 교동 나들이! 📍",
       "publishedAt": "2026-11-14T02:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/hsdU9lwKZF8/mqdefault.jpg",
-      "viewCount": 1114,
+      "viewCount": 1115,
       "likeCount": 7,
       "commentCount": 0
     },
@@ -7504,7 +7602,7 @@
       "title": "제79회 불조심 강조의 달 캠페인 광고",
       "publishedAt": "2026-11-13T15:15:28Z",
       "thumbnail": "https://i.ytimg.com/vi/tCtHerGWa1M/mqdefault.jpg",
-      "viewCount": 509147,
+      "viewCount": 511091,
       "likeCount": 17,
       "commentCount": 0
     },
@@ -7574,8 +7672,8 @@
       "title": "\"예배당 문을 다 잠그더니…\" 드라마 '100일의 거짓말' 속 계암리 사건, 실제 생존자의 증언",
       "publishedAt": "2026-11-13T10:00:10Z",
       "thumbnail": "https://i.ytimg.com/vi/MfUSenkyGTQ/mqdefault.jpg",
-      "viewCount": 151767,
-      "likeCount": 4845,
+      "viewCount": 151869,
+      "likeCount": 4848,
       "commentCount": 65
     },
     {
@@ -7602,7 +7700,7 @@
       "title": "16. 비밀번호유언장",
       "publishedAt": "2026-11-13T09:48:04Z",
       "thumbnail": "https://i.ytimg.com/vi/729OQf2c1_0/mqdefault.jpg",
-      "viewCount": 69,
+      "viewCount": 70,
       "likeCount": 5,
       "commentCount": 0
     },
@@ -7826,7 +7924,7 @@
       "title": "[명言명心]  노동 현장에서 답답했던 일들이 있으셨나요? 대한민국에서는 AI가 노동법 상담 서비스까지 제공합니다. 최대의 업무 효율을 위한 AI 기술, 그 혜택을 국민께.",
       "publishedAt": "2026-11-13T09:19:31Z",
       "thumbnail": "https://i.ytimg.com/vi/AawQv_GtkjE/mqdefault.jpg",
-      "viewCount": 24647,
+      "viewCount": 24646,
       "likeCount": 597,
       "commentCount": 29
     },
@@ -7840,7 +7938,7 @@
       "title": "계절이 선물한 따뜻한 산책💛🍂 #이재명 #대통령 #이재명대통령 #KTV #이매지",
       "publishedAt": "2026-11-13T09:16:46Z",
       "thumbnail": "https://i.ytimg.com/vi/DRmHhGfxsgo/mqdefault.jpg",
-      "viewCount": 19292,
+      "viewCount": 19293,
       "likeCount": 2481,
       "commentCount": 86
     },
@@ -7854,7 +7952,7 @@
       "title": "이 대통령의 관심 레이더 발동-🚨 #이재명 #대통령 #이재명대통령 #자본시장정책간담회 #KTV #이매진",
       "publishedAt": "2026-11-13T09:16:30Z",
       "thumbnail": "https://i.ytimg.com/vi/HYQo9BDiuEM/mqdefault.jpg",
-      "viewCount": 5945,
+      "viewCount": 5947,
       "likeCount": 904,
       "commentCount": 28
     },
@@ -7868,7 +7966,7 @@
       "title": "시장의 신뢰 회복에 집중하겠습니다",
       "publishedAt": "2026-11-13T09:12:52Z",
       "thumbnail": "https://i.ytimg.com/vi/BKvb32Y3wrQ/mqdefault.jpg",
-      "viewCount": 46501,
+      "viewCount": 46502,
       "likeCount": 9187,
       "commentCount": 591
     },
@@ -7882,9 +7980,9 @@
       "title": "배우고, 익히고, 현장의 기술로 GO! HD현대중공업 필드 테크니션🚢｜KNDA 뉴딜마불",
       "publishedAt": "2026-11-13T09:09:30Z",
       "thumbnail": "https://i.ytimg.com/vi/2i54henOz40/mqdefault.jpg",
-      "viewCount": 24245,
-      "likeCount": 203,
-      "commentCount": 497
+      "viewCount": 24331,
+      "likeCount": 206,
+      "commentCount": 504
     },
     {
       "group": "장관급",
@@ -7938,7 +8036,7 @@
       "title": "수도권 신규택지 6곳 전망은? | 신규택지, 오늘도 맑음",
       "publishedAt": "2026-11-13T09:00:10Z",
       "thumbnail": "https://i.ytimg.com/vi/nMPR2tnRwzw/mqdefault.jpg",
-      "viewCount": 165808,
+      "viewCount": 165809,
       "likeCount": 221,
       "commentCount": 30
     },
@@ -7966,8 +8064,8 @@
       "title": "K-반도체, 수출 1조 달러를 향해 | 세계를 움직이는 'K-반도체'가 되기까지! ✨",
       "publishedAt": "2026-11-13T08:05:33Z",
       "thumbnail": "https://i.ytimg.com/vi/gYBCdxCXr5Q/mqdefault.jpg",
-      "viewCount": 48908,
-      "likeCount": 87,
+      "viewCount": 48914,
+      "likeCount": 88,
       "commentCount": 67
     },
     {
@@ -7980,7 +8078,7 @@
       "title": "K-조선, 수출 1조 달러를 향해 | 황무지에서 시작해 '세계 1위' 조선 강국이 되기까지! ✨",
       "publishedAt": "2026-11-13T08:05:18Z",
       "thumbnail": "https://i.ytimg.com/vi/CXjtejCs4oM/mqdefault.jpg",
-      "viewCount": 49632,
+      "viewCount": 49627,
       "likeCount": 75,
       "commentCount": 60
     },
@@ -7994,8 +8092,8 @@
       "title": "K-자동차, 수출 1조 달러를 향해 | 첫 독자모델 '포니'에서 글로벌 K-자동차까지! ✨",
       "publishedAt": "2026-11-13T08:04:57Z",
       "thumbnail": "https://i.ytimg.com/vi/DqzeEuxAfr8/mqdefault.jpg",
-      "viewCount": 134927,
-      "likeCount": 405,
+      "viewCount": 134931,
+      "likeCount": 406,
       "commentCount": 64
     },
     {
@@ -8008,9 +8106,9 @@
       "title": "K-푸드, 수출 1조 달러를 향해 | 쌀 한 가마·김 한 톳에서 전 세계를 사로잡은 맛까지! ✨",
       "publishedAt": "2026-11-13T08:04:31Z",
       "thumbnail": "https://i.ytimg.com/vi/aWHDZdohAvU/mqdefault.jpg",
-      "viewCount": 105710,
+      "viewCount": 105692,
       "likeCount": 342,
-      "commentCount": 68
+      "commentCount": 69
     },
     {
       "group": "차관급",
@@ -8022,8 +8120,8 @@
       "title": "[북부대공의 최애는 과장영애입니다🌹] K-브랜드 수호를 위한 병맛 AI 로판 EP.1",
       "publishedAt": "2026-11-13T08:04:26Z",
       "thumbnail": "https://i.ytimg.com/vi/UgZb89KoCeQ/mqdefault.jpg",
-      "viewCount": 491321,
-      "likeCount": 1161,
+      "viewCount": 491680,
+      "likeCount": 1162,
       "commentCount": 167
     },
     {
@@ -8037,8 +8135,8 @@
       "publishedAt": "2026-11-13T08:04:06Z",
       "thumbnail": "https://i.ytimg.com/vi/0ocmCEBYQWo/mqdefault.jpg",
       "viewCount": 46843,
-      "likeCount": 80,
-      "commentCount": 74
+      "likeCount": 81,
+      "commentCount": 75
     },
     {
       "group": "차관급",
@@ -8064,7 +8162,7 @@
       "title": "악마의 편집으로 홍보팀 이상한 사람 만들기😈",
       "publishedAt": "2026-11-13T08:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/_d_-czSFM1U/mqdefault.jpg",
-      "viewCount": 9096,
+      "viewCount": 9044,
       "likeCount": 18,
       "commentCount": 4
     },
@@ -8148,7 +8246,7 @@
       "title": "귀 쫑긋👂이 대통령의 흔들림 없는 집중력✨️#이재명#대통령#이재명대통령#ktv#이매진",
       "publishedAt": "2026-11-13T07:56:42Z",
       "thumbnail": "https://i.ytimg.com/vi/hyG9WBF0MxM/mqdefault.jpg",
-      "viewCount": 7026,
+      "viewCount": 7027,
       "likeCount": 1127,
       "commentCount": 36
     },
@@ -8218,7 +8316,7 @@
       "title": "사장님도 아프면 쉬어야죠! 소상공인 지원 확대",
       "publishedAt": "2026-11-13T07:32:33Z",
       "thumbnail": "https://i.ytimg.com/vi/SIIa85egJmM/mqdefault.jpg",
-      "viewCount": 941,
+      "viewCount": 940,
       "likeCount": 2,
       "commentCount": 0
     },
@@ -8232,8 +8330,8 @@
       "title": "\"그땐 정말..\" 파출소를 찾아온 작은 손님",
       "publishedAt": "2026-11-13T07:30:20Z",
       "thumbnail": "https://i.ytimg.com/vi/gvUzjiueDLU/mqdefault.jpg",
-      "viewCount": 22907,
-      "likeCount": 257,
+      "viewCount": 22923,
+      "likeCount": 258,
       "commentCount": 24
     },
     {
@@ -8330,7 +8428,7 @@
       "title": "한 번 쓰면 계속 쓰게 되는 역대급 AI 서비스 등장",
       "publishedAt": "2026-11-13T06:50:56Z",
       "thumbnail": "https://i.ytimg.com/vi/JLqUOfMuZfg/mqdefault.jpg",
-      "viewCount": 21931,
+      "viewCount": 21923,
       "likeCount": 55,
       "commentCount": 5
     },
@@ -8358,7 +8456,7 @@
       "title": "국세청이 왜 여기서 술을 마셔? 🍶 K-술 세계화 프로젝트 전격 공개! [세상만사 EP.5] #국세청 #K술 #전통주",
       "publishedAt": "2026-11-13T06:39:26Z",
       "thumbnail": "https://i.ytimg.com/vi/dA2OMkjJB4Q/mqdefault.jpg",
-      "viewCount": 1071,
+      "viewCount": 1072,
       "likeCount": 13,
       "commentCount": 4
     },
@@ -8372,7 +8470,7 @@
       "title": "역대급 AI 서비스 등장! 이제 AI로 민생까지 살린다!",
       "publishedAt": "2026-11-13T06:38:32Z",
       "thumbnail": "https://i.ytimg.com/vi/CqGkBoGSQNI/mqdefault.jpg",
-      "viewCount": 48215,
+      "viewCount": 48216,
       "likeCount": 100,
       "commentCount": 188
     },
@@ -8386,8 +8484,8 @@
       "title": "공익직불금, 청년농부는 이렇게 씁니다!",
       "publishedAt": "2026-11-13T06:31:21Z",
       "thumbnail": "https://i.ytimg.com/vi/nFytetGaTEw/mqdefault.jpg",
-      "viewCount": 2092819,
-      "likeCount": 5807,
+      "viewCount": 2101488,
+      "likeCount": 5815,
       "commentCount": 0
     },
     {
@@ -8400,7 +8498,7 @@
       "title": "청년농부가 알려주는 공익직불금 사용법! | 농부의 영수증 기본형 공익직불금편",
       "publishedAt": "2026-11-13T06:28:17Z",
       "thumbnail": "https://i.ytimg.com/vi/4C37AGXc2V4/mqdefault.jpg",
-      "viewCount": 83014,
+      "viewCount": 83044,
       "likeCount": 76,
       "commentCount": 23
     },
@@ -8414,8 +8512,8 @@
       "title": "관세청이 저를 구속한다고요?",
       "publishedAt": "2026-11-13T06:25:21Z",
       "thumbnail": "https://i.ytimg.com/vi/WxOhJ7nVJEM/mqdefault.jpg",
-      "viewCount": 8650,
-      "likeCount": 22,
+      "viewCount": 8661,
+      "likeCount": 23,
       "commentCount": 4
     },
     {
@@ -8428,7 +8526,7 @@
       "title": "🌾 #농지조사 가장 궁금했던 '4가지 질문'에 답하다",
       "publishedAt": "2026-11-13T06:25:00Z",
       "thumbnail": "https://i.ytimg.com/vi/g5Svp-naYQ0/mqdefault.jpg",
-      "viewCount": 805924,
+      "viewCount": 808883,
       "likeCount": 58,
       "commentCount": 15
     },
@@ -8442,7 +8540,7 @@
       "title": "🌾 빵부터 국수, 술, 과자까지?! 이게 전부 우리밀로 만든 거라고? #모지리먹방",
       "publishedAt": "2026-11-13T06:24:06Z",
       "thumbnail": "https://i.ytimg.com/vi/rTWJEOsu_cs/mqdefault.jpg",
-      "viewCount": 108891,
+      "viewCount": 109158,
       "likeCount": 33,
       "commentCount": 8
     },
@@ -8456,7 +8554,7 @@
       "title": "오늘 드레스코드는... 모두의 염원을 담은 ○○색‼️ #이재명 #대통령 #이재명대통령 #자본시장정책간담회 #KTV #이매진",
       "publishedAt": "2026-11-13T05:58:42Z",
       "thumbnail": "https://i.ytimg.com/vi/G6ZPPmuRUSk/mqdefault.jpg",
-      "viewCount": 9984,
+      "viewCount": 9985,
       "likeCount": 1514,
       "commentCount": 44
     },
@@ -8498,9 +8596,9 @@
       "title": "스마트 안경을 이용한 내신평가 부정행위,전수조사 결과는?",
       "publishedAt": "2026-11-13T05:28:41Z",
       "thumbnail": "https://i.ytimg.com/vi/2863yojgE58/mqdefault.jpg",
-      "viewCount": 34452,
+      "viewCount": 34454,
       "likeCount": 91,
-      "commentCount": 5
+      "commentCount": 4
     },
     {
       "group": "장관급",
@@ -8512,7 +8610,7 @@
       "title": "[Ep.19] 전국에 딱 하나! 도예에 푹 빠진 학생들의 리얼한 학교생활은? l 놀러온카메라",
       "publishedAt": "2026-11-13T05:20:20Z",
       "thumbnail": "https://i.ytimg.com/vi/K8VcWhruPDo/mqdefault.jpg",
-      "viewCount": 23492,
+      "viewCount": 23501,
       "likeCount": 37,
       "commentCount": 4
     },
@@ -8526,7 +8624,7 @@
       "title": "[119영상콘텐츠 공모전 대상(공동수상)] 소방 1타 강사, ‘지상전투’ 1분 정리",
       "publishedAt": "2026-11-13T05:19:06Z",
       "thumbnail": "https://i.ytimg.com/vi/4e4txEcWdfU/mqdefault.jpg",
-      "viewCount": 4081,
+      "viewCount": 4079,
       "likeCount": 60,
       "commentCount": 9
     },
@@ -8568,7 +8666,7 @@
       "title": "데이터처 바로알기 1화 / 기후부터 현장조사까지, 쌀 생산량조사 바로알기",
       "publishedAt": "2026-11-13T05:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/MFd92Ma0xGI/mqdefault.jpg",
-      "viewCount": 17546,
+      "viewCount": 17556,
       "likeCount": 16,
       "commentCount": 3
     },
@@ -8582,7 +8680,7 @@
       "title": "새농이표 아삭아삭 무·배추 겉절이 레시피!🥬",
       "publishedAt": "2026-11-13T04:48:20Z",
       "thumbnail": "https://i.ytimg.com/vi/NAkO1t-Umso/mqdefault.jpg",
-      "viewCount": 49816,
+      "viewCount": 50082,
       "likeCount": 122,
       "commentCount": 7
     },
@@ -8652,7 +8750,7 @@
       "title": "제 5차 철도망 계획 의견수렴",
       "publishedAt": "2026-11-13T03:39:18Z",
       "thumbnail": "https://i.ytimg.com/vi/ym9tphXPdzA/mqdefault.jpg",
-      "viewCount": 64335,
+      "viewCount": 64337,
       "likeCount": 670,
       "commentCount": 975
     },
@@ -8666,7 +8764,7 @@
       "title": "(26.11.13.) 신뢰받는 자본시장, 현장에서 묻고 답을 찾다 | 자본시장 정책 간담회",
       "publishedAt": "2026-11-13T03:06:59Z",
       "thumbnail": "https://i.ytimg.com/vi/tPl3PwDev6g/mqdefault.jpg",
-      "viewCount": 25834,
+      "viewCount": 25852,
       "likeCount": 1018,
       "commentCount": 38
     },
@@ -8680,9 +8778,9 @@
       "title": "[#이재명 LIVE] 신뢰받는 자본시장, 현장에서 묻고 답을 찾다 | 자본시장 정책 간담회",
       "publishedAt": "2026-11-13T03:05:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Wo-PqQwjEbo/mqdefault.jpg",
-      "viewCount": 189408,
+      "viewCount": 189437,
       "likeCount": 11835,
-      "commentCount": 1529
+      "commentCount": 1530
     },
     {
       "group": "장관급",
@@ -8722,8 +8820,8 @@
       "title": "[2027 예산안] 첨단산업에 전력·용수를 적기에! 대규모 인프라 구축 추진",
       "publishedAt": "2026-11-13T02:02:15Z",
       "thumbnail": "https://i.ytimg.com/vi/0Sv0FG6Xrnw/mqdefault.jpg",
-      "viewCount": 126535,
-      "likeCount": 276,
+      "viewCount": 126900,
+      "likeCount": 277,
       "commentCount": 0
     },
     {
@@ -8736,7 +8834,7 @@
       "title": "📝 「이태원참사진상규명법」 주요 개정 안내",
       "publishedAt": "2026-11-13T02:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/VPOW09iwB2A/mqdefault.jpg",
-      "viewCount": 389,
+      "viewCount": 388,
       "likeCount": 5,
       "commentCount": 2
     },
@@ -8764,7 +8862,7 @@
       "title": "대한민국 최대 소비 축제, 2026 코리아 그랜드 페스티벌! 🇰🇷",
       "publishedAt": "2026-11-13T02:00:11Z",
       "thumbnail": "https://i.ytimg.com/vi/h6fFDXCvEq0/mqdefault.jpg",
-      "viewCount": 1243,
+      "viewCount": 1242,
       "likeCount": 1,
       "commentCount": 0
     },
@@ -8806,7 +8904,7 @@
       "title": "🚗 눈이 안 보여도 조심! 겨울철 도로살얼음",
       "publishedAt": "2026-11-13T01:07:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Q-T-IDdJhpQ/mqdefault.jpg",
-      "viewCount": 1622743,
+      "viewCount": 1622745,
       "likeCount": 2013,
       "commentCount": 143
     },
@@ -8820,7 +8918,7 @@
       "title": "요즘 대세 이선민 X 예원이 떴다!! K-방산의 미래 경쟁력을 키우는 비결 대공개 | MIL착취재 EP.01",
       "publishedAt": "2026-11-13T01:00:24Z",
       "thumbnail": "https://i.ytimg.com/vi/d6djb52CDYA/mqdefault.jpg",
-      "viewCount": 334779,
+      "viewCount": 334840,
       "likeCount": 2613,
       "commentCount": 924
     },
@@ -8834,9 +8932,9 @@
       "title": "[데이터 있어요?] 3화 우리가 찾는 사람은 어디 있는데요?",
       "publishedAt": "2026-11-13T01:00:02Z",
       "thumbnail": "https://i.ytimg.com/vi/uFJCnDP3nCs/mqdefault.jpg",
-      "viewCount": 25835,
+      "viewCount": 25837,
       "likeCount": 131,
-      "commentCount": 278
+      "commentCount": 279
     },
     {
       "group": "장관급",
@@ -8848,7 +8946,7 @@
       "title": "시간 가는 줄 모르고 즐긴 '평화온:담'에 다녀왔어요!🍂",
       "publishedAt": "2026-11-13T00:51:09Z",
       "thumbnail": "https://i.ytimg.com/vi/Q5T_Nugj-cE/mqdefault.jpg",
-      "viewCount": 24762,
+      "viewCount": 24764,
       "likeCount": 41,
       "commentCount": 2
     },
@@ -8876,7 +8974,7 @@
       "title": "🥗제15회 삼삼한 요리경연대회 – 백세 활력 밥상!",
       "publishedAt": "2026-11-12T23:47:19Z",
       "thumbnail": "https://i.ytimg.com/vi/zaxFRJW2ZMQ/mqdefault.jpg",
-      "viewCount": 473,
+      "viewCount": 472,
       "likeCount": 8,
       "commentCount": 0
     },
@@ -8890,7 +8988,7 @@
       "title": "약수역 도심 공공주택 복합사업, 주택공급 속도 높인다",
       "publishedAt": "2026-11-12T23:00:42Z",
       "thumbnail": "https://i.ytimg.com/vi/8SVBGwPla6g/mqdefault.jpg",
-      "viewCount": 47490,
+      "viewCount": 47493,
       "likeCount": 51,
       "commentCount": 8
     },
@@ -8904,7 +9002,7 @@
       "title": "대한민국 독립영화 즐겨찾기 EP.03｜#영화로운K",
       "publishedAt": "2026-11-12T23:00:25Z",
       "thumbnail": "https://i.ytimg.com/vi/nEaeTflu2Gc/mqdefault.jpg",
-      "viewCount": 76806,
+      "viewCount": 76808,
       "likeCount": 392,
       "commentCount": 851
     },
@@ -8960,7 +9058,7 @@
       "title": "2026 대한민국 공익광고제 공모전 시상식",
       "publishedAt": "2026-11-12T21:41:36Z",
       "thumbnail": "https://i.ytimg.com/vi/MAtBB3fBE98/mqdefault.jpg",
-      "viewCount": 1749,
+      "viewCount": 1747,
       "likeCount": 29,
       "commentCount": 4
     },
@@ -8974,7 +9072,7 @@
       "title": "[LIVE] 🎥질병관리청장과 함께하는 보이는 라디오ㅣ승관 오네요 5회 ON-AIR",
       "publishedAt": "2026-11-12T20:54:46Z",
       "thumbnail": "https://i.ytimg.com/vi/QJKaBGiRyb8/mqdefault.jpg",
-      "viewCount": 346934,
+      "viewCount": 346874,
       "likeCount": 949,
       "commentCount": 2040
     },
@@ -9044,8 +9142,8 @@
       "title": "지방의 성장이 대한민국의 성장!",
       "publishedAt": "2026-11-12T10:36:31Z",
       "thumbnail": "https://i.ytimg.com/vi/DmWdVdOW2gY/mqdefault.jpg",
-      "viewCount": 56585,
-      "likeCount": 11443,
+      "viewCount": 56586,
+      "likeCount": 11445,
       "commentCount": 373
     },
     {
@@ -9072,8 +9170,8 @@
       "title": "심-쿵하게 만든 그 말❤️ 이 대통령의 마음을 울렸다~?!#이재명 #대통령 #이재명대통령 #이재용 #ktv #이매진",
       "publishedAt": "2026-11-12T10:00:56Z",
       "thumbnail": "https://i.ytimg.com/vi/sYyQ9VJtkR4/mqdefault.jpg",
-      "viewCount": 154521,
-      "likeCount": 8229,
+      "viewCount": 154529,
+      "likeCount": 8230,
       "commentCount": 207
     },
     {
@@ -9100,7 +9198,7 @@
       "title": "삽을 든 남자~🪏 오늘의 첫 삽이 가져올 미래~ 현실로 다가온 국가균형발전의 새로운 출발🏃‍➡️#이재명#대통령#이재명대통령#메가프로젝트#충청도#ktv#이매진",
       "publishedAt": "2026-11-12T09:55:04Z",
       "thumbnail": "https://i.ytimg.com/vi/wPGjj20tV1k/mqdefault.jpg",
-      "viewCount": 15176,
+      "viewCount": 15178,
       "likeCount": 720,
       "commentCount": 47
     },
@@ -9114,7 +9212,7 @@
       "title": "📝 수능 맞이 생명구조능력시험!",
       "publishedAt": "2026-11-12T09:54:57Z",
       "thumbnail": "https://i.ytimg.com/vi/3CxImTXMJ7o/mqdefault.jpg",
-      "viewCount": 172238,
+      "viewCount": 172796,
       "likeCount": 34,
       "commentCount": 0
     },
@@ -9128,7 +9226,7 @@
       "title": "[🐯HO랑이 ] EP. 24 킁킁 냄새가 난다, 냄새가 나!👃 내 이름은 우리, 탐정이죠 | 한, 우리, 🍪",
       "publishedAt": "2026-11-12T09:18:23Z",
       "thumbnail": "https://i.ytimg.com/vi/BOVTW491SZk/mqdefault.jpg",
-      "viewCount": 5566,
+      "viewCount": 5560,
       "likeCount": 263,
       "commentCount": 48
     },
@@ -9184,8 +9282,8 @@
       "title": "말이 아닌 행동, 약속이 아닌 실행으로",
       "publishedAt": "2026-11-12T08:43:16Z",
       "thumbnail": "https://i.ytimg.com/vi/tAKMrYGSnyk/mqdefault.jpg",
-      "viewCount": 30709,
-      "likeCount": 6312,
+      "viewCount": 30713,
+      "likeCount": 6313,
       "commentCount": 302
     },
     {
@@ -9198,8 +9296,8 @@
       "title": "삼성회장 카드 등장?! 오늘 오찬에서 이재용 회장이 휙하고 꺼냈다! 😳 \"오늘은 제가... 쏩니다\" 이 대통령과 삼성전자 직원들의 특별한 식사! #이재명#대통령#삼성#이재용#오찬",
       "publishedAt": "2026-11-12T08:23:59Z",
       "thumbnail": "https://i.ytimg.com/vi/kKZ4uZ2cQ8I/mqdefault.jpg",
-      "viewCount": 67008,
-      "likeCount": 2660,
+      "viewCount": 67017,
+      "likeCount": 2661,
       "commentCount": 205
     },
     {
@@ -9310,7 +9408,7 @@
       "title": "친일하면 3대가 흥하고, 독립하면 3대가 망한다?ㅣ법TV",
       "publishedAt": "2026-11-12T07:46:01Z",
       "thumbnail": "https://i.ytimg.com/vi/QPgfGU7mhG4/mqdefault.jpg",
-      "viewCount": 1808220,
+      "viewCount": 1813225,
       "likeCount": 53,
       "commentCount": 19
     },
@@ -9366,8 +9464,8 @@
       "title": "재명앤재용 #오늘뭐먹지🥄 삼성전자편",
       "publishedAt": "2026-11-12T07:30:16Z",
       "thumbnail": "https://i.ytimg.com/vi/VGmzkDSTvoc/mqdefault.jpg",
-      "viewCount": 290662,
-      "likeCount": 34784,
+      "viewCount": 290668,
+      "likeCount": 34787,
       "commentCount": 2128
     },
     {
@@ -9422,7 +9520,7 @@
       "title": "🌏 일상을 바꾸고 세계와 나누다 | 법이 가까워지면, 권리도 가까워집니다",
       "publishedAt": "2026-11-12T06:06:24Z",
       "thumbnail": "https://i.ytimg.com/vi/XJgp_wJ1BR4/mqdefault.jpg",
-      "viewCount": 50672,
+      "viewCount": 50844,
       "likeCount": 289,
       "commentCount": 2
     },
@@ -9450,9 +9548,9 @@
       "title": "[댓글 이벤트]  여러분이 달리고 싶은 거리(km)를 선택해 주세요🏃‍♂️",
       "publishedAt": "2026-11-12T05:40:14Z",
       "thumbnail": "https://i.ytimg.com/vi/QTNODQCbXRE/mqdefault.jpg",
-      "viewCount": 54545,
-      "likeCount": 389,
-      "commentCount": 652
+      "viewCount": 54718,
+      "likeCount": 391,
+      "commentCount": 654
     },
     {
       "group": "장관급",
@@ -9548,7 +9646,7 @@
       "title": "식탁으로, 미래로, 세계로 해썹이 간다!",
       "publishedAt": "2026-11-12T04:41:51Z",
       "thumbnail": "https://i.ytimg.com/vi/eiaS7bCLOVw/mqdefault.jpg",
-      "viewCount": 74475,
+      "viewCount": 74539,
       "likeCount": 99,
       "commentCount": 0
     },
@@ -9562,8 +9660,8 @@
       "title": "일단 내고 보는 무분별한 입찰, 무엇이 문제일까요? I 조달맨3 무엇이든 물어보세요!",
       "publishedAt": "2026-11-12T04:25:45Z",
       "thumbnail": "https://i.ytimg.com/vi/YSA4IxQFLEc/mqdefault.jpg",
-      "viewCount": 11142,
-      "likeCount": 321,
+      "viewCount": 11138,
+      "likeCount": 320,
       "commentCount": 1
     },
     {
@@ -9618,7 +9716,7 @@
       "title": "[최초 공개] 굳티튜드 × 조나인 | OFFICIAL PERFORMANCE VIDEO",
       "publishedAt": "2026-11-12T03:00:09Z",
       "thumbnail": "https://i.ytimg.com/vi/zxlcHjRceeA/mqdefault.jpg",
-      "viewCount": 1949216,
+      "viewCount": 1949209,
       "likeCount": 392,
       "commentCount": 649
     },
@@ -9688,7 +9786,7 @@
       "title": "안전이 벼락치기가 되겠어? 👀｜[안전사투리 EP.02]",
       "publishedAt": "2026-11-12T02:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/YPWS_yFJIaY/mqdefault.jpg",
-      "viewCount": 191439,
+      "viewCount": 191445,
       "likeCount": 123,
       "commentCount": 2
     },
@@ -9702,7 +9800,7 @@
       "title": "그 많던 배추는 누가 다 사갔을까?｜코그페 세일 문학 전집4",
       "publishedAt": "2026-11-12T02:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/sYdp8TmNN5k/mqdefault.jpg",
-      "viewCount": 179947,
+      "viewCount": 179948,
       "likeCount": 23,
       "commentCount": 0
     },
@@ -9716,7 +9814,7 @@
       "title": "[#이재명 LIVE] 메가프로젝트, 초격차 강국으로 | 메가프로젝트 제 4차 민관합동 점검회의",
       "publishedAt": "2026-11-12T01:59:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7NrgYnN0Er0/mqdefault.jpg",
-      "viewCount": 31850,
+      "viewCount": 31848,
       "likeCount": 4060,
       "commentCount": 263
     },
@@ -9758,7 +9856,7 @@
       "title": "(26.11.12.) 충청권 메가프로젝트 착공식",
       "publishedAt": "2026-11-12T01:37:42Z",
       "thumbnail": "https://i.ytimg.com/vi/M8LXx9y4y-Q/mqdefault.jpg",
-      "viewCount": 16525,
+      "viewCount": 16527,
       "likeCount": 1280,
       "commentCount": 60
     },
@@ -9772,7 +9870,7 @@
       "title": "[#이재명 LIVE] 대한민국 초격차, 충청에서 펼쳐집니다! | 충청권 메가프로젝트 착공식",
       "publishedAt": "2026-11-12T01:37:21Z",
       "thumbnail": "https://i.ytimg.com/vi/p2Kwe5sV0rs/mqdefault.jpg",
-      "viewCount": 84683,
+      "viewCount": 84685,
       "likeCount": 8988,
       "commentCount": 373
     },
@@ -9786,8 +9884,8 @@
       "title": "충청 메가 왔다⚡️",
       "publishedAt": "2026-11-12T01:27:30Z",
       "thumbnail": "https://i.ytimg.com/vi/2ftzZQHWfZ4/mqdefault.jpg",
-      "viewCount": 499910,
-      "likeCount": 31615,
+      "viewCount": 499914,
+      "likeCount": 31616,
       "commentCount": 2132
     },
     {
@@ -9856,7 +9954,7 @@
       "title": "방위사업청 핵추진잠수함사업단장이 밝히는 우리 잠수함의 미래!",
       "publishedAt": "2026-11-12T01:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/rc23IEz_wM8/mqdefault.jpg",
-      "viewCount": 22352,
+      "viewCount": 22353,
       "likeCount": 201,
       "commentCount": 18
     },
@@ -9954,8 +10052,8 @@
       "title": "AI가 바꾸는 세상, 2045년 청년 일자리는?",
       "publishedAt": "2026-11-11T09:46:56Z",
       "thumbnail": "https://i.ytimg.com/vi/ZL34aGzndnU/mqdefault.jpg",
-      "viewCount": 5329,
-      "likeCount": 2,
+      "viewCount": 5384,
+      "likeCount": 3,
       "commentCount": 0
     },
     {
@@ -9982,7 +10080,7 @@
       "title": "The 8th International Conference on Action with Women and Peace",
       "publishedAt": "2026-11-11T09:09:17Z",
       "thumbnail": "https://i.ytimg.com/vi/nVWCtFpju_4/mqdefault.jpg",
-      "viewCount": 687,
+      "viewCount": 686,
       "likeCount": 6,
       "commentCount": 0
     },
@@ -10066,7 +10164,7 @@
       "title": "[하이라이트] 바다 위 1% 해양경찰특공대",
       "publishedAt": "2026-11-11T08:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/Bf0n8YKZgnY/mqdefault.jpg",
-      "viewCount": 24179,
+      "viewCount": 24181,
       "likeCount": 10655,
       "commentCount": 45
     },
@@ -10094,7 +10192,7 @@
       "title": "[무대 풀영상] 힛지스 코리아 그랜드 페스티벌 개막식 무대｜중소돌 대작전",
       "publishedAt": "2026-11-11T08:30:05Z",
       "thumbnail": "https://i.ytimg.com/vi/IIueC0sqt2w/mqdefault.jpg",
-      "viewCount": 3963,
+      "viewCount": 3958,
       "likeCount": 83,
       "commentCount": 17
     },
@@ -10108,7 +10206,7 @@
       "title": "\"암표, 이제 그만!\" 국카스텐이 전하는 메시지💬",
       "publishedAt": "2026-11-11T08:25:38Z",
       "thumbnail": "https://i.ytimg.com/vi/NgAjKKdy1Co/mqdefault.jpg",
-      "viewCount": 493,
+      "viewCount": 491,
       "likeCount": 30,
       "commentCount": 0
     },
@@ -10150,8 +10248,8 @@
       "title": "부모님께 받은 1,000만 원, 증여세 내야 할까? 가족 간 증여 체크포인트 | 재발YO",
       "publishedAt": "2026-11-11T08:00:39Z",
       "thumbnail": "https://i.ytimg.com/vi/NtH_J2PKKdM/mqdefault.jpg",
-      "viewCount": 70274,
-      "likeCount": 1010,
+      "viewCount": 70334,
+      "likeCount": 1009,
       "commentCount": 38
     },
     {
@@ -10234,7 +10332,7 @@
       "title": "🌏 일상을 바꾸고 세계와 나누다 | 인도네시아와 네팔로 향한 법제경험",
       "publishedAt": "2026-11-11T07:29:36Z",
       "thumbnail": "https://i.ytimg.com/vi/pywsB7ZqeCg/mqdefault.jpg",
-      "viewCount": 57268,
+      "viewCount": 57478,
       "likeCount": 167,
       "commentCount": 2
     },
@@ -10262,7 +10360,7 @@
       "title": "경찰특공대의 대테러 훈련 현장 공개!🚨",
       "publishedAt": "2026-11-11T07:15:23Z",
       "thumbnail": "https://i.ytimg.com/vi/ITZMdKcVsHg/mqdefault.jpg",
-      "viewCount": 26533,
+      "viewCount": 26537,
       "likeCount": 381,
       "commentCount": 38
     },
@@ -10276,7 +10374,7 @@
       "title": "어르신들의 손끝에서 다시 피어난 그림책 📚 I 아리유레디 EP1",
       "publishedAt": "2026-11-11T07:12:16Z",
       "thumbnail": "https://i.ytimg.com/vi/d5mAOu8zi_w/mqdefault.jpg",
-      "viewCount": 58679,
+      "viewCount": 58680,
       "likeCount": 24,
       "commentCount": 7
     },
@@ -10304,8 +10402,8 @@
       "title": "\"급하게 뛰어오더니\" 깍듯하게 인사한 이유",
       "publishedAt": "2026-11-11T07:00:19Z",
       "thumbnail": "https://i.ytimg.com/vi/NGVkdKbqUBQ/mqdefault.jpg",
-      "viewCount": 354903,
-      "likeCount": 1693,
+      "viewCount": 355179,
+      "likeCount": 1696,
       "commentCount": 106
     },
     {
@@ -10388,8 +10486,8 @@
       "title": "팀코리아ON! 주태국대사관 편",
       "publishedAt": "2026-11-11T05:58:43Z",
       "thumbnail": "https://i.ytimg.com/vi/h6Vt5Ds3q_I/mqdefault.jpg",
-      "viewCount": 148840,
-      "likeCount": 565,
+      "viewCount": 149204,
+      "likeCount": 566,
       "commentCount": 1
     },
     {
@@ -10584,8 +10682,8 @@
       "title": "워메 이쁜 거~ 농촌 풍경에도 직불금이? | 풍년상회×낭만부부",
       "publishedAt": "2026-11-11T04:21:36Z",
       "thumbnail": "https://i.ytimg.com/vi/VCLNGwL4Bjo/mqdefault.jpg",
-      "viewCount": 211701,
-      "likeCount": 638,
+      "viewCount": 211898,
+      "likeCount": 639,
       "commentCount": 0
     },
     {
@@ -10598,8 +10696,8 @@
       "title": "공익직불제 OX 퀴즈! 당신의 선택은? | 풍년상회×낭만부부",
       "publishedAt": "2026-11-11T04:18:56Z",
       "thumbnail": "https://i.ytimg.com/vi/sQxW6PeudFw/mqdefault.jpg",
-      "viewCount": 719490,
-      "likeCount": 1560,
+      "viewCount": 721824,
+      "likeCount": 1563,
       "commentCount": 0
     },
     {
@@ -10612,8 +10710,8 @@
       "title": "공익직불제? 그게 뭔디?! | 풍년상회×낭만부부",
       "publishedAt": "2026-11-11T04:16:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Uy-RtOfVCdM/mqdefault.jpg",
-      "viewCount": 607939,
-      "likeCount": 1771,
+      "viewCount": 609607,
+      "likeCount": 1772,
       "commentCount": 1
     },
     {
@@ -10626,7 +10724,7 @@
       "title": "'공익 가치'로 결제하세요?! 낭만부부의 특별한 농산물 트럭 오픈🥬 | 공익직불제 풍년상회",
       "publishedAt": "2026-11-11T04:13:29Z",
       "thumbnail": "https://i.ytimg.com/vi/3qrJMtOcmTU/mqdefault.jpg",
-      "viewCount": 10593,
+      "viewCount": 10566,
       "likeCount": 34,
       "commentCount": 6
     },
@@ -10654,7 +10752,7 @@
       "title": "개꿀팁 있다면? 60초 숏폼으로 도전!",
       "publishedAt": "2026-11-11T03:35:15Z",
       "thumbnail": "https://i.ytimg.com/vi/t-Es7Z0WQZE/mqdefault.jpg",
-      "viewCount": 732,
+      "viewCount": 734,
       "likeCount": 37,
       "commentCount": 5
     },
@@ -10710,8 +10808,8 @@
       "title": "1111.mp4",
       "publishedAt": "2026-11-11T02:15:27Z",
       "thumbnail": "https://i.ytimg.com/vi/bGoPPIKUEBQ/mqdefault.jpg",
-      "viewCount": 227981,
-      "likeCount": 33344,
+      "viewCount": 228005,
+      "likeCount": 33346,
       "commentCount": 7835
     },
     {
@@ -10738,7 +10836,7 @@
       "title": "2026 글로벌 혁신을 위한 미래대화, 지금 바로 참여하세요!",
       "publishedAt": "2026-11-11T01:36:51Z",
       "thumbnail": "https://i.ytimg.com/vi/xpMLHdn_cbM/mqdefault.jpg",
-      "viewCount": 424172,
+      "viewCount": 424173,
       "likeCount": 5,
       "commentCount": 0
     },
@@ -10752,7 +10850,7 @@
       "title": "삐삐에서 스마트폰을 거쳐 AI까지, 우린 아직 성장 중🌱",
       "publishedAt": "2026-11-11T01:21:50Z",
       "thumbnail": "https://i.ytimg.com/vi/eeyZNhAkGrA/mqdefault.jpg",
-      "viewCount": 1316634,
+      "viewCount": 1319556,
       "likeCount": 35,
       "commentCount": 5
     },
@@ -10766,7 +10864,7 @@
       "title": "[데이터 있어요?] 1화 팀장님, 그거 있으세요?",
       "publishedAt": "2026-11-11T01:00:38Z",
       "thumbnail": "https://i.ytimg.com/vi/0fVc8hEcm7o/mqdefault.jpg",
-      "viewCount": 25682,
+      "viewCount": 25683,
       "likeCount": 291,
       "commentCount": 661
     },
@@ -10822,7 +10920,7 @@
       "title": "갑작스러운 순간에도 안심할 수 있도록｜‘모두의 생리대’ 지급기 이용가이드",
       "publishedAt": "2026-11-11T01:00:05Z",
       "thumbnail": "https://i.ytimg.com/vi/A8P1TZ8OEGY/mqdefault.jpg",
-      "viewCount": 30051,
+      "viewCount": 30391,
       "likeCount": 8,
       "commentCount": 5
     },
@@ -10836,8 +10934,8 @@
       "title": "나의 살던 고향은🇰🇷",
       "publishedAt": "2026-11-11T00:53:57Z",
       "thumbnail": "https://i.ytimg.com/vi/-YGY3Xz6jH0/mqdefault.jpg",
-      "viewCount": 58565,
-      "likeCount": 10569,
+      "viewCount": 58572,
+      "likeCount": 10571,
       "commentCount": 544
     },
     {
@@ -10866,7 +10964,7 @@
       "thumbnail": "https://i.ytimg.com/vi/MDaYR1LRTKc/mqdefault.jpg",
       "viewCount": 1773,
       "likeCount": 6,
-      "commentCount": 26
+      "commentCount": 27
     },
     {
       "group": "차관급",
@@ -10920,7 +11018,7 @@
       "title": "빈틈없는 사회 실현을 위한 이 대통령의 꼼꼼한 지시- #이재명 #대통령 #이재명대통령 #국무회의 #ktv #이매진",
       "publishedAt": "2026-11-10T10:14:37Z",
       "thumbnail": "https://i.ytimg.com/vi/uM2JD2YYXEY/mqdefault.jpg",
-      "viewCount": 7859,
+      "viewCount": 7862,
       "likeCount": 1344,
       "commentCount": 59
     },
@@ -10948,8 +11046,8 @@
       "title": "법질서 부정행위, 엄정하게 대응하겠습니다",
       "publishedAt": "2026-11-10T09:31:29Z",
       "thumbnail": "https://i.ytimg.com/vi/xzVQibssfh0/mqdefault.jpg",
-      "viewCount": 47588,
-      "likeCount": 10540,
+      "viewCount": 47590,
+      "likeCount": 10541,
       "commentCount": 617
     },
     {
@@ -10962,7 +11060,7 @@
       "title": "순직 소방공무원 추모명패 헌정식",
       "publishedAt": "2026-11-10T09:08:24Z",
       "thumbnail": "https://i.ytimg.com/vi/k-gtOPgIlwc/mqdefault.jpg",
-      "viewCount": 590,
+      "viewCount": 589,
       "likeCount": 14,
       "commentCount": 2
     },
@@ -10976,7 +11074,7 @@
       "title": "🎤 국무회의 현장 인터뷰 ㅣ 윤호중 행정안전부 장관",
       "publishedAt": "2026-11-10T09:07:42Z",
       "thumbnail": "https://i.ytimg.com/vi/JAU2yhv72DQ/mqdefault.jpg",
-      "viewCount": 549,
+      "viewCount": 553,
       "likeCount": 9,
       "commentCount": 10
     },
@@ -11018,7 +11116,7 @@
       "title": "🌲사라져가는 푸른 소나무, 여러분의 관심이 희망입니다!",
       "publishedAt": "2026-11-10T09:00:16Z",
       "thumbnail": "https://i.ytimg.com/vi/SL-0TGSmtDI/mqdefault.jpg",
-      "viewCount": 913,
+      "viewCount": 915,
       "likeCount": 19,
       "commentCount": 5
     },
@@ -11046,7 +11144,7 @@
       "title": "공소시효 만료 D-1 기소된 피의자 #shorts",
       "publishedAt": "2026-11-10T08:46:46Z",
       "thumbnail": "https://i.ytimg.com/vi/GhZNXxJp3I8/mqdefault.jpg",
-      "viewCount": 142151,
+      "viewCount": 142154,
       "likeCount": 1847,
       "commentCount": 106
     },
@@ -11060,8 +11158,8 @@
       "title": "K-로봇 초기 시장 여는 정부의 선제적 투자. AI로봇 1,700여 대 공공보급!",
       "publishedAt": "2026-11-10T08:36:42Z",
       "thumbnail": "https://i.ytimg.com/vi/qy1oQBVwVsE/mqdefault.jpg",
-      "viewCount": 681861,
-      "likeCount": 2086,
+      "viewCount": 682945,
+      "likeCount": 2087,
       "commentCount": 7
     },
     {
@@ -11214,7 +11312,7 @@
       "title": "[119영상콘텐츠 공모전 대상(공동수상)] 고양소방서 CHECK! CHECK! 지상전투 꼭 기억해!",
       "publishedAt": "2026-11-10T07:28:10Z",
       "thumbnail": "https://i.ytimg.com/vi/zCmS2hfpW-s/mqdefault.jpg",
-      "viewCount": 763,
+      "viewCount": 761,
       "likeCount": 24,
       "commentCount": 1
     },
@@ -11242,7 +11340,7 @@
       "title": "[대통령 풀영상] 한복으로 화사해진 청와대~ 김혜경 여사, 재일본대한민국부인회 차담회 풀영상 #이재명#대통령#김혜경#여사#차담회#ktv#이매진",
       "publishedAt": "2026-11-10T07:23:37Z",
       "thumbnail": "https://i.ytimg.com/vi/-ByfXj2H3gk/mqdefault.jpg",
-      "viewCount": 31485,
+      "viewCount": 31479,
       "likeCount": 1904,
       "commentCount": 110
     },
@@ -11270,7 +11368,7 @@
       "title": "진짜같은 광고를 넘어 진실을 알 수 있는 광고로 [공정위 AI 가상인물 표시 광고 캠페인]",
       "publishedAt": "2026-11-10T07:20:46Z",
       "thumbnail": "https://i.ytimg.com/vi/7uZvdl0fl34/mqdefault.jpg",
-      "viewCount": 372285,
+      "viewCount": 372257,
       "likeCount": 411,
       "commentCount": 498
     },
@@ -11285,7 +11383,7 @@
       "publishedAt": "2026-11-10T07:17:01Z",
       "thumbnail": "https://i.ytimg.com/vi/Et5FOsDBLzY/mqdefault.jpg",
       "viewCount": 41577,
-      "likeCount": 7765,
+      "likeCount": 7766,
       "commentCount": 317
     },
     {
@@ -11298,8 +11396,8 @@
       "title": "흔들림 없이 국민의 삶을 지켜나가겠습니다",
       "publishedAt": "2026-11-10T07:16:46Z",
       "thumbnail": "https://i.ytimg.com/vi/T5t25X_BhWY/mqdefault.jpg",
-      "viewCount": 26238,
-      "likeCount": 7884,
+      "viewCount": 26241,
+      "likeCount": 7885,
       "commentCount": 378
     },
     {
@@ -11368,7 +11466,7 @@
       "title": "청년정책 IN 오즈의 마법사 #2027정부예산안",
       "publishedAt": "2026-11-10T06:31:04Z",
       "thumbnail": "https://i.ytimg.com/vi/SDehZ-FScbs/mqdefault.jpg",
-      "viewCount": 420332,
+      "viewCount": 420789,
       "likeCount": 11,
       "commentCount": 2
     },
@@ -11424,7 +11522,7 @@
       "title": "#EVENT 국제기구를 꿈꾸는 당신에게🌏 최성운이 만난 WFP 박경란 소장",
       "publishedAt": "2026-11-10T06:07:30Z",
       "thumbnail": "https://i.ytimg.com/vi/c4pZ8u3RSZI/mqdefault.jpg",
-      "viewCount": 105114,
+      "viewCount": 106001,
       "likeCount": 97,
       "commentCount": 164
     },
@@ -11438,7 +11536,7 @@
       "title": "100% 완벽한 준비란 것은 없다✨",
       "publishedAt": "2026-11-10T06:07:08Z",
       "thumbnail": "https://i.ytimg.com/vi/JHqY6jIKbP8/mqdefault.jpg",
-      "viewCount": 612,
+      "viewCount": 611,
       "likeCount": 6,
       "commentCount": 0
     },
@@ -11466,8 +11564,8 @@
       "title": "🌏 일상을 바꾸고 세계와 나누다 | 법을 찾는 일이 권리를 지키는 시작",
       "publishedAt": "2026-11-10T05:58:59Z",
       "thumbnail": "https://i.ytimg.com/vi/UEvzKaNfOr0/mqdefault.jpg",
-      "viewCount": 60974,
-      "likeCount": 225,
+      "viewCount": 61194,
+      "likeCount": 226,
       "commentCount": 4
     },
     {
@@ -11480,7 +11578,7 @@
       "title": "동네에 경제가 활발해지면 ○○○이 생긴다?!😮 #이재명 #대통령 #이재명대통령 #국무회의 #ktv #이매진",
       "publishedAt": "2026-11-10T05:32:33Z",
       "thumbnail": "https://i.ytimg.com/vi/dTP53T_4b7o/mqdefault.jpg",
-      "viewCount": 7828,
+      "viewCount": 7830,
       "likeCount": 1369,
       "commentCount": 44
     },
@@ -11494,7 +11592,7 @@
       "title": "외국에서도 통하는 한국 재난안전기업 – 안전산업24",
       "publishedAt": "2026-11-10T05:17:39Z",
       "thumbnail": "https://i.ytimg.com/vi/YRRR4VTbJ6Y/mqdefault.jpg",
-      "viewCount": 682,
+      "viewCount": 680,
       "likeCount": 5,
       "commentCount": 0
     },
@@ -11551,7 +11649,7 @@
       "publishedAt": "2026-11-10T04:30:01Z",
       "thumbnail": "https://i.ytimg.com/vi/tcU3ulsZCK8/mqdefault.jpg",
       "viewCount": 397,
-      "likeCount": 3,
+      "likeCount": 4,
       "commentCount": 0
     },
     {
@@ -11578,8 +11676,8 @@
       "title": "기부도 FLEX, 혜택도 FLEX!🎁 청년인턴 행안즈가 알려주는 고향사랑기부제!🎤",
       "publishedAt": "2026-11-10T02:53:39Z",
       "thumbnail": "https://i.ytimg.com/vi/XnAzT1cNBaw/mqdefault.jpg",
-      "viewCount": 782332,
-      "likeCount": 1501,
+      "viewCount": 782770,
+      "likeCount": 1502,
       "commentCount": 5
     },
     {
@@ -11592,7 +11690,7 @@
       "title": "(26.11.10.) 이재명 대통령 제48회 국무회의",
       "publishedAt": "2026-11-10T02:13:53Z",
       "thumbnail": "https://i.ytimg.com/vi/hvGMF9WOmO8/mqdefault.jpg",
-      "viewCount": 24194,
+      "viewCount": 24191,
       "likeCount": 1374,
       "commentCount": 69
     },
@@ -11634,7 +11732,7 @@
       "title": "원로들, 평화체제를 말하다 | 서훈 전 국정원장",
       "publishedAt": "2026-11-10T01:38:53Z",
       "thumbnail": "https://i.ytimg.com/vi/qDZ3uVr8Zuk/mqdefault.jpg",
-      "viewCount": 152364,
+      "viewCount": 152362,
       "likeCount": 128,
       "commentCount": 24
     },
@@ -11662,7 +11760,7 @@
       "title": "낭만부부의 K-와이너리 투어?! 🍷와인잔 대신 낫을 든 이유는? | 가치갓생 캠페인",
       "publishedAt": "2026-11-10T01:00:37Z",
       "thumbnail": "https://i.ytimg.com/vi/8uAVG1bbBV0/mqdefault.jpg",
-      "viewCount": 220192,
+      "viewCount": 220193,
       "likeCount": 803,
       "commentCount": 959
     },
@@ -11704,7 +11802,7 @@
       "title": "친밀한 관계 속 위험 신호, 「레드플래그 10」을 확인하세요! 🚩✨",
       "publishedAt": "2026-11-10T01:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/c4rJoDDgVeU/mqdefault.jpg",
-      "viewCount": 88150,
+      "viewCount": 88320,
       "likeCount": 264,
       "commentCount": 272
     },
@@ -11788,7 +11886,7 @@
       "title": "함께 둘러앉아 나누는 따뜻한 한 끼🍚 #이재명 #대통령 #이재명대통령 #소방의날 #KTV #이매진",
       "publishedAt": "2026-11-09T11:04:46Z",
       "thumbnail": "https://i.ytimg.com/vi/BCCRMNPue4M/mqdefault.jpg",
-      "viewCount": 13874,
+      "viewCount": 13877,
       "likeCount": 2073,
       "commentCount": 68
     },
@@ -11816,7 +11914,7 @@
       "title": "대한민국에서 AI, 개발자는 어떻게 생각해요?🥩 | 식탁위의 내일 EP.2 #댓글이벤트",
       "publishedAt": "2026-11-09T09:21:37Z",
       "thumbnail": "https://i.ytimg.com/vi/bK3dPEdzU2U/mqdefault.jpg",
-      "viewCount": 191262,
+      "viewCount": 191241,
       "likeCount": 341,
       "commentCount": 724
     },
@@ -11830,7 +11928,7 @@
       "title": "차 바꾸셨어요?",
       "publishedAt": "2026-11-09T09:17:01Z",
       "thumbnail": "https://i.ytimg.com/vi/ISc5X_c5CtQ/mqdefault.jpg",
-      "viewCount": 2133,
+      "viewCount": 2132,
       "likeCount": 46,
       "commentCount": 2
     },
@@ -11844,9 +11942,9 @@
       "title": "팝업 말고 청년들 고민 털러 성수 왔지유🎤 | 토크하러왔지유 EP.1",
       "publishedAt": "2026-11-09T09:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/hrS_Q812Afc/mqdefault.jpg",
-      "viewCount": 103757,
+      "viewCount": 103760,
       "likeCount": 203,
-      "commentCount": 702
+      "commentCount": 708
     },
     {
       "group": "차관급",
@@ -11886,7 +11984,7 @@
       "title": "소방관 일구 식은땀 줄줄?!💥 #이재명 #대통령 #이재명대통령 #소방의날 #KTV #이매진",
       "publishedAt": "2026-11-09T08:56:19Z",
       "thumbnail": "https://i.ytimg.com/vi/1D71tzNaBbE/mqdefault.jpg",
-      "viewCount": 22075,
+      "viewCount": 22076,
       "likeCount": 2514,
       "commentCount": 106
     },
@@ -11900,7 +11998,7 @@
       "title": "드디어 약속의 무대! 캔디샵·힛지스 코그페 개막식 출격｜중소돌 대작전 EP.4",
       "publishedAt": "2026-11-09T08:29:08Z",
       "thumbnail": "https://i.ytimg.com/vi/rOaayU7Bj5U/mqdefault.jpg",
-      "viewCount": 224976,
+      "viewCount": 224977,
       "likeCount": 370,
       "commentCount": 65
     },
@@ -11956,8 +12054,8 @@
       "title": "여러분의 헌신에 감사드립니다",
       "publishedAt": "2026-11-09T08:08:45Z",
       "thumbnail": "https://i.ytimg.com/vi/UZ5c3_Zpdzw/mqdefault.jpg",
-      "viewCount": 131533,
-      "likeCount": 16024,
+      "viewCount": 131577,
+      "likeCount": 16028,
       "commentCount": 828
     },
     {
@@ -11998,8 +12096,8 @@
       "title": "[국가보훈부 x BEATPELLA HOUSE] 'Team Korea' #BEATPELLAHOUSE",
       "publishedAt": "2026-11-09T08:00:23Z",
       "thumbnail": "https://i.ytimg.com/vi/zXoQZIpnBwk/mqdefault.jpg",
-      "viewCount": 161388,
-      "likeCount": 4058,
+      "viewCount": 161440,
+      "likeCount": 4059,
       "commentCount": 176
     },
     {
@@ -12054,7 +12152,7 @@
       "title": "신의 사명을 가슴에 품고 국민의 생명과 안전을 끝까지 지키겠습니다 ※제64주년 소방의 날 주제영상",
       "publishedAt": "2026-11-09T07:05:39Z",
       "thumbnail": "https://i.ytimg.com/vi/hMtTm2zhLP8/mqdefault.jpg",
-      "viewCount": 1381,
+      "viewCount": 1380,
       "likeCount": 26,
       "commentCount": 1
     },
@@ -12110,8 +12208,8 @@
       "title": "대한민국 소방 여러분을 응원합니다",
       "publishedAt": "2026-11-09T06:44:11Z",
       "thumbnail": "https://i.ytimg.com/vi/vwzluC8HKbM/mqdefault.jpg",
-      "viewCount": 278072,
-      "likeCount": 28907,
+      "viewCount": 278085,
+      "likeCount": 28908,
       "commentCount": 1351
     },
     {
@@ -12138,7 +12236,7 @@
       "title": "소방관이 자부심을 갖고 일할 수 있는 대한민국 #이재명 #대통령 #이재명대통령 #소방의날 #KTV #이매진",
       "publishedAt": "2026-11-09T06:28:29Z",
       "thumbnail": "https://i.ytimg.com/vi/u4mQu1UGWA0/mqdefault.jpg",
-      "viewCount": 11807,
+      "viewCount": 11808,
       "likeCount": 1808,
       "commentCount": 74
     },
@@ -12152,7 +12250,7 @@
       "title": "[가치갓생 AI 드라마 EP.3] 완전히 농락(農樂)당했네요",
       "publishedAt": "2026-11-09T06:00:03Z",
       "thumbnail": "https://i.ytimg.com/vi/a0pgnw6hOEo/mqdefault.jpg",
-      "viewCount": 1022675,
+      "viewCount": 1022674,
       "likeCount": 2056,
       "commentCount": 3
     },
@@ -12166,7 +12264,7 @@
       "title": "2027년 기대되는 청년금융정책 6가지(feat.금융위) [금융프렌즈]",
       "publishedAt": "2026-11-09T05:35:00Z",
       "thumbnail": "https://i.ytimg.com/vi/R7TgvlAXjiw/mqdefault.jpg",
-      "viewCount": 209661,
+      "viewCount": 209877,
       "likeCount": 27,
       "commentCount": 0
     },
@@ -12208,7 +12306,7 @@
       "title": "개그맨 양상국이 전하는 특별한 축하 메시지 #소방의날",
       "publishedAt": "2026-11-09T04:51:03Z",
       "thumbnail": "https://i.ytimg.com/vi/IpGIdHCioDg/mqdefault.jpg",
-      "viewCount": 2671,
+      "viewCount": 2670,
       "likeCount": 104,
       "commentCount": 3
     },
@@ -12236,7 +12334,7 @@
       "title": "[알바생 김원훈 EP. 2] 김원훈이 찾아낸 로컬브랜드의 성공 비결은?!",
       "publishedAt": "2026-11-09T04:30:12Z",
       "thumbnail": "https://i.ytimg.com/vi/WXszydCcF90/mqdefault.jpg",
-      "viewCount": 318622,
+      "viewCount": 318621,
       "likeCount": 684,
       "commentCount": 5
     },
@@ -12264,7 +12362,7 @@
       "title": "(26.11.9.) 제64주년 소방의 날 기념식 ｜목숨은 살리고 세상을 지키는 작은 신, 대한민국 소방",
       "publishedAt": "2026-11-09T02:59:58Z",
       "thumbnail": "https://i.ytimg.com/vi/z8bzso7NrU0/mqdefault.jpg",
-      "viewCount": 13388,
+      "viewCount": 13389,
       "likeCount": 964,
       "commentCount": 27
     },
@@ -12278,7 +12376,7 @@
       "title": "2026년 중대재해 감축 통합 캠페인",
       "publishedAt": "2026-11-09T02:12:46Z",
       "thumbnail": "https://i.ytimg.com/vi/ohTaGm6SdIU/mqdefault.jpg",
-      "viewCount": 522155,
+      "viewCount": 521668,
       "likeCount": 7,
       "commentCount": 1
     },
@@ -12334,7 +12432,7 @@
       "title": "【월간 국가보훈부】2026년 11월호",
       "publishedAt": "2026-11-09T01:29:55Z",
       "thumbnail": "https://i.ytimg.com/vi/uxZ7Sc4P9zw/mqdefault.jpg",
-      "viewCount": 14164,
+      "viewCount": 14183,
       "likeCount": 133,
       "commentCount": 16
     },
@@ -12348,7 +12446,7 @@
       "title": "[명言명心] 820조 9,000억 원, 역대급 예산! 하지만 이번 예산에는 숨겨진 이야기가 있다?! 지금까지와는 다른 개혁 예산안, 과연 이 대통령은 어떤 예산 개혁을 준비했을까?",
       "publishedAt": "2026-11-09T01:27:52Z",
       "thumbnail": "https://i.ytimg.com/vi/Sb5VyzhT4Mg/mqdefault.jpg",
-      "viewCount": 16961,
+      "viewCount": 16963,
       "likeCount": 791,
       "commentCount": 66
     },
@@ -12376,7 +12474,7 @@
       "title": "후무스 후무스~ 후무스는 무엇일까?",
       "publishedAt": "2026-11-09T01:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/Z38Ch22equo/mqdefault.jpg",
-      "viewCount": 415,
+      "viewCount": 414,
       "likeCount": 6,
       "commentCount": 0
     },
@@ -12516,7 +12614,7 @@
       "title": "올겨울 폭설일까, 한파일까? 기상청이 알려주는 엘니뇨의 진실 ❄️ #생생날씨정보통 #shorts",
       "publishedAt": "2026-11-07T10:16:50Z",
       "thumbnail": "https://i.ytimg.com/vi/lybISHEs0UQ/mqdefault.jpg",
-      "viewCount": 293816,
+      "viewCount": 293818,
       "likeCount": 1629,
       "commentCount": 68
     },
@@ -12572,7 +12670,7 @@
       "title": "[잼's week] 이 대통령의 11월 시작은 '국민'의 내일 위해 쉼 없이 달렸다!🏃💨한 주 요약.zip🗂️",
       "publishedAt": "2026-11-07T04:41:48Z",
       "thumbnail": "https://i.ytimg.com/vi/CgownnO4JUE/mqdefault.jpg",
-      "viewCount": 23130,
+      "viewCount": 23202,
       "likeCount": 888,
       "commentCount": 70
     },
@@ -12600,7 +12698,7 @@
       "title": "압류한 명품·미술품은 어디로? 화제의 국세청 온라인 경매 #국세청 #세금 #절세",
       "publishedAt": "2026-11-07T01:00:26Z",
       "thumbnail": "https://i.ytimg.com/vi/FIZiYVnQ58U/mqdefault.jpg",
-      "viewCount": 901,
+      "viewCount": 899,
       "likeCount": 11,
       "commentCount": 1
     },
@@ -12642,7 +12740,7 @@
       "title": "너와 나의 연결고리?! 대한민국과 동티모르 알고 보면 꽤 특별한 두 나라의 각별한 연대를 아시나요? 영상에 담은 이 대통령의 하루~ #이재명#대통령#동티모르#ktv#이매진",
       "publishedAt": "2026-11-06T13:18:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Btg4bOStmqA/mqdefault.jpg",
-      "viewCount": 15758,
+      "viewCount": 15755,
       "likeCount": 644,
       "commentCount": 28
     },
@@ -12726,7 +12824,7 @@
       "title": "돌 하나로 일본 제국에 대항한 평범한 농민 #언성히어로즈 #원태근 #독립운동",
       "publishedAt": "2026-11-06T09:08:41Z",
       "thumbnail": "https://i.ytimg.com/vi/anYW_6Wzunw/mqdefault.jpg",
-      "viewCount": 2042,
+      "viewCount": 2044,
       "likeCount": 61,
       "commentCount": 1
     },
@@ -12768,7 +12866,7 @@
       "title": "[#이달의임업인] 해발 1,000m 임야에 4만 본… 마가목으로 만든 숲의 가치",
       "publishedAt": "2026-11-06T09:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/OuuvebB2-qc/mqdefault.jpg",
-      "viewCount": 2236,
+      "viewCount": 2237,
       "likeCount": 32,
       "commentCount": 4
     },
@@ -12810,7 +12908,7 @@
       "title": "장위9구역, 정비사업 속도 높여 주택공급 앞당긴다",
       "publishedAt": "2026-11-06T08:58:25Z",
       "thumbnail": "https://i.ytimg.com/vi/pn4nsaZkgjs/mqdefault.jpg",
-      "viewCount": 47106,
+      "viewCount": 47105,
       "likeCount": 45,
       "commentCount": 2
     },
@@ -12880,8 +12978,8 @@
       "title": "[세 번째 시간] 1~4화 전편 몰아보기 + OST Full ver.",
       "publishedAt": "2026-11-06T08:43:21Z",
       "thumbnail": "https://i.ytimg.com/vi/XmZxo7Irbhw/mqdefault.jpg",
-      "viewCount": 736254,
-      "likeCount": 1030,
+      "viewCount": 736958,
+      "likeCount": 1031,
       "commentCount": 350
     },
     {
@@ -12894,8 +12992,8 @@
       "title": "[세 번째 시간] EP4. 세상을 구한 타임슬립, 그 마지막 이야기",
       "publishedAt": "2026-11-06T08:36:01Z",
       "thumbnail": "https://i.ytimg.com/vi/9IfxBkj38vs/mqdefault.jpg",
-      "viewCount": 2611865,
-      "likeCount": 8549,
+      "viewCount": 2614666,
+      "likeCount": 8561,
       "commentCount": 125
     },
     {
@@ -13188,7 +13286,7 @@
       "title": "8시간(!)동안 관세청 홍보자료 만들기🔥💦",
       "publishedAt": "2026-11-06T07:00:32Z",
       "thumbnail": "https://i.ytimg.com/vi/w-f7xWNk-Yo/mqdefault.jpg",
-      "viewCount": 1315,
+      "viewCount": 1314,
       "likeCount": 23,
       "commentCount": 3
     },
@@ -13202,7 +13300,7 @@
       "title": "중기부가 아이돌을 섭외했다고?!｜중소돌 대작전 EP.3",
       "publishedAt": "2026-11-06T07:00:17Z",
       "thumbnail": "https://i.ytimg.com/vi/3Mg9-pN3gM8/mqdefault.jpg",
-      "viewCount": 111132,
+      "viewCount": 111135,
       "likeCount": 106,
       "commentCount": 33
     },
@@ -13216,7 +13314,7 @@
       "title": "가능성이 미래가 되는 곳, 현대자동차그룹 HINT 아카데미🚗｜KNDA 뉴딜마불",
       "publishedAt": "2026-11-06T06:44:49Z",
       "thumbnail": "https://i.ytimg.com/vi/Cc2Jfm4_6Kg/mqdefault.jpg",
-      "viewCount": 28677,
+      "viewCount": 28839,
       "likeCount": 196,
       "commentCount": 583
     },
@@ -13300,8 +13398,8 @@
       "title": "우정으로 돌아온 27년 전 인연🪖",
       "publishedAt": "2026-11-06T06:05:29Z",
       "thumbnail": "https://i.ytimg.com/vi/suQocHMYbSY/mqdefault.jpg",
-      "viewCount": 39163,
-      "likeCount": 6551,
+      "viewCount": 39164,
+      "likeCount": 6552,
       "commentCount": 231
     },
     {
@@ -13510,7 +13608,7 @@
       "title": "이 만남, 특별한 순간! ○○○○에서 찾아온 오늘의 손님🤍 #이재명 #대통령 #이재명대통령 #동티모르 #KTV #이매진",
       "publishedAt": "2026-11-06T04:31:35Z",
       "thumbnail": "https://i.ytimg.com/vi/HbaXQr-oi98/mqdefault.jpg",
-      "viewCount": 11107,
+      "viewCount": 11109,
       "likeCount": 1594,
       "commentCount": 32
     },
@@ -13538,7 +13636,7 @@
       "title": "대리인 등록 한 번으로 지원 사업 신청을 간편하게~ 농업e지~",
       "publishedAt": "2026-11-06T04:29:09Z",
       "thumbnail": "https://i.ytimg.com/vi/uEuqPGXYtoA/mqdefault.jpg",
-      "viewCount": 498241,
+      "viewCount": 498811,
       "likeCount": 6,
       "commentCount": 0
     },
@@ -13580,7 +13678,7 @@
       "title": "맞춤 지원사업부터 농업기상재해 정보까지 한눈에! 농업e지~",
       "publishedAt": "2026-11-06T04:19:33Z",
       "thumbnail": "https://i.ytimg.com/vi/IE_fXpIkx6U/mqdefault.jpg",
-      "viewCount": 610061,
+      "viewCount": 611172,
       "likeCount": 3,
       "commentCount": 0
     },
@@ -13608,7 +13706,7 @@
       "title": "[클립으로 보는 '대통령의 Y'] part.2 - 말로 하는 리트윗 -",
       "publishedAt": "2026-11-06T03:45:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Q1YrvKkPqSU/mqdefault.jpg",
-      "viewCount": 8729,
+      "viewCount": 8730,
       "likeCount": 454,
       "commentCount": 32
     },
@@ -13622,7 +13720,7 @@
       "title": "[클립으로 보는 '대통령의 Y'] part.1 - SNS의 딜레마&공개의 딜레마 -",
       "publishedAt": "2026-11-06T03:45:43Z",
       "thumbnail": "https://i.ytimg.com/vi/fuqfjQCJoxE/mqdefault.jpg",
-      "viewCount": 24599,
+      "viewCount": 24600,
       "likeCount": 1213,
       "commentCount": 359
     },
@@ -13636,7 +13734,7 @@
       "title": "대한민국 데이터 컨트롤타워 \"국가데이터처\"👍",
       "publishedAt": "2026-11-06T03:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/Zpg6TOeiP6U/mqdefault.jpg",
-      "viewCount": 224601,
+      "viewCount": 224990,
       "likeCount": 783,
       "commentCount": 8
     },
@@ -13720,8 +13818,8 @@
       "title": "성평등가족부 산하기관에 무슨일이? SNS 담당자 픽 콘텐츠! 11월 픽셋 (PICK 3)",
       "publishedAt": "2026-11-06T01:30:18Z",
       "thumbnail": "https://i.ytimg.com/vi/gAJJQfoVIGo/mqdefault.jpg",
-      "viewCount": 68420,
-      "likeCount": 225,
+      "viewCount": 68837,
+      "likeCount": 228,
       "commentCount": 1
     },
     {
@@ -13762,7 +13860,7 @@
       "title": "조달시장에서 매출·문의가 58% 증가했어요!  I 조달온에어 후기② (주)더포스 I 조달청",
       "publishedAt": "2026-11-06T01:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/6VgRDsvdISg/mqdefault.jpg",
-      "viewCount": 25572,
+      "viewCount": 25552,
       "likeCount": 504,
       "commentCount": 529
     },
@@ -13818,7 +13916,7 @@
       "title": "역대급 규모 #전기차보조금 #43만대 | 2027년 정부예산안 Ep3.",
       "publishedAt": "2026-11-06T00:28:54Z",
       "thumbnail": "https://i.ytimg.com/vi/R2k7ebqUjMU/mqdefault.jpg",
-      "viewCount": 4956973,
+      "viewCount": 4956974,
       "likeCount": 3866,
       "commentCount": 46
     },
@@ -13986,8 +14084,8 @@
       "title": "오늘을 살아가세요, 눈이 부시게",
       "publishedAt": "2026-11-05T13:28:01Z",
       "thumbnail": "https://i.ytimg.com/vi/89i_rF9SrcM/mqdefault.jpg",
-      "viewCount": 126646,
-      "likeCount": 21386,
+      "viewCount": 126674,
+      "likeCount": 21389,
       "commentCount": 2025
     },
     {
@@ -14000,8 +14098,8 @@
       "title": "SNS 좀 줄이라고?",
       "publishedAt": "2026-11-05T13:17:40Z",
       "thumbnail": "https://i.ytimg.com/vi/GrjSvr5_Sow/mqdefault.jpg",
-      "viewCount": 63808,
-      "likeCount": 10877,
+      "viewCount": 63816,
+      "likeCount": 10878,
       "commentCount": 892
     },
     {
@@ -14014,8 +14112,8 @@
       "title": "생방송, 어디까지 해봤니?",
       "publishedAt": "2026-11-05T12:42:47Z",
       "thumbnail": "https://i.ytimg.com/vi/Ds4o30nPCjM/mqdefault.jpg",
-      "viewCount": 42670,
-      "likeCount": 9876,
+      "viewCount": 42676,
+      "likeCount": 9877,
       "commentCount": 562
     },
     {
@@ -14042,9 +14140,9 @@
       "title": "#대통령의Y 1회 [소통]",
       "publishedAt": "2026-11-05T12:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/QEXUuIRTRC0/mqdefault.jpg",
-      "viewCount": 655309,
-      "likeCount": 70355,
-      "commentCount": 32240
+      "viewCount": 655324,
+      "likeCount": 70358,
+      "commentCount": 32242
     },
     {
       "group": "기타",
@@ -14056,9 +14154,9 @@
       "title": "[최초공개] 대통령의 Y - 1회 : 소통",
       "publishedAt": "2026-11-05T12:00:03Z",
       "thumbnail": "https://i.ytimg.com/vi/XikwDjatgvc/mqdefault.jpg",
-      "viewCount": 159973,
+      "viewCount": 159974,
       "likeCount": 17080,
-      "commentCount": 2744
+      "commentCount": 2745
     },
     {
       "group": "기타",
@@ -14070,7 +14168,7 @@
       "title": "노잼은 ㅇㅇ이야!",
       "publishedAt": "2026-11-05T11:50:18Z",
       "thumbnail": "https://i.ytimg.com/vi/sUARLXnr12s/mqdefault.jpg",
-      "viewCount": 45727,
+      "viewCount": 45744,
       "likeCount": 11164,
       "commentCount": 674
     },
@@ -14084,7 +14182,7 @@
       "title": "NEON & BEYOND🤨 막차탑승",
       "publishedAt": "2026-11-05T11:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/fI94MGlAxwQ/mqdefault.jpg",
-      "viewCount": 1806,
+      "viewCount": 1805,
       "likeCount": 38,
       "commentCount": 4
     },
@@ -14098,7 +14196,7 @@
       "title": "아니 이건 누구지?!😮 #이재명 #대통령 #이재명대통령 #국제기능올림픽 #KTV #이매진",
       "publishedAt": "2026-11-05T10:33:37Z",
       "thumbnail": "https://i.ytimg.com/vi/OmzNcf6lqo8/mqdefault.jpg",
-      "viewCount": 10224,
+      "viewCount": 10226,
       "likeCount": 1419,
       "commentCount": 37
     },
@@ -14154,8 +14252,8 @@
       "title": "기술로 세계 2위 달성한 청년 인재들",
       "publishedAt": "2026-11-05T09:54:15Z",
       "thumbnail": "https://i.ytimg.com/vi/t-O1-_pxZaE/mqdefault.jpg",
-      "viewCount": 24864,
-      "likeCount": 5489,
+      "viewCount": 24867,
+      "likeCount": 5490,
       "commentCount": 203
     },
     {
@@ -14238,7 +14336,7 @@
       "title": "[2026 청춘예찬 영화제 입선] 그날의 셔틀콕_안형준 (일반부)",
       "publishedAt": "2026-11-05T09:01:37Z",
       "thumbnail": "https://i.ytimg.com/vi/ZbSD-aeb-R0/mqdefault.jpg",
-      "viewCount": 399,
+      "viewCount": 400,
       "likeCount": 2,
       "commentCount": 1
     },
@@ -14294,7 +14392,7 @@
       "title": "[2026 청춘예찬 영화제 입선] 20살 겁쟁이, 해병대에 가다_임성찬 (일반부)",
       "publishedAt": "2026-11-05T09:01:05Z",
       "thumbnail": "https://i.ytimg.com/vi/RKrzq3CA3as/mqdefault.jpg",
-      "viewCount": 664,
+      "viewCount": 663,
       "likeCount": 1,
       "commentCount": 0
     },
@@ -14336,7 +14434,7 @@
       "title": "[2026 청춘예찬 영화제 우수상] 소초, 소리_유승혁 (일반부)",
       "publishedAt": "2026-11-05T09:00:45Z",
       "thumbnail": "https://i.ytimg.com/vi/P68mUaYsSBo/mqdefault.jpg",
-      "viewCount": 199991,
+      "viewCount": 200229,
       "likeCount": 31,
       "commentCount": 0
     },
@@ -14364,7 +14462,7 @@
       "title": "전세사기, 알고 대비하면 막을 수 있습니다!",
       "publishedAt": "2026-11-05T09:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/L7-gKDd1ewM/mqdefault.jpg",
-      "viewCount": 778,
+      "viewCount": 777,
       "likeCount": 15,
       "commentCount": 2
     },
@@ -14420,7 +14518,7 @@
       "title": "[2026 청춘예찬 영화제 우수상] 두개의 청춘_조영인 (일반부)",
       "publishedAt": "2026-11-05T09:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/KhYB16iKUsM/mqdefault.jpg",
-      "viewCount": 242330,
+      "viewCount": 242412,
       "likeCount": 10,
       "commentCount": 1
     },
@@ -14462,7 +14560,7 @@
       "title": "[2026 청춘예찬 영화제 입선] 나는 국방부 의장대원입니다._정우석 (일반부)",
       "publishedAt": "2026-11-05T09:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/TdINjmtEAKQ/mqdefault.jpg",
-      "viewCount": 171,
+      "viewCount": 170,
       "likeCount": 2,
       "commentCount": 0
     },
@@ -14490,7 +14588,7 @@
       "title": "[2026 청춘예찬 영화제 입선] 고3 미니 탐정_고삼이들(이정헌, 최건) (학생부)",
       "publishedAt": "2026-11-05T09:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/dNfoKh7Z21U/mqdefault.jpg",
-      "viewCount": 147,
+      "viewCount": 146,
       "likeCount": 0,
       "commentCount": 1
     },
@@ -14518,7 +14616,7 @@
       "title": "[2026 청춘예찬 영화제 우수상] 사회복무요원 전설이 되다_이동준 (일반부)",
       "publishedAt": "2026-11-05T09:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/jD8yboIWPC8/mqdefault.jpg",
-      "viewCount": 50497,
+      "viewCount": 50566,
       "likeCount": 9,
       "commentCount": 1
     },
@@ -14546,7 +14644,7 @@
       "title": "[2026 청춘예찬 영화제 우수상] 멈추지 않는 1초_드림온씬(최혜현, 김수빈, 문수현) (학생부)",
       "publishedAt": "2026-11-05T09:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/rw1scaprJFk/mqdefault.jpg",
-      "viewCount": 96303,
+      "viewCount": 96441,
       "likeCount": 9,
       "commentCount": 0
     },
@@ -14588,7 +14686,7 @@
       "title": "[2026 청춘예찬 영화제 대상] 내 청춘의 찬란한 훈장_김우민 (일반부)",
       "publishedAt": "2026-11-05T08:59:24Z",
       "thumbnail": "https://i.ytimg.com/vi/9UD6xkVRy-I/mqdefault.jpg",
-      "viewCount": 43042,
+      "viewCount": 43060,
       "likeCount": 7,
       "commentCount": 0
     },
@@ -14602,7 +14700,7 @@
       "title": "[2026 청춘예찬 영화제 최우수상] 그리운 노래처럼_hwiwasoo(황건휘, 정택수) (일반부)",
       "publishedAt": "2026-11-05T08:59:24Z",
       "thumbnail": "https://i.ytimg.com/vi/JcEJN785AcI/mqdefault.jpg",
-      "viewCount": 151287,
+      "viewCount": 150909,
       "likeCount": 20,
       "commentCount": 0
     },
@@ -14616,7 +14714,7 @@
       "title": "[2026 청춘예찬 영화제 장려상] 나의 가장 빛나는 훈장_박명성 (일반부)",
       "publishedAt": "2026-11-05T08:59:19Z",
       "thumbnail": "https://i.ytimg.com/vi/eoLsPjpadzk/mqdefault.jpg",
-      "viewCount": 685,
+      "viewCount": 686,
       "likeCount": 8,
       "commentCount": 3
     },
@@ -14644,8 +14742,8 @@
       "title": "9화💡 나라살림, 어떻게 배우면 쉬울까요? 여러분의 아이디어를 제안해 주세요!",
       "publishedAt": "2026-11-05T08:51:38Z",
       "thumbnail": "https://i.ytimg.com/vi/nlmjSJ7AB4E/mqdefault.jpg",
-      "viewCount": 88981,
-      "likeCount": 400,
+      "viewCount": 89136,
+      "likeCount": 401,
       "commentCount": 5
     },
     {
@@ -14658,7 +14756,7 @@
       "title": "라모니 와쪄염'ㅅ'",
       "publishedAt": "2026-11-05T08:47:30Z",
       "thumbnail": "https://i.ytimg.com/vi/OjvD-tf6KWA/mqdefault.jpg",
-      "viewCount": 45662,
+      "viewCount": 45658,
       "likeCount": 257,
       "commentCount": 6
     },
@@ -14700,7 +14798,7 @@
       "title": "청년 기술인재 여러분이 대한민국의 미래입니다✨",
       "publishedAt": "2026-11-05T08:14:45Z",
       "thumbnail": "https://i.ytimg.com/vi/ssolDcjMKFU/mqdefault.jpg",
-      "viewCount": 44108,
+      "viewCount": 44107,
       "likeCount": 3855,
       "commentCount": 390
     },
@@ -14728,8 +14826,8 @@
       "title": "더 많이, 더 넓게, 더 편리하게 보훈의료를 강화하겠습니다",
       "publishedAt": "2026-11-05T08:03:33Z",
       "thumbnail": "https://i.ytimg.com/vi/n6hEs87aJ0Q/mqdefault.jpg",
-      "viewCount": 162917,
-      "likeCount": 389,
+      "viewCount": 163327,
+      "likeCount": 388,
       "commentCount": 6
     },
     {
@@ -14812,7 +14910,7 @@
       "title": "어느덧 D-14‼️코 앞으로 다가온 ○○에 대한 이야기?! #이재명 #대통령 #이재명대통령 #수보회의 #KTV #이매진",
       "publishedAt": "2026-11-05T07:42:46Z",
       "thumbnail": "https://i.ytimg.com/vi/6Ltwpv_dCVE/mqdefault.jpg",
-      "viewCount": 6440,
+      "viewCount": 6441,
       "likeCount": 938,
       "commentCount": 18
     },
@@ -14882,7 +14980,7 @@
       "title": "누구나 자유롭게, 국민 창업의 시대",
       "publishedAt": "2026-11-05T07:10:58Z",
       "thumbnail": "https://i.ytimg.com/vi/7MDdNSn25l8/mqdefault.jpg",
-      "viewCount": 41459,
+      "viewCount": 41461,
       "likeCount": 9836,
       "commentCount": 376
     },
@@ -14896,8 +14994,8 @@
       "title": "수능 부정행위 강력 경고합니다🚫",
       "publishedAt": "2026-11-05T07:10:36Z",
       "thumbnail": "https://i.ytimg.com/vi/_oYB1qp2Bjo/mqdefault.jpg",
-      "viewCount": 55320,
-      "likeCount": 10902,
+      "viewCount": 55311,
+      "likeCount": 10901,
       "commentCount": 326
     },
     {
@@ -14938,7 +15036,7 @@
       "title": "📢 교육교부금 개편정말 교육예산이 줄어드는 걸까요?",
       "publishedAt": "2026-11-05T06:37:48Z",
       "thumbnail": "https://i.ytimg.com/vi/I6xnwYkmYDw/mqdefault.jpg",
-      "viewCount": 59462,
+      "viewCount": 59464,
       "likeCount": 142,
       "commentCount": 2
     },
@@ -15008,8 +15106,8 @@
       "title": "MC 박슬기도 과몰입한 디지털 성범죄 위기탈출 미션! |「디지털 SOS : 일상을 되찾는 선택」🔓",
       "publishedAt": "2026-11-05T05:14:51Z",
       "thumbnail": "https://i.ytimg.com/vi/uG0kr2St_T8/mqdefault.jpg",
-      "viewCount": 75403,
-      "likeCount": 313,
+      "viewCount": 75948,
+      "likeCount": 312,
       "commentCount": 0
     },
     {
@@ -15022,7 +15120,7 @@
       "title": "[#이재명 LIVE] ‘국민경제의 선순환’을 만들어 가야 합니다 | 제51차 대수보",
       "publishedAt": "2026-11-05T05:13:54Z",
       "thumbnail": "https://i.ytimg.com/vi/tts8k5gUlAI/mqdefault.jpg",
-      "viewCount": 41976,
+      "viewCount": 41977,
       "likeCount": 3622,
       "commentCount": 555
     },
@@ -15204,7 +15302,7 @@
       "title": "[PIPC 픽 뉴스] 개인정보 침해 위험, 발생하기 전에 예방합니다!🛡️",
       "publishedAt": "2026-11-05T02:00:24Z",
       "thumbnail": "https://i.ytimg.com/vi/hyNy1bVXwak/mqdefault.jpg",
-      "viewCount": 375612,
+      "viewCount": 376584,
       "likeCount": 25,
       "commentCount": 0
     },
@@ -15232,7 +15330,7 @@
       "title": "📢국가유공자·보훈가족을 위한 생활안정대부 한도·상환 조건",
       "publishedAt": "2026-11-05T01:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/Ct5825cdv_w/mqdefault.jpg",
-      "viewCount": 7438,
+      "viewCount": 7442,
       "likeCount": 29,
       "commentCount": 2
     },
@@ -15316,7 +15414,7 @@
       "title": "오 네고 초고수인가?👀",
       "publishedAt": "2026-11-04T23:23:02Z",
       "thumbnail": "https://i.ytimg.com/vi/-YxiWmAP3UU/mqdefault.jpg",
-      "viewCount": 45461,
+      "viewCount": 45460,
       "likeCount": 177,
       "commentCount": 5
     },
@@ -15372,8 +15470,8 @@
       "title": "2027년 소방청 정부예산안! 국민 안전을 위한 3가지 준비 🚒",
       "publishedAt": "2026-11-04T12:50:54Z",
       "thumbnail": "https://i.ytimg.com/vi/W14rIBKsUcM/mqdefault.jpg",
-      "viewCount": 488958,
-      "likeCount": 1876,
+      "viewCount": 489719,
+      "likeCount": 1880,
       "commentCount": 0
     },
     {
@@ -15386,7 +15484,7 @@
       "title": "구해줘! 공공재개발 #장위9구역",
       "publishedAt": "2026-11-04T12:42:28Z",
       "thumbnail": "https://i.ytimg.com/vi/UEVMRiKeSLU/mqdefault.jpg",
-      "viewCount": 70701,
+      "viewCount": 70699,
       "likeCount": 5291,
       "commentCount": 785
     },
@@ -15414,8 +15512,8 @@
       "title": "오늘은 성북 공공재개발 현장입니다🏠",
       "publishedAt": "2026-11-04T10:25:48Z",
       "thumbnail": "https://i.ytimg.com/vi/kePXcz8p3ZU/mqdefault.jpg",
-      "viewCount": 72489,
-      "likeCount": 8582,
+      "viewCount": 72492,
+      "likeCount": 8584,
       "commentCount": 491
     },
     {
@@ -15428,7 +15526,7 @@
       "title": "성남시장 때도 느낀 건데 너무 오래 걸려요",
       "publishedAt": "2026-11-04T10:22:33Z",
       "thumbnail": "https://i.ytimg.com/vi/DJRy_XiJyTI/mqdefault.jpg",
-      "viewCount": 52352,
+      "viewCount": 52353,
       "likeCount": 10194,
       "commentCount": 340
     },
@@ -15442,7 +15540,7 @@
       "title": "[사이언스가 선을 넘을 때 EP.01] KTX 타고 평양까지 바로 갈 수 있을까?",
       "publishedAt": "2026-11-04T10:17:51Z",
       "thumbnail": "https://i.ytimg.com/vi/KfLlDghxZn8/mqdefault.jpg",
-      "viewCount": 35538,
+      "viewCount": 35539,
       "likeCount": 252,
       "commentCount": 368
     },
@@ -15484,8 +15582,8 @@
       "title": "전기차로 바꾸는 일상, 더 커지는 혜택! 🚙⚡",
       "publishedAt": "2026-11-04T09:37:56Z",
       "thumbnail": "https://i.ytimg.com/vi/91X2LZ5nsuM/mqdefault.jpg",
-      "viewCount": 293755,
-      "likeCount": 672,
+      "viewCount": 294356,
+      "likeCount": 673,
       "commentCount": 0
     },
     {
@@ -15568,8 +15666,8 @@
       "title": "직구와의 전쟁! 무허가 의료기기 해외직구는 위험해요!",
       "publishedAt": "2026-11-04T09:10:23Z",
       "thumbnail": "https://i.ytimg.com/vi/rl03ouho1dM/mqdefault.jpg",
-      "viewCount": 521574,
-      "likeCount": 256,
+      "viewCount": 525763,
+      "likeCount": 254,
       "commentCount": 6
     },
     {
@@ -15596,7 +15694,7 @@
       "title": "[인쿠시 요양보호사되다②] 모래주머니 차고 ‘니온앤비욘~♪’ 21살 인쿠시, 노인 되다! | 법tv",
       "publishedAt": "2026-11-04T09:04:12Z",
       "thumbnail": "https://i.ytimg.com/vi/qBsMGXWiPYQ/mqdefault.jpg",
-      "viewCount": 881,
+      "viewCount": 882,
       "likeCount": 20,
       "commentCount": 1
     },
@@ -15610,7 +15708,7 @@
       "title": "[인쿠시 요양보호사되다①] 오늘의 배구선수, 미래의 외국인 요양보호사 체험 (ft. 경인여대) | 법tv",
       "publishedAt": "2026-11-04T09:04:00Z",
       "thumbnail": "https://i.ytimg.com/vi/jBIC3r6uVtk/mqdefault.jpg",
-      "viewCount": 1481,
+      "viewCount": 1480,
       "likeCount": 29,
       "commentCount": 2
     },
@@ -15694,7 +15792,7 @@
       "title": "\"우는 사람들은 다 기상청 직원일 것\" 현직 예보관의 눈물겨운 관람평😭#shorts",
       "publishedAt": "2026-11-04T08:50:22Z",
       "thumbnail": "https://i.ytimg.com/vi/M1Ac6DB8bo4/mqdefault.jpg",
-      "viewCount": 11346,
+      "viewCount": 11349,
       "likeCount": 79,
       "commentCount": 30
     },
@@ -15722,8 +15820,8 @@
       "title": "[세 번째 시간] EP3. 11시 40분, 운명의 시간! 과연 미래를 지킬 수 있을까",
       "publishedAt": "2026-11-04T08:19:47Z",
       "thumbnail": "https://i.ytimg.com/vi/pmLYhsVMNuU/mqdefault.jpg",
-      "viewCount": 4604514,
-      "likeCount": 10013,
+      "viewCount": 4608636,
+      "likeCount": 10018,
       "commentCount": 805
     },
     {
@@ -15834,7 +15932,7 @@
       "title": "\"어머니! 어머니!\" 산속에 울려 퍼진 외침 #shorts",
       "publishedAt": "2026-11-04T07:30:24Z",
       "thumbnail": "https://i.ytimg.com/vi/uXpBnWbfHmA/mqdefault.jpg",
-      "viewCount": 13696,
+      "viewCount": 13689,
       "likeCount": 355,
       "commentCount": 26
     },
@@ -15862,7 +15960,7 @@
       "title": "호주 시드니에서 열린 평화·통일문화행사 현장📷",
       "publishedAt": "2026-11-04T07:17:01Z",
       "thumbnail": "https://i.ytimg.com/vi/4YYAdTlEk2g/mqdefault.jpg",
-      "viewCount": 612,
+      "viewCount": 611,
       "likeCount": 4,
       "commentCount": 0
     },
@@ -15876,7 +15974,7 @@
       "title": "🌏 지진 안전 지킴이 '지진이' (지진안전 AI 영상 공모전 대상작) 🚨",
       "publishedAt": "2026-11-04T07:14:35Z",
       "thumbnail": "https://i.ytimg.com/vi/j_dNKqX7rEw/mqdefault.jpg",
-      "viewCount": 238619,
+      "viewCount": 238545,
       "likeCount": 320,
       "commentCount": 0
     },
@@ -15890,8 +15988,8 @@
       "title": "[2027년 예산안] 내년 예산, 얼마게?! #shorts",
       "publishedAt": "2026-11-04T06:59:02Z",
       "thumbnail": "https://i.ytimg.com/vi/XWtDiVVE3rY/mqdefault.jpg",
-      "viewCount": 1178468,
-      "likeCount": 859,
+      "viewCount": 1179391,
+      "likeCount": 860,
       "commentCount": 1
     },
     {
@@ -15960,8 +16058,8 @@
       "title": "태어나기 10년 전에 찍힌 사진📸",
       "publishedAt": "2026-11-04T06:10:31Z",
       "thumbnail": "https://i.ytimg.com/vi/pyhaUglHrPg/mqdefault.jpg",
-      "viewCount": 82663,
-      "likeCount": 12565,
+      "viewCount": 82822,
+      "likeCount": 12581,
       "commentCount": 421
     },
     {
@@ -15974,7 +16072,7 @@
       "title": "(26.11.4.)'대통령의 Y', 유튜브 'KTV 이매진' 채널과 '이재명' 채널에 5일 오후 9시 공개/성기홍 홍보소통수석 브리핑",
       "publishedAt": "2026-11-04T06:06:14Z",
       "thumbnail": "https://i.ytimg.com/vi/SP0gTCE_w5o/mqdefault.jpg",
-      "viewCount": 27666,
+      "viewCount": 27665,
       "likeCount": 1610,
       "commentCount": 145
     },
@@ -16016,8 +16114,8 @@
       "title": "공정위, 행정소송에 적극 대응한다(2027년 예산안Ⅱ)",
       "publishedAt": "2026-11-04T05:41:36Z",
       "thumbnail": "https://i.ytimg.com/vi/_QXGcWQjseo/mqdefault.jpg",
-      "viewCount": 418565,
-      "likeCount": 1253,
+      "viewCount": 418984,
+      "likeCount": 1257,
       "commentCount": 2
     },
     {
@@ -16030,8 +16128,8 @@
       "title": "공정위, 법 집행 역량 강화한다(2027년 예산안ⓛ)",
       "publishedAt": "2026-11-04T05:38:55Z",
       "thumbnail": "https://i.ytimg.com/vi/8wPnN5o28ws/mqdefault.jpg",
-      "viewCount": 400641,
-      "likeCount": 1037,
+      "viewCount": 401122,
+      "likeCount": 1041,
       "commentCount": 1
     },
     {
@@ -16058,7 +16156,7 @@
       "title": "종소세 중간예납, 그냥 납부하면 손해?! 가산세부터 납부 꿀팁까지 #국세청 #종합소득세 #중간예납",
       "publishedAt": "2026-11-04T05:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/HJK97Fb09rU/mqdefault.jpg",
-      "viewCount": 1267,
+      "viewCount": 1266,
       "likeCount": 15,
       "commentCount": 1
     },
@@ -16086,7 +16184,7 @@
       "title": "조달시장에서 수천만원의 홍보 예산을 절감했어요!  I 조달온에어 후기① (주)마이크로시스템 I 조달청",
       "publishedAt": "2026-11-04T04:59:25Z",
       "thumbnail": "https://i.ytimg.com/vi/76cM1oj1MjU/mqdefault.jpg",
-      "viewCount": 15501,
+      "viewCount": 15503,
       "likeCount": 495,
       "commentCount": 605
     },
@@ -16100,7 +16198,7 @@
       "title": "수도권 1극을 넘어, 지역이 성장의 중심으로! 국토 대전환을 추진합니다",
       "publishedAt": "2026-11-04T04:48:13Z",
       "thumbnail": "https://i.ytimg.com/vi/Qjkwd9hdDxQ/mqdefault.jpg",
-      "viewCount": 1919,
+      "viewCount": 1922,
       "likeCount": 96,
       "commentCount": 6
     },
@@ -16114,8 +16212,8 @@
       "title": "\"이거 안 놔?\" 도로 위 난동의 이유 #shorts",
       "publishedAt": "2026-11-04T04:45:05Z",
       "thumbnail": "https://i.ytimg.com/vi/RBcLtONK2-I/mqdefault.jpg",
-      "viewCount": 543153,
-      "likeCount": 1829,
+      "viewCount": 544470,
+      "likeCount": 1832,
       "commentCount": 36
     },
     {
@@ -16198,7 +16296,7 @@
       "title": "아수라발발타!⚡ 빈 땅이 회사로 변했다?! 새만금에서 생긴 일",
       "publishedAt": "2026-11-04T02:08:03Z",
       "thumbnail": "https://i.ytimg.com/vi/Q1N1aV2HvZA/mqdefault.jpg",
-      "viewCount": 9586,
+      "viewCount": 9585,
       "likeCount": 119,
       "commentCount": 12
     },
@@ -16366,7 +16464,7 @@
       "title": "이게 진짜 국산이라고?! 해병대 핵심전력~ 상륙공격헬기의 위엄!!",
       "publishedAt": "2026-11-04T01:00:30Z",
       "thumbnail": "https://i.ytimg.com/vi/ckZoljbg-GE/mqdefault.jpg",
-      "viewCount": 289013,
+      "viewCount": 289016,
       "likeCount": 3967,
       "commentCount": 179
     },
@@ -16408,8 +16506,8 @@
       "title": "대한민국 외교관이 얼마나 든든한 존재인지 이번 일을 계기로 깨달았습니다",
       "publishedAt": "2026-11-04T00:53:56Z",
       "thumbnail": "https://i.ytimg.com/vi/g9PV-tQIgrQ/mqdefault.jpg",
-      "viewCount": 210955,
-      "likeCount": 631,
+      "viewCount": 211089,
+      "likeCount": 632,
       "commentCount": 1
     },
     {
@@ -16478,7 +16576,7 @@
       "title": "🇰🇷🇹🇷튀르키예 대통령이 이 대통령을 찾은 이유.'기다리고 있었습니다.' 이 대통령이 준비한 특별한 환영🥋✨️?! #이재명#대통령#이재명대통령#튀르키예#ktv#이매진",
       "publishedAt": "2026-11-03T16:09:22Z",
       "thumbnail": "https://i.ytimg.com/vi/bRhwqALrQu4/mqdefault.jpg",
-      "viewCount": 12015,
+      "viewCount": 12016,
       "likeCount": 474,
       "commentCount": 33
     },
@@ -16493,7 +16591,7 @@
       "publishedAt": "2026-11-03T14:49:27Z",
       "thumbnail": "https://i.ytimg.com/vi/-V8o8L0jT7Y/mqdefault.jpg",
       "viewCount": 39405,
-      "likeCount": 7069,
+      "likeCount": 7070,
       "commentCount": 286
     },
     {
@@ -16506,8 +16604,8 @@
       "title": "새로운 미래를 향한 중요한 이정표 🇰🇷🇹🇷",
       "publishedAt": "2026-11-03T14:48:32Z",
       "thumbnail": "https://i.ytimg.com/vi/tDsaYZFPx8s/mqdefault.jpg",
-      "viewCount": 21783,
-      "likeCount": 5227,
+      "viewCount": 21785,
+      "likeCount": 5228,
       "commentCount": 162
     },
     {
@@ -16534,8 +16632,8 @@
       "title": "피로 맺은 혈맹, 미래 파트너로✨",
       "publishedAt": "2026-11-03T12:37:30Z",
       "thumbnail": "https://i.ytimg.com/vi/LiKV7oRzv8s/mqdefault.jpg",
-      "viewCount": 39896,
-      "likeCount": 8871,
+      "viewCount": 39898,
+      "likeCount": 8872,
       "commentCount": 222
     },
     {
@@ -16562,7 +16660,7 @@
       "title": "[대통령 풀영상] 김혜경 여사, 튀르키예 영부인과 함께한 여사 간 친교 행사 풀영상#이재명#대통령#김혜경#여사#친교행사#튀르키예#영부인#전쟁기념관#풀영상",
       "publishedAt": "2026-11-03T11:53:57Z",
       "thumbnail": "https://i.ytimg.com/vi/DyXPANwjvDw/mqdefault.jpg",
-      "viewCount": 47307,
+      "viewCount": 47308,
       "likeCount": 1998,
       "commentCount": 92
     },
@@ -16577,7 +16675,7 @@
       "publishedAt": "2026-11-03T11:36:01Z",
       "thumbnail": "https://i.ytimg.com/vi/7_rGvyiZMUs/mqdefault.jpg",
       "viewCount": 21452,
-      "likeCount": 4378,
+      "likeCount": 4379,
       "commentCount": 230
     },
     {
@@ -16702,7 +16800,7 @@
       "title": "[대통령 풀영상] 아니 이게 얼마 만인가요? 4개월 만이죠~ 그런데 왜이리 반갑나요~ 오늘 청와대를 찾은 특별한 손님! #풀영상#이재명#대통령#ktv#이매진",
       "publishedAt": "2026-11-03T09:32:24Z",
       "thumbnail": "https://i.ytimg.com/vi/uLkVKsPhATg/mqdefault.jpg",
-      "viewCount": 13537,
+      "viewCount": 13538,
       "likeCount": 641,
       "commentCount": 46
     },
@@ -16744,7 +16842,7 @@
       "title": "[#이재명 LIVE] 한-튀르키예 공동언론발표",
       "publishedAt": "2026-11-03T09:20:14Z",
       "thumbnail": "https://i.ytimg.com/vi/o6Zj91YieAw/mqdefault.jpg",
-      "viewCount": 36550,
+      "viewCount": 36549,
       "likeCount": 2480,
       "commentCount": 256
     },
@@ -16898,7 +16996,7 @@
       "title": "입대 전, 기대와 걱정 사이에서 🤔",
       "publishedAt": "2026-11-03T08:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/3ARVwyK1n8Q/mqdefault.jpg",
-      "viewCount": 207301,
+      "viewCount": 207320,
       "likeCount": 322,
       "commentCount": 5
     },
@@ -16982,8 +17080,8 @@
       "title": "내년부터 3세도! 무상교육·보육 지원 확대✨",
       "publishedAt": "2026-11-03T07:47:48Z",
       "thumbnail": "https://i.ytimg.com/vi/YJrMo4oSVnc/mqdefault.jpg",
-      "viewCount": 936098,
-      "likeCount": 820,
+      "viewCount": 936965,
+      "likeCount": 818,
       "commentCount": 1
     },
     {
@@ -17010,7 +17108,7 @@
       "title": "오늘부터 순경입니다ㅣ신임 경찰 현장 다큐멘터리",
       "publishedAt": "2026-11-03T07:30:06Z",
       "thumbnail": "https://i.ytimg.com/vi/XlTAGtbxQj8/mqdefault.jpg",
-      "viewCount": 181412,
+      "viewCount": 181379,
       "likeCount": 1140,
       "commentCount": 139
     },
@@ -17038,7 +17136,7 @@
       "title": "[#이재명 LIVE] 튀르키예 대통령 국빈방한 공식 환영식",
       "publishedAt": "2026-11-03T07:03:05Z",
       "thumbnail": "https://i.ytimg.com/vi/nRQP9gt0LLc/mqdefault.jpg",
-      "viewCount": 70018,
+      "viewCount": 70021,
       "likeCount": 5948,
       "commentCount": 309
     },
@@ -17052,8 +17150,8 @@
       "title": "의미 있는 출발, 농어촌 기본소득",
       "publishedAt": "2026-11-03T07:01:54Z",
       "thumbnail": "https://i.ytimg.com/vi/BwD4-nbV_14/mqdefault.jpg",
-      "viewCount": 19029,
-      "likeCount": 4165,
+      "viewCount": 19030,
+      "likeCount": 4166,
       "commentCount": 214
     },
     {
@@ -17066,8 +17164,8 @@
       "title": "사이버 보안 위기에 철저히 대비하겠습니다",
       "publishedAt": "2026-11-03T07:01:42Z",
       "thumbnail": "https://i.ytimg.com/vi/ZW6tAqO1hpE/mqdefault.jpg",
-      "viewCount": 24998,
-      "likeCount": 8211,
+      "viewCount": 24999,
+      "likeCount": 8212,
       "commentCount": 193
     },
     {
@@ -17150,8 +17248,8 @@
       "title": "대통령도 빵터진 화제의 홍보영상",
       "publishedAt": "2026-11-03T06:30:16Z",
       "thumbnail": "https://i.ytimg.com/vi/AvVFaabaKAU/mqdefault.jpg",
-      "viewCount": 596729,
-      "likeCount": 4300,
+      "viewCount": 596907,
+      "likeCount": 4301,
       "commentCount": 216
     },
     {
@@ -17193,7 +17291,7 @@
       "publishedAt": "2026-11-03T06:12:35Z",
       "thumbnail": "https://i.ytimg.com/vi/ztjlZA35v9I/mqdefault.jpg",
       "viewCount": 21821,
-      "likeCount": 4547,
+      "likeCount": 4548,
       "commentCount": 169
     },
     {
@@ -17248,8 +17346,8 @@
       "title": "작고 사소한 혜택도 공정하게",
       "publishedAt": "2026-11-03T05:22:26Z",
       "thumbnail": "https://i.ytimg.com/vi/UAnARWI0ciI/mqdefault.jpg",
-      "viewCount": 14392,
-      "likeCount": 5144,
+      "viewCount": 14393,
+      "likeCount": 5145,
       "commentCount": 195
     },
     {
@@ -17262,8 +17360,8 @@
       "title": "내년 예산은 민생 디딤돌!",
       "publishedAt": "2026-11-03T05:20:41Z",
       "thumbnail": "https://i.ytimg.com/vi/bfSh_NB_ON4/mqdefault.jpg",
-      "viewCount": 25638,
-      "likeCount": 6090,
+      "viewCount": 25639,
+      "likeCount": 6091,
       "commentCount": 228
     },
     {
@@ -17556,7 +17654,7 @@
       "title": "상계2구역 재개발, 착공을 앞당길 현장의 과제를 살피다",
       "publishedAt": "2026-11-03T01:03:12Z",
       "thumbnail": "https://i.ytimg.com/vi/P3bYsNeAT1s/mqdefault.jpg",
-      "viewCount": 6765,
+      "viewCount": 6763,
       "likeCount": 23,
       "commentCount": 5
     },
@@ -17612,7 +17710,7 @@
       "title": "이것이 바로 국산 잠수함의 위력!! KSS-III Batch-II '서희함' 공개!",
       "publishedAt": "2026-11-03T01:00:03Z",
       "thumbnail": "https://i.ytimg.com/vi/HalBl5QlokA/mqdefault.jpg",
-      "viewCount": 127141,
+      "viewCount": 127202,
       "likeCount": 1163,
       "commentCount": 22
     },
@@ -17668,7 +17766,7 @@
       "title": "8년 만에 컴백한 국가대표 슈퍼컴 '한강'😎🖥️",
       "publishedAt": "2026-11-03T00:30:21Z",
       "thumbnail": "https://i.ytimg.com/vi/zMkw1WDgKmk/mqdefault.jpg",
-      "viewCount": 68153,
+      "viewCount": 68152,
       "likeCount": 151,
       "commentCount": 4
     },
@@ -17682,7 +17780,7 @@
       "title": "역대급 슈슈슈퍼컴 등장! 국가 슈퍼컴퓨터 6호기 '한강'",
       "publishedAt": "2026-11-03T00:30:15Z",
       "thumbnail": "https://i.ytimg.com/vi/sXXpeclUFyo/mqdefault.jpg",
-      "viewCount": 74116,
+      "viewCount": 74115,
       "likeCount": 278,
       "commentCount": 635
     },
@@ -17710,7 +17808,7 @@
       "title": "복잡한 정부 상담번호, 이제 110 하나로! 📞",
       "publishedAt": "2026-11-03T00:27:37Z",
       "thumbnail": "https://i.ytimg.com/vi/C3RNjZdFdnE/mqdefault.jpg",
-      "viewCount": 499581,
+      "viewCount": 500847,
       "likeCount": 183,
       "commentCount": 0
     },
@@ -17850,7 +17948,7 @@
       "title": "이 대통령 예산안 시정연설 요약정리. 모두의 성장을 위한 820조 원. 미래 대한민국을 위한 이 대통령의 의지#이재명#대통령# #이재명#대통령#예산안#시정연설#ktv#이매진",
       "publishedAt": "2026-11-02T13:23:13Z",
       "thumbnail": "https://i.ytimg.com/vi/9ehHd7hwKaE/mqdefault.jpg",
-      "viewCount": 21403,
+      "viewCount": 21402,
       "likeCount": 834,
       "commentCount": 54
     },
@@ -17892,7 +17990,7 @@
       "title": "[4K HDR] 더 큰 성장, 더 따뜻한 민생, 더 강한 대한민국 | 2027년도 예산안 시정연설",
       "publishedAt": "2026-11-02T11:24:20Z",
       "thumbnail": "https://i.ytimg.com/vi/fSoL2B__XE0/mqdefault.jpg",
-      "viewCount": 64108,
+      "viewCount": 64109,
       "likeCount": 2487,
       "commentCount": 468
     },
@@ -17920,8 +18018,8 @@
       "title": "[2027정부예산안] 더 이상 용납 없다",
       "publishedAt": "2026-11-02T09:27:38Z",
       "thumbnail": "https://i.ytimg.com/vi/6oRL-_lPdO8/mqdefault.jpg",
-      "viewCount": 313249,
-      "likeCount": 1334,
+      "viewCount": 313862,
+      "likeCount": 1336,
       "commentCount": 2
     },
     {
@@ -17934,7 +18032,7 @@
       "title": "오늘보다 내일이 더 희망찬 나라, 대한민국",
       "publishedAt": "2026-11-02T09:04:49Z",
       "thumbnail": "https://i.ytimg.com/vi/vIXLr-2oX7E/mqdefault.jpg",
-      "viewCount": 30045,
+      "viewCount": 30048,
       "likeCount": 6024,
       "commentCount": 586
     },
@@ -17962,7 +18060,7 @@
       "title": "너에겐 있어, 1초능력 ⚡",
       "publishedAt": "2026-11-02T09:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/KSRIcLnWgWM/mqdefault.jpg",
-      "viewCount": 7419,
+      "viewCount": 7415,
       "likeCount": 80,
       "commentCount": 10
     },
@@ -18018,7 +18116,7 @@
       "title": "[2027정부예산안] 단 한순간도 놓치지 않겠습니다",
       "publishedAt": "2026-11-02T09:00:02Z",
       "thumbnail": "https://i.ytimg.com/vi/bt2YHyhjnUw/mqdefault.jpg",
-      "viewCount": 226661,
+      "viewCount": 227526,
       "likeCount": 437,
       "commentCount": 0
     },
@@ -18060,8 +18158,8 @@
       "title": "[가슴 뛰게 하는 4분] 함께 배워보는 심폐소생술 | 2025 개정판",
       "publishedAt": "2026-11-02T08:42:29Z",
       "thumbnail": "https://i.ytimg.com/vi/xa5fhqHN0Sg/mqdefault.jpg",
-      "viewCount": 513575,
-      "likeCount": 56,
+      "viewCount": 513576,
+      "likeCount": 57,
       "commentCount": 21
     },
     {
@@ -18074,7 +18172,7 @@
       "title": "국민을 지킨 영웅, 우리가 기억해야 할 이름｜2026 메모리얼데이",
       "publishedAt": "2026-11-02T08:39:58Z",
       "thumbnail": "https://i.ytimg.com/vi/cJwakFT9nF4/mqdefault.jpg",
-      "viewCount": 14602,
+      "viewCount": 14577,
       "likeCount": 30,
       "commentCount": 3
     },
@@ -18186,7 +18284,7 @@
       "title": "온통 울긋불긋한 기암절벽!? 우리나라 단풍 명소는 어디? #shorts",
       "publishedAt": "2026-11-02T08:00:19Z",
       "thumbnail": "https://i.ytimg.com/vi/OcGMF29i-18/mqdefault.jpg",
-      "viewCount": 3901,
+      "viewCount": 3902,
       "likeCount": 37,
       "commentCount": 0
     },
@@ -18256,7 +18354,7 @@
       "title": "2027년 국가데이터처 핵심 사업 정부 예산안",
       "publishedAt": "2026-11-02T06:40:03Z",
       "thumbnail": "https://i.ytimg.com/vi/YkU0xmJ8sZ8/mqdefault.jpg",
-      "viewCount": 226150,
+      "viewCount": 227885,
       "likeCount": 246,
       "commentCount": 11
     },
@@ -18285,7 +18383,7 @@
       "publishedAt": "2026-11-02T06:28:14Z",
       "thumbnail": "https://i.ytimg.com/vi/cmC7ZtkJTSY/mqdefault.jpg",
       "viewCount": 41446,
-      "likeCount": 9509,
+      "likeCount": 9510,
       "commentCount": 644
     },
     {
@@ -18368,7 +18466,7 @@
       "title": "\"암표, 이제 그만!\" KT 위즈 고영표 선수가 전하는 메시지⚾",
       "publishedAt": "2026-11-02T05:04:09Z",
       "thumbnail": "https://i.ytimg.com/vi/EwuLAL_jFXA/mqdefault.jpg",
-      "viewCount": 2137,
+      "viewCount": 2138,
       "likeCount": 93,
       "commentCount": 4
     },
@@ -18396,7 +18494,7 @@
       "title": "원민경 장관 x 추적단불꽃 대표🚨디지털성범죄 OUT",
       "publishedAt": "2026-11-02T05:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/iN0ehulyXwY/mqdefault.jpg",
-      "viewCount": 21137,
+      "viewCount": 21308,
       "likeCount": 49,
       "commentCount": 7
     },
@@ -18424,7 +18522,7 @@
       "title": "과거로 보낸 단 하나의 메시지 '미래대응기금' | SF Cinematic Film",
       "publishedAt": "2026-11-02T04:51:32Z",
       "thumbnail": "https://i.ytimg.com/vi/OHb7cBk5q_g/mqdefault.jpg",
-      "viewCount": 107896,
+      "viewCount": 107924,
       "likeCount": 66,
       "commentCount": 12
     },
@@ -18550,7 +18648,7 @@
       "title": "(1분뉴스) 인공지능(AI)이 여는 바다, 미래 수산양식 산업을 만나다! #1분뉴스 #해수부 #AI #인공지능 #양식 #박람회 #양식장 #체험 #서울광장 #양식수산물",
       "publishedAt": "2026-11-02T03:00:32Z",
       "thumbnail": "https://i.ytimg.com/vi/8CWO7yBk9Sc/mqdefault.jpg",
-      "viewCount": 310,
+      "viewCount": 309,
       "likeCount": 8,
       "commentCount": 5
     },
@@ -18606,7 +18704,7 @@
       "title": "[안전은 전공입니다 EP.02] 오늘 바로 전북대! 그런데, 전과 첫날부터 맨 앞자리요?🤣",
       "publishedAt": "2026-11-02T02:00:37Z",
       "thumbnail": "https://i.ytimg.com/vi/VPy-GfLLORA/mqdefault.jpg",
-      "viewCount": 26947,
+      "viewCount": 26938,
       "likeCount": 550,
       "commentCount": 801
     },
@@ -18662,8 +18760,8 @@
       "title": "평화경제·공동성장의 한반도 2027년 통일부 예산안",
       "publishedAt": "2026-11-02T01:43:44Z",
       "thumbnail": "https://i.ytimg.com/vi/ivmHf9nJjTI/mqdefault.jpg",
-      "viewCount": 612019,
-      "likeCount": 1532,
+      "viewCount": 612786,
+      "likeCount": 1537,
       "commentCount": 5
     },
     {
@@ -18676,7 +18774,7 @@
       "title": "[AI 숏드라마] 퇴근하려다 다른 세계에 떨어졌다 🎬 EP.1~4 몰아보기",
       "publishedAt": "2026-11-02T01:16:20Z",
       "thumbnail": "https://i.ytimg.com/vi/2q1tUbGZYxI/mqdefault.jpg",
-      "viewCount": 354715,
+      "viewCount": 355136,
       "likeCount": 634,
       "commentCount": 4
     },
@@ -18704,7 +18802,7 @@
       "title": "세무조사 날짜를 직접 고른다고? 종합소득세 11월 납부의 비밀! [국세매거진] #국세청 #세금 #절세",
       "publishedAt": "2026-11-02T01:00:26Z",
       "thumbnail": "https://i.ytimg.com/vi/NOp_-UN5xu4/mqdefault.jpg",
-      "viewCount": 1452,
+      "viewCount": 1453,
       "likeCount": 11,
       "commentCount": 1
     },
@@ -18760,7 +18858,7 @@
       "title": "🎓 등록금 부담은 DOWN! 지역 대학생 장학금은 UP!",
       "publishedAt": "2026-11-02T00:25:01Z",
       "thumbnail": "https://i.ytimg.com/vi/iOhdGd95S9U/mqdefault.jpg",
-      "viewCount": 458451,
+      "viewCount": 456759,
       "likeCount": 131,
       "commentCount": 134
     },
@@ -18774,7 +18872,7 @@
       "title": "의약품 부작용이 의심된다면, 어떻게 대처해야 할까요? 💊",
       "publishedAt": "2026-11-02T00:10:13Z",
       "thumbnail": "https://i.ytimg.com/vi/khREIhLovOw/mqdefault.jpg",
-      "viewCount": 395,
+      "viewCount": 397,
       "likeCount": 4,
       "commentCount": 0
     },
@@ -18788,7 +18886,7 @@
       "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 신나NEON | 힙한 아이돌 노래 모음",
       "publishedAt": "2026-11-01T22:00:35Z",
       "thumbnail": "https://i.ytimg.com/vi/R1Hwx-87i84/mqdefault.jpg",
-      "viewCount": 3639,
+      "viewCount": 3640,
       "likeCount": 19,
       "commentCount": 4
     },
@@ -18830,8 +18928,8 @@
       "title": "농어촌기본소득 분석 중🧐 재명로그",
       "publishedAt": "2026-11-01T03:45:15Z",
       "thumbnail": "https://i.ytimg.com/vi/O6jphESSXm0/mqdefault.jpg",
-      "viewCount": 133934,
-      "likeCount": 8179,
+      "viewCount": 133939,
+      "likeCount": 8181,
       "commentCount": 1130
     },
     {
@@ -18844,7 +18942,7 @@
       "title": "국토교통부가 만들어가는 더 편리한 이동의 미래",
       "publishedAt": "2026-11-01T02:00:55Z",
       "thumbnail": "https://i.ytimg.com/vi/tyN0AKef0P4/mqdefault.jpg",
-      "viewCount": 230885,
+      "viewCount": 231089,
       "likeCount": 24,
       "commentCount": 0
     },
@@ -18858,7 +18956,7 @@
       "title": "국토교통부가 만들어가는 더 편리한 이동의 미래",
       "publishedAt": "2026-11-01T02:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/NbOqrnD8iBQ/mqdefault.jpg",
-      "viewCount": 84527,
+      "viewCount": 84438,
       "likeCount": 10,
       "commentCount": 4
     },
@@ -18872,7 +18970,7 @@
       "title": "[잼's week] 🍂바람은 차가워져도 국민을 향한 걸음은 늘 따뜻했던 이 대통령의 10월의 마지막 주를 한편에~ 이번주 잼'위크🍁🗂️",
       "publishedAt": "2026-11-01T01:00:23Z",
       "thumbnail": "https://i.ytimg.com/vi/6QpzcoKC8ww/mqdefault.jpg",
-      "viewCount": 19958,
+      "viewCount": 19956,
       "likeCount": 857,
       "commentCount": 63
     },
@@ -18914,8 +19012,8 @@
       "title": "대통령의 꿈",
       "publishedAt": "2026-10-31T13:09:27Z",
       "thumbnail": "https://i.ytimg.com/vi/Cxg1TIaWFhQ/mqdefault.jpg",
-      "viewCount": 134945,
-      "likeCount": 18769,
+      "viewCount": 135165,
+      "likeCount": 18790,
       "commentCount": 872
     },
     {
@@ -18928,8 +19026,8 @@
       "title": "앗! 이동장터 ㅇㅇ보다 빠르다",
       "publishedAt": "2026-10-31T12:37:55Z",
       "thumbnail": "https://i.ytimg.com/vi/DvHocMkJOjo/mqdefault.jpg",
-      "viewCount": 339057,
-      "likeCount": 20908,
+      "viewCount": 339080,
+      "likeCount": 20911,
       "commentCount": 675
     },
     {
@@ -18984,8 +19082,8 @@
       "title": "이거 제 이모지야",
       "publishedAt": "2026-10-31T09:19:35Z",
       "thumbnail": "https://i.ytimg.com/vi/N3dNzXTlJEo/mqdefault.jpg",
-      "viewCount": 96247,
-      "likeCount": 13180,
+      "viewCount": 96253,
+      "likeCount": 13181,
       "commentCount": 544
     },
     {
@@ -18998,7 +19096,7 @@
       "title": "청송에서 만난 배추전🥬",
       "publishedAt": "2026-10-31T09:19:09Z",
       "thumbnail": "https://i.ytimg.com/vi/-4h-3BwvkEo/mqdefault.jpg",
-      "viewCount": 530111,
+      "viewCount": 530125,
       "likeCount": 30176,
       "commentCount": 2120
     },
@@ -19012,7 +19110,7 @@
       "title": "청송군 매출 1등 비결은?",
       "publishedAt": "2026-10-31T09:17:17Z",
       "thumbnail": "https://i.ytimg.com/vi/WdkP9VOKlQg/mqdefault.jpg",
-      "viewCount": 76197,
+      "viewCount": 76204,
       "likeCount": 12340,
       "commentCount": 551
     },
@@ -19026,9 +19124,9 @@
       "title": "농어촌 기본소득 일타강사 이재명",
       "publishedAt": "2026-10-31T09:16:55Z",
       "thumbnail": "https://i.ytimg.com/vi/1HT28U4Jkts/mqdefault.jpg",
-      "viewCount": 163976,
-      "likeCount": 19197,
-      "commentCount": 1193
+      "viewCount": 164002,
+      "likeCount": 19199,
+      "commentCount": 1194
     },
     {
       "group": "기타",
@@ -19040,8 +19138,8 @@
       "title": "👀???",
       "publishedAt": "2026-10-31T09:16:35Z",
       "thumbnail": "https://i.ytimg.com/vi/Vw2KnTo9z64/mqdefault.jpg",
-      "viewCount": 64266,
-      "likeCount": 9381,
+      "viewCount": 64271,
+      "likeCount": 9382,
       "commentCount": 414
     },
     {
@@ -19054,8 +19152,8 @@
       "title": "대통령도 놀란 장사의신",
       "publishedAt": "2026-10-31T09:16:06Z",
       "thumbnail": "https://i.ytimg.com/vi/0cGIHWPEmJo/mqdefault.jpg",
-      "viewCount": 219577,
-      "likeCount": 16304,
+      "viewCount": 219584,
+      "likeCount": 16305,
       "commentCount": 464
     },
     {
@@ -19068,7 +19166,7 @@
       "title": "나보다 인기가 많네?",
       "publishedAt": "2026-10-31T09:15:44Z",
       "thumbnail": "https://i.ytimg.com/vi/lD5QN7Lg_S8/mqdefault.jpg",
-      "viewCount": 103289,
+      "viewCount": 103290,
       "likeCount": 14327,
       "commentCount": 471
     },
@@ -19138,7 +19236,7 @@
       "title": "📡 통신이 멈춰도, 국민의 일상은 멈추지 않도록!",
       "publishedAt": "2026-10-31T02:44:33Z",
       "thumbnail": "https://i.ytimg.com/vi/_UvlXNgKUfo/mqdefault.jpg",
-      "viewCount": 25966,
+      "viewCount": 25965,
       "likeCount": 122,
       "commentCount": 1
     },
@@ -19250,7 +19348,7 @@
       "title": "마주친다면 '이 말' 보다 좋은 건 없습니다",
       "publishedAt": "2026-10-30T11:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/Cb0JMTB5G0w/mqdefault.jpg",
-      "viewCount": 2257,
+      "viewCount": 2259,
       "likeCount": 39,
       "commentCount": 2
     },
@@ -19292,7 +19390,7 @@
       "title": "우즈벡에서 고구려인을 만났습니다(고려인은 ❌) | 한인상회 with 잰잰바리 Ep.5",
       "publishedAt": "2026-10-30T10:00:23Z",
       "thumbnail": "https://i.ytimg.com/vi/HY7_ShRIl8g/mqdefault.jpg",
-      "viewCount": 16611,
+      "viewCount": 16615,
       "likeCount": 152,
       "commentCount": 16
     },
@@ -19390,7 +19488,7 @@
       "title": "도박의 위험으로부터 청소년을 지킬 수 있도록! 🛡️💪",
       "publishedAt": "2026-10-30T09:00:39Z",
       "thumbnail": "https://i.ytimg.com/vi/xZYIpPDMipU/mqdefault.jpg",
-      "viewCount": 69820,
+      "viewCount": 70028,
       "likeCount": 379,
       "commentCount": 1
     },
@@ -19544,7 +19642,7 @@
       "title": "관광버스에서 들려온 심상치 않은 음악 소리? #shorts",
       "publishedAt": "2026-10-30T08:30:01Z",
       "thumbnail": "https://i.ytimg.com/vi/RRCQKtmDO_c/mqdefault.jpg",
-      "viewCount": 129828,
+      "viewCount": 129835,
       "likeCount": 974,
       "commentCount": 100
     },
@@ -19586,8 +19684,8 @@
       "title": "[성장일기] 8부. 생명을 살리는 심폐소생술!",
       "publishedAt": "2026-10-30T08:11:25Z",
       "thumbnail": "https://i.ytimg.com/vi/jl1qtSybsIU/mqdefault.jpg",
-      "viewCount": 390375,
-      "likeCount": 963,
+      "viewCount": 390380,
+      "likeCount": 965,
       "commentCount": 1573
     },
     {
@@ -19614,7 +19712,7 @@
       "title": "충격 그 자체-!✨궁궐 창호지에 구멍 내는 뜻밖의 손님은 누구?!🐦 (with. 까치·펭귄 전문가 이원영박사)#창호지를지켜줘",
       "publishedAt": "2026-10-30T08:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/LwD8hD3hhBs/mqdefault.jpg",
-      "viewCount": 185268,
+      "viewCount": 185269,
       "likeCount": 118,
       "commentCount": 45
     },
@@ -19628,7 +19726,7 @@
       "title": "궁까치에게 통역해 줄 분 찾아옴📬",
       "publishedAt": "2026-10-30T08:00:26Z",
       "thumbnail": "https://i.ytimg.com/vi/dn5G_wKEniQ/mqdefault.jpg",
-      "viewCount": 1429,
+      "viewCount": 1430,
       "likeCount": 29,
       "commentCount": 0
     },
@@ -19712,8 +19810,8 @@
       "title": "[🎙️데이터 데스크 8화] 10월, 국가데이터처에 생긴 일 🕶️✨",
       "publishedAt": "2026-10-30T07:11:01Z",
       "thumbnail": "https://i.ytimg.com/vi/G4ymy6xGcMo/mqdefault.jpg",
-      "viewCount": 33850,
-      "likeCount": 115,
+      "viewCount": 33849,
+      "likeCount": 116,
       "commentCount": 4
     },
     {
@@ -19810,7 +19908,7 @@
       "title": "[안전은 전공입니다 EP.01 하이라이트] 카이스트 출신도 당황?! 강의가 전부 영어😳",
       "publishedAt": "2026-10-30T06:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/9b70tIw0phU/mqdefault.jpg",
-      "viewCount": 16287,
+      "viewCount": 16288,
       "likeCount": 25,
       "commentCount": 0
     },
@@ -19880,7 +19978,7 @@
       "title": "이재명 대통령이 위촉(임명)장을 건넨 사람들은 누구?! 새로운 역할을 맡은 주인공들~ #이재명#대통령#현장영상#ktv#이매진",
       "publishedAt": "2026-10-30T05:35:58Z",
       "thumbnail": "https://i.ytimg.com/vi/mb85NO1wnVk/mqdefault.jpg",
-      "viewCount": 31441,
+      "viewCount": 31440,
       "likeCount": 1636,
       "commentCount": 144
     },
@@ -19964,7 +20062,7 @@
       "title": "야경 보러 간다면서요…? 🌃 신입사원 디플리 EP.2 🤖",
       "publishedAt": "2026-10-30T05:00:37Z",
       "thumbnail": "https://i.ytimg.com/vi/ZpaR7ux9vbI/mqdefault.jpg",
-      "viewCount": 310336,
+      "viewCount": 310464,
       "likeCount": 868,
       "commentCount": 0
     },
@@ -20412,7 +20510,7 @@
       "title": "새로운 미래를 위한 이정표🇰🇷🇩🇪",
       "publishedAt": "2026-10-29T15:08:34Z",
       "thumbnail": "https://i.ytimg.com/vi/nhsk2yQMRPE/mqdefault.jpg",
-      "viewCount": 24878,
+      "viewCount": 24879,
       "likeCount": 3718,
       "commentCount": 266
     },
@@ -20441,7 +20539,7 @@
       "publishedAt": "2026-10-29T13:43:07Z",
       "thumbnail": "https://i.ytimg.com/vi/SgFCKUXbG58/mqdefault.jpg",
       "viewCount": 23460,
-      "likeCount": 4872,
+      "likeCount": 4873,
       "commentCount": 258
     },
     {
@@ -20552,7 +20650,7 @@
       "title": "걸그룹이 시장에 온 이유? 전통시장 CM송 만들기!｜중소돌 대작전 EP.1",
       "publishedAt": "2026-10-29T10:36:02Z",
       "thumbnail": "https://i.ytimg.com/vi/_T7lbJaMX-Q/mqdefault.jpg",
-      "viewCount": 132499,
+      "viewCount": 132501,
       "likeCount": 462,
       "commentCount": 331
     },
@@ -20608,7 +20706,7 @@
       "title": "기초연금 온라인 신청이 더 쉬워집니다",
       "publishedAt": "2026-10-29T09:37:00Z",
       "thumbnail": "https://i.ytimg.com/vi/hsh43ICSNug/mqdefault.jpg",
-      "viewCount": 1045,
+      "viewCount": 1249,
       "likeCount": 9,
       "commentCount": 2
     },
@@ -20706,7 +20804,7 @@
       "title": "10월에 일본 도쿄가 30도?  🌡️ 기상청이 알려드립니다 #생생날씨정보통 #shorts",
       "publishedAt": "2026-10-29T09:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/9l_bx4-_Ak4/mqdefault.jpg",
-      "viewCount": 1152116,
+      "viewCount": 1152153,
       "likeCount": 8476,
       "commentCount": 68
     },
@@ -20776,7 +20874,7 @@
       "title": "🎬 씬나는 데이터 1화 [전지적 참견시점]",
       "publishedAt": "2026-10-29T08:34:45Z",
       "thumbnail": "https://i.ytimg.com/vi/vLA_ag7SuCc/mqdefault.jpg",
-      "viewCount": 90460,
+      "viewCount": 90459,
       "likeCount": 147,
       "commentCount": 24
     },
@@ -20790,7 +20888,7 @@
       "title": "유치원에서 책 읽더니, 우리 아이가 달라졌어요?!",
       "publishedAt": "2026-10-29T08:21:22Z",
       "thumbnail": "https://i.ytimg.com/vi/pUGii_Z8s9M/mqdefault.jpg",
-      "viewCount": 33922,
+      "viewCount": 33921,
       "likeCount": 142,
       "commentCount": 0
     },
@@ -20818,7 +20916,7 @@
       "title": "사회복무 시작 전, 솔직히 이게 제일 걱정됐어요😳",
       "publishedAt": "2026-10-29T08:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/Ux54jMEmWiw/mqdefault.jpg",
-      "viewCount": 188730,
+      "viewCount": 188716,
       "likeCount": 448,
       "commentCount": 4
     },
@@ -20958,7 +21056,7 @@
       "title": "기관사칭 사기, 이렇게 시작됩니다 ‘우리 이제 이별합시다’ 이별캠프 EP.4",
       "publishedAt": "2026-10-29T07:00:40Z",
       "thumbnail": "https://i.ytimg.com/vi/5OUiYDte6xE/mqdefault.jpg",
-      "viewCount": 5739,
+      "viewCount": 5742,
       "likeCount": 258,
       "commentCount": 265
     },
@@ -21378,7 +21476,7 @@
       "title": "진심이 연체되었습니다 [빚으로 답답할 때 ☎️1375]",
       "publishedAt": "2026-10-29T02:25:26Z",
       "thumbnail": "https://i.ytimg.com/vi/tBGjBj7A3MA/mqdefault.jpg",
-      "viewCount": 511977,
+      "viewCount": 512257,
       "likeCount": 101,
       "commentCount": 116
     },
@@ -21392,7 +21490,7 @@
       "title": "축·수산물 PLS 낙서가 AI를 만나면?",
       "publishedAt": "2026-10-29T02:22:33Z",
       "thumbnail": "https://i.ytimg.com/vi/yB-YYIMy9nM/mqdefault.jpg",
-      "viewCount": 230,
+      "viewCount": 229,
       "likeCount": 3,
       "commentCount": 0
     },
@@ -21406,7 +21504,7 @@
       "title": "특허 서류 놓치지 않는 꿀팁! 주소 자동 변경 서비스",
       "publishedAt": "2026-10-29T02:19:30Z",
       "thumbnail": "https://i.ytimg.com/vi/2Bc9Kmf_XTI/mqdefault.jpg",
-      "viewCount": 710,
+      "viewCount": 711,
       "likeCount": 11,
       "commentCount": 1
     },
@@ -21420,7 +21518,7 @@
       "title": "👨🏻❤️‍🔥못 말리는 울 아빠 열정, 그 끝에는…💙ㅣ #국가정상화_프로젝트 🎬우리 아빠는",
       "publishedAt": "2026-10-29T02:11:58Z",
       "thumbnail": "https://i.ytimg.com/vi/puGIoK3RWOw/mqdefault.jpg",
-      "viewCount": 4559242,
+      "viewCount": 4564668,
       "likeCount": 795,
       "commentCount": 704
     },
@@ -21602,7 +21700,7 @@
       "title": "'제복근무자 감사케이크'｜오늘도 우리 곁의 또 하나의 국가대표",
       "publishedAt": "2026-10-29T00:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/9gjoBL1ZEl8/mqdefault.jpg",
-      "viewCount": 4856437,
+      "viewCount": 4860646,
       "likeCount": 80,
       "commentCount": 7
     },
@@ -21630,7 +21728,7 @@
       "title": "문화예술진흥법 개정을 위한 정책 토론회",
       "publishedAt": "2026-10-28T21:23:11Z",
       "thumbnail": "https://i.ytimg.com/vi/-DVFJjNVvCI/mqdefault.jpg",
-      "viewCount": 1458,
+      "viewCount": 1459,
       "likeCount": 10,
       "commentCount": 0
     },
@@ -21701,7 +21799,7 @@
       "publishedAt": "2026-10-28T10:53:54Z",
       "thumbnail": "https://i.ytimg.com/vi/VaKz9-k5NaI/mqdefault.jpg",
       "viewCount": 21213,
-      "likeCount": 3873,
+      "likeCount": 3874,
       "commentCount": 185
     },
     {
@@ -21771,7 +21869,7 @@
       "publishedAt": "2026-10-28T09:32:00Z",
       "thumbnail": "https://i.ytimg.com/vi/CXxboAM-QeM/mqdefault.jpg",
       "viewCount": 21644,
-      "likeCount": 6036,
+      "likeCount": 6037,
       "commentCount": 302
     },
     {
@@ -21854,7 +21952,7 @@
       "title": "2026 세계신안보포럼(WESF) 하이라이트",
       "publishedAt": "2026-10-28T09:15:10Z",
       "thumbnail": "https://i.ytimg.com/vi/bgyilpNuWAA/mqdefault.jpg",
-      "viewCount": 773,
+      "viewCount": 774,
       "likeCount": 9,
       "commentCount": 1
     },
@@ -22148,7 +22246,7 @@
       "title": "위기청소년의 인생을 바꾼 학교전담경찰관 | 현장 POL커싱 EP.2 #shorts",
       "publishedAt": "2026-10-28T08:00:39Z",
       "thumbnail": "https://i.ytimg.com/vi/I7Uf7hTiS_o/mqdefault.jpg",
-      "viewCount": 6718,
+      "viewCount": 6724,
       "likeCount": 77,
       "commentCount": 5
     },
@@ -22190,7 +22288,7 @@
       "title": "IMF, 한국 경제성장률 3.3% 전망! 반도체 호황에도 체감이 다른 이유 | 뉴스, 왜?",
       "publishedAt": "2026-10-28T08:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/GiawCBdCTbY/mqdefault.jpg",
-      "viewCount": 171778,
+      "viewCount": 171780,
       "likeCount": 186,
       "commentCount": 34
     },
@@ -22232,7 +22330,7 @@
       "title": "사회복무요원에 대한 오해? 잠깐만요!🤚",
       "publishedAt": "2026-10-28T08:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/vbZzIomVl5M/mqdefault.jpg",
-      "viewCount": 208829,
+      "viewCount": 208846,
       "likeCount": 232,
       "commentCount": 4
     },
@@ -22260,7 +22358,7 @@
       "title": "부산 해운대 음주 추격전 #shorts",
       "publishedAt": "2026-10-28T07:30:35Z",
       "thumbnail": "https://i.ytimg.com/vi/Zq9oNKi0Z_I/mqdefault.jpg",
-      "viewCount": 32021,
+      "viewCount": 32028,
       "likeCount": 556,
       "commentCount": 57
     },
@@ -22386,7 +22484,7 @@
       "title": "💬 무물보 10편 “경쟁입찰 참가자격 등록증, 어디서 출력하나요?” #조달맨 #조달청 #나라장터",
       "publishedAt": "2026-10-28T06:45:20Z",
       "thumbnail": "https://i.ytimg.com/vi/ZSw71h_boJs/mqdefault.jpg",
-      "viewCount": 8068,
+      "viewCount": 8070,
       "likeCount": 25,
       "commentCount": 1
     },
@@ -22456,7 +22554,7 @@
       "title": "[안전은 전공입니다 EP.01] 카이스트에 돌아온 이독실, 이번엔 전과 도전?!🎓",
       "publishedAt": "2026-10-28T06:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/kvU04tkjC1k/mqdefault.jpg",
-      "viewCount": 40944,
+      "viewCount": 40943,
       "likeCount": 336,
       "commentCount": 368
     },
@@ -22554,7 +22652,7 @@
       "title": "붓 잡고 싶은 가을🍁, 무형유산 필장(筆匠) [이제는 국가유산]",
       "publishedAt": "2026-10-28T04:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/e45GHlvodxU/mqdefault.jpg",
-      "viewCount": 1799,
+      "viewCount": 1800,
       "likeCount": 40,
       "commentCount": 7
     },
@@ -22778,7 +22876,7 @@
       "title": "원로들, 평화체제를 말하다 | 정세현 전 통일부 장관",
       "publishedAt": "2026-10-28T01:00:16Z",
       "thumbnail": "https://i.ytimg.com/vi/LGdytVQthcs/mqdefault.jpg",
-      "viewCount": 116354,
+      "viewCount": 116355,
       "likeCount": 125,
       "commentCount": 31
     },
@@ -22806,7 +22904,7 @@
       "title": "마약류 문제로 고민하고 있다면? 언제 어디서나 1342 📞",
       "publishedAt": "2026-10-28T00:26:00Z",
       "thumbnail": "https://i.ytimg.com/vi/6daQ2fofhPU/mqdefault.jpg",
-      "viewCount": 36229,
+      "viewCount": 35764,
       "likeCount": 6,
       "commentCount": 2
     },
@@ -22848,7 +22946,7 @@
       "title": "청년의 4개월이 제조업의 10년을 바꾼다, 포스코 K-뉴딜 아카데미🏭｜KNDA 뉴딜마불",
       "publishedAt": "2026-10-27T23:30:27Z",
       "thumbnail": "https://i.ytimg.com/vi/TJ7GCEYIMJI/mqdefault.jpg",
-      "viewCount": 103357,
+      "viewCount": 103626,
       "likeCount": 701,
       "commentCount": 1474
     },
@@ -22918,7 +23016,7 @@
       "title": "'역사적 기록' 세계 2위로! 하지만 아직 목마르다! 이재명 정부가 성장의 흐름을 따라 일으킬 변화의 물결은 무엇? #이재명#대통령#이재명대통령#국무회의#ktv#이매진",
       "publishedAt": "2026-10-27T12:32:52Z",
       "thumbnail": "https://i.ytimg.com/vi/jlC3Vg38u24/mqdefault.jpg",
-      "viewCount": 17768,
+      "viewCount": 17769,
       "likeCount": 760,
       "commentCount": 68
     },
@@ -22988,9 +23086,9 @@
       "title": "❤️ 어떻게 사랑이 변하니? ㅣ 고향사랑해 💗",
       "publishedAt": "2026-10-27T10:08:21Z",
       "thumbnail": "https://i.ytimg.com/vi/gUcwXnK7A_o/mqdefault.jpg",
-      "viewCount": 1092551,
-      "likeCount": 966,
-      "commentCount": 1197
+      "viewCount": 1092552,
+      "likeCount": 967,
+      "commentCount": 1198
     },
     {
       "group": "차관급",
@@ -23031,7 +23129,7 @@
       "publishedAt": "2026-10-27T09:31:05Z",
       "thumbnail": "https://i.ytimg.com/vi/swN_6p1BhUs/mqdefault.jpg",
       "viewCount": 38895,
-      "likeCount": 7502,
+      "likeCount": 7503,
       "commentCount": 415
     },
     {
@@ -23156,7 +23254,7 @@
       "title": "돈을 빌렸을 뿐인데 협박까지.. 불법사금융 피해 참지 마세요! | 빚으로 답답할 때 1375 [뮹이 리포트🎙️]",
       "publishedAt": "2026-10-27T09:00:02Z",
       "thumbnail": "https://i.ytimg.com/vi/0yJBjS5768Y/mqdefault.jpg",
-      "viewCount": 642401,
+      "viewCount": 643017,
       "likeCount": 122,
       "commentCount": 74
     },
@@ -23338,8 +23436,8 @@
       "title": "그게 바로 국민의 마음",
       "publishedAt": "2026-10-27T08:09:17Z",
       "thumbnail": "https://i.ytimg.com/vi/hocPafLKqjI/mqdefault.jpg",
-      "viewCount": 17846,
-      "likeCount": 4184,
+      "viewCount": 17847,
+      "likeCount": 4185,
       "commentCount": 199
     },
     {
@@ -23422,7 +23520,7 @@
       "title": "수천 개의 응원 댓글에 힘을 얻은 경찰관 #shorts",
       "publishedAt": "2026-10-27T07:43:05Z",
       "thumbnail": "https://i.ytimg.com/vi/fhzG07vJqoI/mqdefault.jpg",
-      "viewCount": 7634,
+      "viewCount": 7642,
       "likeCount": 114,
       "commentCount": 15
     },
@@ -23450,7 +23548,7 @@
       "title": "출동 나갔다 피습당했다. 동료의 비보를 들은 순간 #shorts",
       "publishedAt": "2026-10-27T07:37:22Z",
       "thumbnail": "https://i.ytimg.com/vi/9DP8yUZytAc/mqdefault.jpg",
-      "viewCount": 10938,
+      "viewCount": 10947,
       "likeCount": 177,
       "commentCount": 14
     },
@@ -23464,7 +23562,7 @@
       "title": "대출 상환이 막막한 사장님,  혼자 고민하지 마세요! | 빚으로 답답할 때 1375  [뮹이 리포트🎙️]",
       "publishedAt": "2026-10-27T07:15:46Z",
       "thumbnail": "https://i.ytimg.com/vi/dFzHHmAQcc8/mqdefault.jpg",
-      "viewCount": 681628,
+      "viewCount": 682186,
       "likeCount": 40,
       "commentCount": 1
     },
@@ -23576,7 +23674,7 @@
       "title": "[농업기술 11+12월호] 명인열전 장수용 명인~ 식량작물분야 #최고농업기술명인 선정🤩 #농촌진흥청 #농업기술",
       "publishedAt": "2026-10-27T06:12:37Z",
       "thumbnail": "https://i.ytimg.com/vi/hXJYYBCHCeY/mqdefault.jpg",
-      "viewCount": 1505,
+      "viewCount": 1504,
       "likeCount": 6,
       "commentCount": 2
     },
@@ -23604,7 +23702,7 @@
       "title": "진짜 수문장과 함께하는 궁궐 수호 대작전! ⌨️(with.수문장 나으리)",
       "publishedAt": "2026-10-27T06:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/n8f5LjcbvWU/mqdefault.jpg",
-      "viewCount": 2475,
+      "viewCount": 2473,
       "likeCount": 122,
       "commentCount": 4
     },
@@ -23647,7 +23745,7 @@
       "publishedAt": "2026-10-27T04:16:01Z",
       "thumbnail": "https://i.ytimg.com/vi/ko-yHH6fVJE/mqdefault.jpg",
       "viewCount": 21223,
-      "likeCount": 5216,
+      "likeCount": 5217,
       "commentCount": 261
     },
     {
@@ -23674,7 +23772,7 @@
       "title": "(26.10.27.) 이재명 대통령 제46회 국무회의",
       "publishedAt": "2026-10-27T02:48:40Z",
       "thumbnail": "https://i.ytimg.com/vi/_NnHqpAdpWU/mqdefault.jpg",
-      "viewCount": 42732,
+      "viewCount": 42730,
       "likeCount": 1606,
       "commentCount": 75
     },
@@ -23703,7 +23801,7 @@
       "publishedAt": "2026-10-27T02:02:49Z",
       "thumbnail": "https://i.ytimg.com/vi/aZdqttrPuo4/mqdefault.jpg",
       "viewCount": 46247,
-      "likeCount": 15,
+      "likeCount": 16,
       "commentCount": 3
     },
     {
@@ -23716,7 +23814,7 @@
       "title": "3대가 이어온 특별한 이야기🌳 우리 가족이 병역명문가라고?｜병역명문가 제도",
       "publishedAt": "2026-10-27T02:00:37Z",
       "thumbnail": "https://i.ytimg.com/vi/kk9mMszaPYg/mqdefault.jpg",
-      "viewCount": 1365924,
+      "viewCount": 1365925,
       "likeCount": 12,
       "commentCount": 24
     },
@@ -23814,7 +23912,7 @@
       "title": "우리 문화예술을 빛낸 예술가들 | 2026 문화예술유공 시상식",
       "publishedAt": "2026-10-26T21:07:40Z",
       "thumbnail": "https://i.ytimg.com/vi/pXe67MtoKFE/mqdefault.jpg",
-      "viewCount": 4039,
+      "viewCount": 4040,
       "likeCount": 40,
       "commentCount": 1
     },
@@ -23871,7 +23969,7 @@
       "publishedAt": "2026-10-26T10:28:06Z",
       "thumbnail": "https://i.ytimg.com/vi/vUKT1iK5rSA/mqdefault.jpg",
       "viewCount": 36167,
-      "likeCount": 7103,
+      "likeCount": 7104,
       "commentCount": 294
     },
     {
@@ -23940,7 +24038,7 @@
       "title": "대통령이 직접 듣습니다",
       "publishedAt": "2026-10-26T09:29:41Z",
       "thumbnail": "https://i.ytimg.com/vi/vY_RVvlcttE/mqdefault.jpg",
-      "viewCount": 30654,
+      "viewCount": 30656,
       "likeCount": 9419,
       "commentCount": 513
     },
@@ -23954,7 +24052,7 @@
       "title": "경고 안 되는 경고 마크?!☠️ 해골이 퇴출된 진짜 이유는?🤢",
       "publishedAt": "2026-10-26T09:15:17Z",
       "thumbnail": "https://i.ytimg.com/vi/48UhwxG8540/mqdefault.jpg",
-      "viewCount": 101939,
+      "viewCount": 101940,
       "likeCount": 322,
       "commentCount": 1055
     },
@@ -24052,7 +24150,7 @@
       "title": "퇴근도 포기한 사부님? 진짜 경찰이 된 계기 #shorts",
       "publishedAt": "2026-10-26T08:30:01Z",
       "thumbnail": "https://i.ytimg.com/vi/BhoFlX8nAz8/mqdefault.jpg",
-      "viewCount": 7288,
+      "viewCount": 7287,
       "likeCount": 88,
       "commentCount": 3
     },
@@ -24164,7 +24262,7 @@
       "title": "[#이재명 LIVE] 농어민의 목소리를 직접 듣겠습니다 | 농어민과의 대화",
       "publishedAt": "2026-10-26T07:28:11Z",
       "thumbnail": "https://i.ytimg.com/vi/Wb3kwPxazbU/mqdefault.jpg",
-      "viewCount": 170953,
+      "viewCount": 170958,
       "likeCount": 11153,
       "commentCount": 613
     },
@@ -24262,7 +24360,7 @@
       "title": "수출기업 주목!🚨 급변하는 글로벌 통상 위기 속 관세청이 제시하는 해법 | KOREA CUSTOMS WEEK 2026",
       "publishedAt": "2026-10-26T06:01:49Z",
       "thumbnail": "https://i.ytimg.com/vi/cSDY60Aaib4/mqdefault.jpg",
-      "viewCount": 1069,
+      "viewCount": 1065,
       "likeCount": 224,
       "commentCount": 10
     },
@@ -24402,7 +24500,7 @@
       "title": "일상 속 혁신제품을 찾아라! 창원 편 (with 끼루)",
       "publishedAt": "2026-10-26T04:17:53Z",
       "thumbnail": "https://i.ytimg.com/vi/CD1E8rpR4gE/mqdefault.jpg",
-      "viewCount": 66679,
+      "viewCount": 66677,
       "likeCount": 1007,
       "commentCount": 459
     },
@@ -24514,7 +24612,7 @@
       "title": "우리 AI의 이름을 지어주세요! 『모두의 AI 정책브랜드 대국민 공모전』🤖✨ #모두의AI #공모전 #정책브랜드",
       "publishedAt": "2026-10-26T01:17:45Z",
       "thumbnail": "https://i.ytimg.com/vi/H53T9uuJdm0/mqdefault.jpg",
-      "viewCount": 50079,
+      "viewCount": 50078,
       "likeCount": 109,
       "commentCount": 4
     },
@@ -24878,7 +24976,7 @@
       "title": "\"암표, 이제 그만!\" 삼성 라이온즈 김지찬 선수가 전하는 메시지⚾",
       "publishedAt": "2026-10-24T02:13:43Z",
       "thumbnail": "https://i.ytimg.com/vi/o4WW3qqB9LE/mqdefault.jpg",
-      "viewCount": 22569,
+      "viewCount": 22581,
       "likeCount": 415,
       "commentCount": 20
     },
@@ -236676,13 +236774,13 @@
     }
   ],
   "hotVideo": {
-    "group": "장관급",
-    "channelName": "과학기술정보통신부",
-    "title": "[세 번째 시간] 조회수 천만 돌파 기념! 90초 요약본",
-    "videoUrl": "https://www.youtube.com/watch?v=fc7_fNE3nE4",
-    "thumbnail": "https://i.ytimg.com/vi/fc7_fNE3nE4/mqdefault.jpg",
-    "publishedAt": "2026-11-19T06:25:32Z",
-    "viewCount": 1090018,
-    "deltaViews": 329974
+    "group": "차관급",
+    "channelName": "경찰청",
+    "title": "이제 부동산 투기로는 돈을 벌 수 없습니다 #shorts",
+    "videoUrl": "https://www.youtube.com/watch?v=UXygavelH0M",
+    "thumbnail": "https://i.ytimg.com/vi/UXygavelH0M/mqdefault.jpg",
+    "publishedAt": "2026-11-19T09:43:05Z",
+    "viewCount": 155091,
+    "deltaViews": 19544
   }
 }
